@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Flora Friulana – Chiavi dicotomiche</title>
+  <meta name="description" content="Chiavi dicotomiche per la flora friulana: seleziona la famiglia e naviga la chiave fino alla specie." />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="container header">
+    <h1>Flora Friulana</h1>
+    <div class="controls">
+      <label for="familySelect" class="visually-hidden">Scegli famiglia</label>
+      <select id="familySelect" aria-label="Seleziona famiglia">
+        <option value="">— scegli una famiglia —</option>
+      </select>
+
+      <button id="resetBtn" class="ghost" type="button" title="Azzera tutto" aria-label="Azzera tutto">Azzera</button>
+    </div>
+  </header>
+
+  <main class="container">
+    <section id="status" class="status" role="status" aria-live="polite"></section>
+
+    <section id="familyTitleWrap" class="family-title hidden">
+      <h2 id="familyTitle"></h2>
+    </section>
+
+    <nav id="breadcrumb" class="breadcrumb hidden" aria-label="Percorso"></nav>
+
+    <section id="keyContainer" class="key"></section>
+
+    <section id="speciesContainer" class="species"></section>
+  </main>
+
+  <footer class="container footer">
+    <small>
+      Dati: <code>keys_by_family.json</code> & <code>species.json</code> (UTF-8).
+      Nessuna immagine necessaria. Funziona su GitHub Pages.
+    </small>
+  </footer>
+
+  <script src="app.js" type="module"></script>
+</body>
+</html>
