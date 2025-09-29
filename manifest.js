@@ -1,0 +1,14 @@
+{
+  "name": "Flora Friulana – Chiavi dicotomiche",
+  "short_name": "Flora Friulana",
+  "description": "Chiavi dicotomiche per la flora friulana: scegli la famiglia e naviga fino alla specie.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b0c10",
+  "theme_color": "#0b0c10",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
