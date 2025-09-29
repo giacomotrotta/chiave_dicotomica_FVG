@@ -1,0 +1,1454 @@
+[
+  {
+    "id": "alismataceae_alisma_lanceolatum",
+    "scientificName": "Alisma lanceolatum With.",
+    "vernacularName": "Mestolaccia lanceolata",
+    "family": "Alismataceae",
+    "description": "I rad; 20-60 cm; VI-VIII; Paludi, fossi, canali con acque lente; P (C); R"
+  },
+  {
+    "id": "alismataceae_alisma_plantago_aquatica",
+    "scientificName": "Alisma plantago-aquatica L.",
+    "vernacularName": "Mestolaccia comune",
+    "family": "Alismataceae",
+    "description": "I rad; 30-100 cm; VI-VIII; Paludi, fossi, canneti, cariceti; L-C (M); F"
+  },
+  {
+    "id": "alismataceae_baldellia_ranunculoides",
+    "scientificName": "Baldellia ranunculoides (L.) Parl.",
+    "vernacularName": "Mestolaccia ranuncoloide",
+    "family": "Alismataceae",
+    "statusNotes": "VU IR!",
+    "description": "I rad; 10-30 cm; V-VII; paludi, torbiere, sponde; P; R"
+  },
+  {
+    "id": "alismataceae_sagittaria_latifolia",
+    "scientificName": "Sagittaria latifolia Willd.",
+    "vernacularName": "Sagittaria a foglie larghe",
+    "family": "Alismataceae",
+    "statusNotes": "N (N Amer.)",
+    "description": "I rad; 20-100 cm; VIII-IX; acque dolci ferme o in lento movimento; P-C; RR"
+  },
+  {
+    "id": "alismataceae_sagittaria_sagittifolia",
+    "scientificName": "Sagittaria sagittifolia L.",
+    "vernacularName": "Sagittaria comune",
+    "family": "Alismataceae",
+    "statusNotes": "EN",
+    "description": "I rad; 20-100 cm; VI-VIII; acque dolci ferme o in lento movimento; P; RR"
+  },
+  {
+    "scientificName": "Amaranthus albus L.",
+    "vernacularName": "Amaranto bianco C (N Amer.)",
+    "description": "T scap; 10-70 cm; VII-IX; incolti, habitat ruderalizzati; P; R",
+    "family": "Amaranthaceae",
+    "id": "amaranthaceae_amaranthus_albus_l"
+  },
+  {
+    "scientificName": "Amaranthus blitoides S. Watson",
+    "vernacularName": "Amaranto blitoide C (N Amer.)",
+    "description": "T scap; 10-50 cm; VII-X; incolti; P-C; RR",
+    "family": "Amaranthaceae",
+    "id": "amaranthaceae_amaranthus_blitoides_s_watson"
+  },
+  {
+    "scientificName": "Amaranthus blitum L.",
+    "vernacularName": "Amaranto livido [A. lividus L.]",
+    "description": "T scap; 10-80 cm; VII-X; incolti, habitat ruderalizzati, orti, aiole; P-C; PF",
+    "family": "Amaranthaceae",
+    "id": "amaranthaceae_amaranthus_blitum_l"
+  },
+  {
+    "scientificName": "Amaranthus bouchonii Thell.",
+    "vernacularName": "Amaranto di Bouchon N (O Europa?)",
+    "description": "T scap; 15-150 cm; VII-X; incolti, coltivi e loro margini, postcolture; P-C(M); PF",
+    "family": "Amaranthaceae",
+    "id": "amaranthaceae_amaranthus_bouchonii_thell"
+  },
+  {
+    "scientificName": "Amaranthus deflexus L.",
+    "vernacularName": "Amaranto prostrato N (S Amer.)",
+    "description": "T scap; 10-50 cm; VII-IX; incolti, habitat ruderalizzati; P-C; PF",
+    "family": "Amaranthaceae",
+    "id": "amaranthaceae_amaranthus_deflexus_l"
+  },
+  {
+    "scientificName": "Amaranthus emarginatus Salzm. ex Uline & W.L. Bray subsp. emarginatus",
+    "vernacularName": "Amaranto smarginato C (Amer. trop.)",
+    "description": "T scap; 10-50 cm; VII-X; habitat ruderalizzati, aiole; P; R",
+    "family": "Amaranthaceae",
+    "id": "amaranthaceae_amaranthus_emarginatus_salzm_ex_uline_w_l_bray_subsp_emarginatus"
+  },
+  {
+    "scientificName": "Amaranthus graecizans L. subsp. silvestris (Vill.) Brenan",
+    "vernacularName": "Amaranto blito-minore N (Reg. paleotrop.)",
+    "description": "T scap; 10-70 cm; VII-X; habitat ruderalizzati, orti; P-C; R",
+    "family": "Amaranthaceae",
+    "id": "amaranthaceae_amaranthus_graecizans_l_subsp_silvestris_vill_brenan"
+  },
+  {
+    "scientificName": "Amaranthus hybridus L. subsp caudatus (L.) Iamonico & Galasso",
+    "vernacularName": "Amaranto coda rossa C (S Amer.?) [A. caudatus L.]",
+    "description": "T scap; 20-90 cm; VII-X; incolti; P-C; RR",
+    "family": "Amaranthaceae",
+    "id": "amaranthaceae_amaranthus_hybridus_l_subsp_caudatus_l_iamonico_galasso"
+  },
+  {
+    "scientificName": "Amaranthus hybridus L. subsp. cruentus (L.) Thell.",
+    "vernacularName": "Amaranto cruento N ( N Amer.) [A. cruentus L.]",
+    "description": "T scap; 15-120 cm; VII-X; incolti, margini di strade; P-C; R",
+    "family": "Amaranthaceae",
+    "id": "amaranthaceae_amaranthus_hybridus_l_subsp_cruentus_l_thell"
+  },
+  {
+    "scientificName": "Amaranthus hybridus L. subsp. hybridus",
+    "vernacularName": "Amaranto ibrido N (Amer. trop. e subtrop.) [A. patulus Bertol.]",
+    "description": "T scap; 15-100 cm; VII-X; incolti, coltivi e loro margini, postcolture; P-M; F",
+    "family": "Amaranthaceae",
+    "id": "amaranthaceae_amaranthus_hybridus_l_subsp_hybridus"
+  },
+  {
+    "scientificName": "Amaranthus hybridus L. subsp. hypochondriacus (L.) Thell.",
+    "vernacularName": "Amaranto triste C (N Amer.) [A. hypochondriacus L.]",
+    "description": "T scap; 15-100 cm; VII-X; incolti; P-C; RR",
+    "family": "Amaranthaceae",
+    "id": "amaranthaceae_amaranthus_hybridus_l_subsp_hypochondriacus_l_thell"
+  },
+  {
+    "scientificName": "Amaranthus powellii S. Watson",
+    "vernacularName": "Amaranto di Powell N (N e S Amer.)",
+    "description": "T scap; 15-150 cm; VII-X; incolti, coltivi e loro margini, postcolture; P-C(M); PF",
+    "family": "Amaranthaceae",
+    "id": "amaranthaceae_amaranthus_powellii_s_watson"
+  },
+  {
+    "scientificName": "Amaranthus retroflexus L.",
+    "vernacularName": "Amaranto  comune I! (N Amer.)",
+    "description": "T scap; 15-100 cm; VII-X; incolti, coltivi e loro margini, postcolture; P-C(M); F",
+    "family": "Amaranthaceae",
+    "id": "amaranthaceae_amaranthus_retroflexus_l"
+  },
+  {
+    "scientificName": "Amaranthus tamariscinus Nutt.",
+    "vernacularName": "Amaranto tamericino N (N Amer.)",
+    "description": "T scap; 30-120 cm; VIII-IX; incolti, sponde; P; RR",
+    "family": "Amaranthaceae",
+    "id": "amaranthaceae_amaranthus_tamariscinus_nutt"
+  },
+  {
+    "scientificName": "Amaranthus tuberculatus (Moq.) J.D. Sauer",
+    "vernacularName": "Amaranto ruvido C (N Amer.: USA, Canada) [A. rudis Sauer]",
+    "description": "T scap; 30-120 cm; VIII-IX; incolti, sponde; P; RR",
+    "family": "Amaranthaceae",
+    "id": "amaranthaceae_amaranthus_tuberculatus_moq_j_d_sauer"
+  },
+  {
+    "scientificName": "Amaranthus viridis L.",
+    "vernacularName": "Amaranto verde C (S Amer.?) [A. gracilis Poiret]",
+    "description": "T scap; 10-70 cm; VII-IX; habitat ruderalizzati; P; RR Nota. Presenza accidentale e instabile.",
+    "family": "Amaranthaceae",
+    "id": "amaranthaceae_amaranthus_viridis_l"
+  },
+  {
+    "scientificName": "Arthrocaulon macrostachyum (Moric.) Piirainen & G. Kadereit",
+    "vernacularName": "Salicornia glauca [Arthrocnemum glaucum Ung.-Sternb.]",
+    "description": "C succ/P succ; 30-80 cm; VIII-X; habitat alofili; L; RR",
+    "family": "Amaranthaceae",
+    "id": "amaranthaceae_arthrocaulon_macrostachyum_moric_piirainen_g_kadereit"
+  },
+  {
+    "scientificName": "Atriplex hortensis L. subsp. hortensis",
+    "vernacularName": "Atriplice degli orti C (A: Asia)",
+    "description": "T scap; 80-150 cm; VII-VIII; incolti, orti; P-M; RR",
+    "family": "Amaranthaceae",
+    "id": "amaranthaceae_atriplex_hortensis_l_subsp_hortensis"
+  },
+  {
+    "scientificName": "Atriplex hortensis L. subsp. nitens (Schkuhr) E. Pons",
+    "vernacularName": "Atriplice lucida N (A: C & E Europa)",
+    "description": "T scap; 60-180 cm; VII-IX; incolti anche salsi; L-P; RR",
+    "family": "Amaranthaceae",
+    "id": "amaranthaceae_atriplex_hortensis_l_subsp_nitens_schkuhr_e_pons"
+  },
+  {
+    "scientificName": "Atriplex littoralis L.",
+    "vernacularName": "A. litorale EN",
+    "description": "T scap; 40-120 cm; VII-IX; spiagge, terreni salsi; L; RR",
+    "family": "Amaranthaceae",
+    "id": "amaranthaceae_atriplex_littoralis_l"
+  },
+  {
+    "scientificName": "Atriplex micrantha Ledeb. subsp. micrantha",
+    "vernacularName": "Atriplice a fiori minuti C (Europa, Asia temp.)",
+    "description": "T scap; 60-120 cm; VII-IX; incolti; L; RR",
+    "family": "Amaranthaceae",
+    "id": "amaranthaceae_atriplex_micrantha_ledeb_subsp_micrantha"
+  },
+  {
+    "scientificName": "Atriplex patula L.",
+    "vernacularName": "Atriplice a rami patenti",
+    "description": "T scap; 30-80(120) cm; VIII-X; incolti eutrofizzati; P-M; PF",
+    "family": "Amaranthaceae",
+    "id": "amaranthaceae_atriplex_patula_l"
+  },
+  {
+    "scientificName": "Atriplex prostrata Boucher ex DC.",
+    "vernacularName": "Atriplice prostrata [A. latifolia Wahlenb.]",
+    "description": "T scap; 20-100 cm; VII-IX; spiagge, incolti, sponde; L-C; PF",
+    "family": "Amaranthaceae",
+    "id": "amaranthaceae_atriplex_prostrata_boucher_ex_dc"
+  },
+  {
+    "scientificName": "Atriplex tatarica L.",
+    "vernacularName": "Atriplice tartara",
+    "description": "T scap; 30-100 cm; VII-IX; spiagge, terreni salsi; L; RR",
+    "family": "Amaranthaceae",
+    "id": "amaranthaceae_atriplex_tatarica_l"
+  },
+  {
+    "scientificName": "Bassia scoparia (L.) Voss",
+    "vernacularName": "Bassia scoparia C (C Asia) [Kochia scoparia (L.) Schrad.]",
+    "description": "T scap; 30-120 cm; VII-X; incolti; P-C; RR",
+    "family": "Amaranthaceae",
+    "id": "amaranthaceae_bassia_scoparia_l_voss"
+  },
+  {
+    "scientificName": "Beta vulgaris L. subsp. maritima (L.) Arcang.",
+    "vernacularName": "Bietola marittima",
+    "description": "H scap/T scap; 20-80 cm; VI-VIII; habitat alofili, moli; L; R",
+    "family": "Amaranthaceae",
+    "id": "amaranthaceae_beta_vulgaris_l_subsp_maritima_l_arcang"
+  },
+  {
+    "scientificName": "Beta vulgaris L. subsp. vulgaris",
+    "vernacularName": "Bietola comune, barbabietola C (A: Reg. medit.)",
+    "description": "T scap/H bien; 50-100 cm; VI-VIII; incolti, campi; P; RR",
+    "family": "Amaranthaceae",
+    "id": "amaranthaceae_beta_vulgaris_l_subsp_vulgaris"
+  },
+  {
+    "scientificName": "Blitum bonus-henricus (L.) Rchb.",
+    "vernacularName": "Chenopodio Buon-Enrico [Chenopodium bonus-henricus L.]",
+    "description": "H scap; 20-80 cm; VI-IX; prati, pascoli di malga, incolti; C-M(S); PF",
+    "family": "Amaranthaceae",
+    "id": "amaranthaceae_blitum_bonus_henricus_l_rchb"
+  },
+  {
+    "scientificName": "Celosia argentea L.",
+    "vernacularName": "Cresta di gallo argentea C (Asia trop.) [C. cristata L.]",
+    "description": "T scap; 20-60 cm; VII-X; incolti; P; RR",
+    "family": "Amaranthaceae",
+    "id": "amaranthaceae_celosia_argentea_l"
+  },
+  {
+    "scientificName": "Chenopodiastrum hybridum (L.) S. Fuentes, Uotila & Borsch",
+    "vernacularName": "Chenopodio ibrido VU",
+    "description": "T scap; 15-60(100) cm; VIII-X; incolti, orti, ruderi; P-C; RR",
+    "family": "Amaranthaceae",
+    "id": "amaranthaceae_chenopodiastrum_hybridum_l_s_fuentes_uotila_borsch"
+  },
+  {
+    "scientificName": "Chenopodiastrum murale (L.) S. Fuentes, Uotila & Borsch",
+    "vernacularName": "Chenopodio murale",
+    "description": "T scap; 15-80 cm; VI-IX; incolti, orti, ruderi; P-C; R",
+    "family": "Amaranthaceae",
+    "id": "amaranthaceae_chenopodiastrum_murale_l_s_fuentes_uotila_borsch"
+  },
+  {
+    "scientificName": "Chenopodium album L.",
+    "vernacularName": "Chenopodio bianco",
+    "description": "T scap; 30-150 cm; VII-X; incolti, coltivi, postcolture, malghe;",
+    "family": "Amaranthaceae",
+    "id": "amaranthaceae_chenopodium_album_l"
+  },
+  {
+    "scientificName": "Chenopodium betaceum Andrz.",
+    "vernacularName": "Chenopodio striato [C. striatum (Krašan) Murr, C. strictum Roth subsp. strictum]",
+    "description": "T scap; 20-120 cm; VII-VIII; incolti; P-C(M); R",
+    "family": "Amaranthaceae",
+    "id": "amaranthaceae_chenopodium_betaceum_andrz"
+  },
+  {
+    "scientificName": "Chenopodium ficifolium Sm.",
+    "vernacularName": "Chenopodio a foglie di fico NT [C. serotinum auct.]",
+    "description": "T scap; 20-90 cm; VII-IX; incolti, margini di strade; P-C; RR",
+    "family": "Amaranthaceae",
+    "id": "amaranthaceae_chenopodium_ficifolium_sm"
+  },
+  {
+    "scientificName": "Chenopodium opulifolium Schrad. ex W.D.J. Koch & Ziz",
+    "vernacularName": "Chenopodio con foglie di loppio NT",
+    "description": "T scap; 30-100 cm; VII-VIII; incolti; P-C; R",
+    "family": "Amaranthaceae",
+    "id": "amaranthaceae_chenopodium_opulifolium_schrad_ex_w_d_j_koch_ziz"
+  },
+  {
+    "scientificName": "Chenopodium probstii Aellen",
+    "vernacularName": "Chenopodio di Probst C (N Amer.)",
+    "description": "T scap; 100-200 cm; VIII-X; incolti, sponde; P; RR",
+    "family": "Amaranthaceae",
+    "id": "amaranthaceae_chenopodium_probstii_aellen"
+  },
+  {
+    "scientificName": "Chenopodium vulvaria L.",
+    "vernacularName": "Chenopodio fetido CR",
+    "description": "T scap; 10-40 cm; VII-IX; terreni nitrofili antropizzati; P-C; RR",
+    "family": "Amaranthaceae",
+    "id": "amaranthaceae_chenopodium_vulvaria_l"
+  },
+  {
+    "scientificName": "Cycloloma atriplicifolium (Spreng.) J.M. Coult",
+    "vernacularName": "Cicloloma a foglie di atriplice N (N Amer.)",
+    "description": "T scap; 15-70 cm; VII-X; habitat psammofili; L; RR",
+    "family": "Amaranthaceae",
+    "id": "amaranthaceae_cycloloma_atriplicifolium_spreng_j_m_coult"
+  },
+  {
+    "scientificName": "Dysphania ambrosioides (L.) Mosyakin & Clemants",
+    "vernacularName": "Chenopodio aromatico N (Amer. trop. → subcosmop.)",
+    "description": "T scap; 30-80 cm; VIII-IX; incolti, ambienti sinantropici, ghiaie; P-C; R",
+    "family": "Amaranthaceae",
+    "id": "amaranthaceae_dysphania_ambrosioides_l_mosyakin_clemants"
+  },
+  {
+    "scientificName": "Dysphania botrys (L.) Mosyakin & Clemants",
+    "vernacularName": "Chenopodio botri C (SE Europa, O Asia)",
+    "description": "T scap; 10-40 cm; VI-IX; postcolture, orti, incolti, ambienti sinantropici; P-C; RR",
+    "family": "Amaranthaceae",
+    "id": "amaranthaceae_dysphania_botrys_l_mosyakin_clemants"
+  },
+  {
+    "scientificName": "Halimione portulacoides (L.) Aellen",
+    "vernacularName": "Atriplice portulacoide [Atriplex portul. L.; Obione portul. (L.) Moq.]",
+    "description": "C frut/P rept; 20-50 cm; VII-IX; habitat alofili; L; R",
+    "family": "Amaranthaceae",
+    "id": "amaranthaceae_halimione_portulacoides_l_aellen"
+  },
+  {
+    "scientificName": "Lipandra polysperma (L.) S. Fuentes, Uotila & Borsch",
+    "vernacularName": "Chenopodio a molti semi [Chenopodium polyspermum L.]",
+    "description": "T scap; 10-50 cm; V-IX; margini di coltivi, incolti, postcolture; P-M; F",
+    "family": "Amaranthaceae",
+    "id": "amaranthaceae_lipandra_polysperma_l_s_fuentes_uotila_borsch"
+  },
+  {
+    "scientificName": "Oxybasis glauca (L.) S. Fuentes, Uotila & Borsch",
+    "vernacularName": "Chenopodio glauco NT",
+    "description": "T scap; 10-50 cm; V-IX; incolti, ruderi; L-P; RR",
+    "family": "Amaranthaceae",
+    "id": "amaranthaceae_oxybasis_glauca_l_s_fuentes_uotila_borsch"
+  },
+  {
+    "scientificName": "Oxybasis rubra (L.) S. Fuentes, Uotila & Borsch",
+    "vernacularName": "Chenopodio rosso CR",
+    "description": "T scap; 10-80(120) cm; VII-IX; incolti, ruderi; L-P(C?); RR Nota. Piante di stazioni salse possono presentarsi in forme nane, a rami striscianti o ascendenti, ± succulente e fortem. arrossate.",
+    "family": "Amaranthaceae",
+    "id": "amaranthaceae_oxybasis_rubra_l_s_fuentes_uotila_borsch"
+  },
+  {
+    "scientificName": "Oxybasis urbica (L.) S. Fuentes, Uotila & Borsch",
+    "vernacularName": "Chenopodio degli abitati CR [Chenopodium urbicum L.]",
+    "description": "T scap; 50-100 cm; VII-IX; incolti, ruderi; P-C; RR",
+    "family": "Amaranthaceae",
+    "id": "amaranthaceae_oxybasis_urbica_l_s_fuentes_uotila_borsch"
+  },
+  {
+    "scientificName": "Polycnemum majus A. Braun",
+    "vernacularName": "Policnemo maggiore EN",
+    "description": "T scap; 5-25 cm; VII-IX; orti, coltivi; P-C; RR",
+    "family": "Amaranthaceae",
+    "id": "amaranthaceae_polycnemum_majus_a_braun"
+  },
+  {
+    "scientificName": "Salicornia fruticosa (L.) L.",
+    "vernacularName": "Salicornia fruticosa [Arthrocnemum fruticosum (L.) Moq.]",
+    "description": "Ch suff; 10-100 cm; VIII-X; habitat alofili; L; R",
+    "family": "Amaranthaceae",
+    "id": "amaranthaceae_salicornia_fruticosa_l_l"
+  },
+  {
+    "scientificName": "Salicornia perennans Willd. subsp. perennans",
+    "vernacularName": "Salicornia perennante [S. patula Duval-Jouve]",
+    "description": "T scap; 5-40 cm; VIII-X; habitat alofili; L; RR",
+    "family": "Amaranthaceae",
+    "id": "amaranthaceae_salicornia_perennans_willd_subsp_perennans"
+  },
+  {
+    "scientificName": "Salicornia perennis Mill.",
+    "vernacularName": "Salicornia perenne [Sarcocornia perennis (Mill.) A.J. Scott]",
+    "description": "Ch succ; 5-20 cm; VIII-IX; habitat alofili; L; RR",
+    "family": "Amaranthaceae",
+    "id": "amaranthaceae_salicornia_perennis_mill"
+  },
+  {
+    "scientificName": "Salicornia procumbens Sm. subsp. procumbens",
+    "vernacularName": "Salicornia sdraiata IE! (Incl. S. emericii Duval-Jouve, S. veneta Pignatti & Lausi)",
+    "description": "T scap; 10-60 cm; VIII-IX; habitat alofili; L; R",
+    "family": "Amaranthaceae",
+    "id": "amaranthaceae_salicornia_procumbens_sm_subsp_procumbens"
+  },
+  {
+    "scientificName": "Salsola tragus L.",
+    "vernacularName": "Salsola trago [S. kali L. subsp. tragus (L.) Čelak.]",
+    "description": "T scap; 20-60 cm; VII-VIII; habitat alofili e psammofili; L; RR",
+    "family": "Amaranthaceae",
+    "id": "amaranthaceae_salsola_tragus_l"
+  },
+  {
+    "scientificName": "Soda inermis Fourr.",
+    "vernacularName": "Salsola soda, barba di frate [Salsola soda L.]",
+    "description": "T scap; 20-70 cm; VIII-IX; habitat alofili e psammofili; L; R",
+    "family": "Amaranthaceae",
+    "id": "amaranthaceae_soda_inermis_fourr"
+  },
+  {
+    "scientificName": "Spirobassia hirsuta (L.) Freitag & G. Kadereit",
+    "vernacularName": "Bassia irsuta VU [Bassia hirsuta (L.) Asch.]",
+    "description": "T scap; 10-50 cm; VII-IX; habitat psammofili; L; RR",
+    "family": "Amaranthaceae",
+    "id": "amaranthaceae_spirobassia_hirsuta_l_freitag_g_kadereit"
+  },
+  {
+    "scientificName": "Suaeda maritima (L.) Dumort.",
+    "vernacularName": "Sueda marittima",
+    "description": "T scap; 30-60 cm; VIII-X; habitat alofili; L; R",
+    "family": "Amaranthaceae",
+    "id": "amaranthaceae_suaeda_maritima_l_dumort"
+  },
+  {
+    "scientificName": "Suaeda vera J.F. Gmel.",
+    "vernacularName": "Sueda vera",
+    "description": "NP; 40-100 cm; VI-VII; habitat alofili; L; RR",
+    "family": "Amaranthaceae",
+    "id": "amaranthaceae_suaeda_vera_j_f_gmel"
+  },
+  {
+    "id": "amaryllidaceae_allium_ampeloprasum_l",
+    "scientificName": "Allium ampeloprasum L.",
+    "vernacularName": "Aglio porraccio",
+    "family": "Amaryllidaceae",
+    "description": "G bulb; 40-100(130) cm; V-VI; incolti, margini di campi e strade, dune costiere; L-C; R"
+  },
+  {
+    "id": "amaryllidaceae_allium_angulosum_l",
+    "scientificName": "Allium angulosum L.",
+    "vernacularName": "Aglio angoloso EN",
+    "family": "Amaryllidaceae",
+    "description": "G bulb; 20-50(70) cm; V-VIII; prati umidi e torbosi; P(C); R"
+  },
+  {
+    "id": "amaryllidaceae_allium_carinatum_l",
+    "scientificName": "Allium carinatum L.",
+    "vernacularName": "Aglio carinato",
+    "family": "Amaryllidaceae",
+    "description": "G bulb; 30-60 cm; V-IX; boschi, orli boschivi, praterie; P-M; FF"
+  },
+  {
+    "id": "amaryllidaceae_allium_coloratum_spreng",
+    "scientificName": "Allium coloratum Spreng.",
+    "vernacularName": "Aglio grazioso",
+    "family": "Amaryllidaceae",
+    "description": "[A. cirrhosum Vand., A. pulchellum G. Don] G bulb; 30-60 cm; V-IX; orli boschivi, praterie; P-M(S); F"
+  },
+  {
+    "id": "amaryllidaceae_allium_ericetorum_thore",
+    "scientificName": "Allium ericetorum Thore",
+    "vernacularName": "Aglio giallastro",
+    "family": "Amaryllidaceae",
+    "description": "[A. ochroleucum Waldst. & Kit.] G bulb; 15-40 cm; VII-IX; praterie, pascoli sassosi; P-M(S); PF"
+  },
+  {
+    "id": "amaryllidaceae_allium_horvatii_lovri",
+    "scientificName": "Allium horvatii Lovrić",
+    "vernacularName": "Aglio di Horvat",
+    "family": "Amaryllidaceae",
+    "description": "[A. saxatile M. Bieb. subsp. tergestinum (Gand.) Bedalov & Lovrić] G bulb; 10-30 cm; III-VII; praterie, pascoli sassosi, ghiaioni; P-C; RR"
+  },
+  {
+    "id": "amaryllidaceae_allium_longispathum_redout",
+    "scientificName": "Allium longispathum Redouté",
+    "vernacularName": "Aglio a spata lunga",
+    "family": "Amaryllidaceae",
+    "description": "G bulb; 30-60 cm; V-VII; incolti, margini di strade, pratelli ruderali, aiole; P; RR"
+  },
+  {
+    "id": "amaryllidaceae_allium_lusitanicum_lam",
+    "scientificName": "Allium lusitanicum Lam.",
+    "vernacularName": "Aglio montano",
+    "family": "Amaryllidaceae",
+    "description": "G bulb; 10-50 cm; VII-IX; praterie, pascoli sassosi, rupi; P-M; PF"
+  },
+  {
+    "id": "amaryllidaceae_allium_neapolitanum_cirillo",
+    "scientificName": "Allium neapolitanum Cirillo",
+    "vernacularName": "Aglio napoletano N (Reg. medit.)",
+    "family": "Amaryllidaceae",
+    "description": "G bulb; 20-60 cm; III-V; incolti, scarpate, aiole; P; R"
+  },
+  {
+    "id": "amaryllidaceae_allium_oleraceum_l_subsp_oleraceum",
+    "scientificName": "Allium oleraceum L. subsp. oleraceum",
+    "vernacularName": "Aglio selvatico",
+    "family": "Amaryllidaceae",
+    "description": "G bulb; 30-80 cm; V-IX; orli boschivi, incolti, pratelli ruderali, margini di strade; P-C(M); PF"
+  },
+  {
+    "id": "amaryllidaceae_allium_pallens_l",
+    "scientificName": "Allium pallens L.",
+    "vernacularName": "Aglio pallido EN",
+    "family": "Amaryllidaceae",
+    "description": "G bulb; 20-40 cm; IV-VII; pascoli sassosi, incolti, margini di strade; P; RR"
+  },
+  {
+    "id": "amaryllidaceae_allium_roseum_l_subsp_roseum",
+    "scientificName": "Allium roseum L. subsp. roseum",
+    "vernacularName": "Aglio roseo",
+    "family": "Amaryllidaceae",
+    "description": "G bulb; 20-60 cm; IV-V; incolti, scarpate, aiole; P; RR"
+  },
+  {
+    "id": "amaryllidaceae_allium_rotundum_l",
+    "scientificName": "Allium rotundum L.",
+    "vernacularName": "Aglio arrotondato NT",
+    "family": "Amaryllidaceae",
+    "description": "G bulb; 30-70 cm; V-VI; coltivi, vigneti, incolti; P; RR"
+  },
+  {
+    "id": "amaryllidaceae_allium_sativum_l",
+    "scientificName": "Allium sativum L.",
+    "vernacularName": "Aglio comune C (A: C Asia?)",
+    "family": "Amaryllidaceae",
+    "description": "G bulb; 20-80 cm; VI-VII; incolti, discariche; P; RR"
+  },
+  {
+    "id": "amaryllidaceae_allium_schoenoprasum_l_subsp_schoenoprasum",
+    "scientificName": "Allium schoenoprasum L. subsp. schoenoprasum",
+    "vernacularName": "Aglio ungherese, erba cipollina",
+    "family": "Amaryllidaceae",
+    "description": "G bulb; 15-50 cm; VI-VIII; torbiere, paludi, rive di ruscelli (incolti); (P)M-S; R"
+  },
+  {
+    "id": "amaryllidaceae_allium_scorodoprasum_l",
+    "scientificName": "Allium scorodoprasum L.",
+    "vernacularName": "Aglio romano N (A: Caucaso, N Turchia, Iran)",
+    "family": "Amaryllidaceae",
+    "description": "G bulb; 30-100 cm; V-VII; pratelli ruderali, incolti, margini di strade, siepi; P-M; PF"
+  },
+  {
+    "id": "amaryllidaceae_allium_sphaerocephalon_l_subsp_sphaerocephalon",
+    "scientificName": "Allium sphaerocephalon L. subsp. sphaerocephalon",
+    "vernacularName": "Aglio sferocefalo",
+    "family": "Amaryllidaceae",
+    "description": "G bulb; 30-80(100) cm; VI-VII; praterie, pascoli sassosi; P-M; PF"
+  },
+  {
+    "id": "amaryllidaceae_allium_suaveolens_jacq",
+    "scientificName": "Allium suaveolens Jacq.",
+    "vernacularName": "Aglio odoroso VU",
+    "family": "Amaryllidaceae",
+    "description": "G bulb; 20-50 cm; VIII-IX; prati umidi, vegetaz. di sponda; P(C); R"
+  },
+  {
+    "id": "amaryllidaceae_allium_tuberosum_rottler_ex_spreng",
+    "scientificName": "Allium tuberosum Rottler ex Spreng.",
+    "vernacularName": "Aglio tuberoso N (SE Asia)",
+    "family": "Amaryllidaceae",
+    "description": "G bulb; 20-50 cm; VII-IX; margini di strade, incolti; P; RR"
+  },
+  {
+    "id": "amaryllidaceae_allium_ursinum_l",
+    "scientificName": "Allium ursinum L.",
+    "vernacularName": "Aglio orsino",
+    "family": "Amaryllidaceae",
+    "description": "G bulb; 15-40 cm; IV-V; boschi; P-M; PF"
+  },
+  {
+    "id": "amaryllidaceae_allium_victorialis_l",
+    "scientificName": "Allium victorialis L.",
+    "vernacularName": "Aglio vittoriale",
+    "family": "Amaryllidaceae",
+    "description": "G bulb; 30-60 cm; VI-VIII; praterie; (C)M-S; R"
+  },
+  {
+    "id": "amaryllidaceae_allium_vineale_l",
+    "scientificName": "Allium vineale L.",
+    "vernacularName": "Aglio delle vigne",
+    "family": "Amaryllidaceae",
+    "description": "G bulb; 30-70 cm; V-VII; pratelli ruderali, margini di coltivi e di strade, incolti, siepi; P-M; F"
+  },
+  {
+    "id": "amaryllidaceae_galanthus_elwesii_hook_f_subsp_elwesii",
+    "scientificName": "Galanthus elwesii Hook. f. subsp. elwesii",
+    "vernacularName": "Bucaneve di Elwes N (Penisola Balcanica, Isole Egee esterne, Ucraina, Moldavia, Turchia)",
+    "family": "Amaryllidaceae",
+    "description": "G bulb; 10-25 cm; III; incolti, orli boschivi; C; RR"
+  },
+  {
+    "id": "amaryllidaceae_galanthus_nivalis_l",
+    "scientificName": "Galanthus nivalis L.",
+    "vernacularName": "Bucaneve comune IE!",
+    "family": "Amaryllidaceae",
+    "description": "G bulb; 10-20 cm; II-IV; boschi e orli; P-M (S); F"
+  },
+  {
+    "id": "amaryllidaceae_ipheion_uniflorum_lindl_raf",
+    "scientificName": "Ipheion uniflorum (Lindl.) Raf.",
+    "vernacularName": "Stellina uniflora C: (S Amer.)",
+    "family": "Amaryllidaceae",
+    "description": "G bulb; 15-30 cm; III-IV; aiole; P-C; RR"
+  },
+  {
+    "id": "amaryllidaceae_leucojum_aestivum_l_subsp_aestivum",
+    "scientificName": "Leucojum aestivum L. subsp. aestivum",
+    "vernacularName": "Campanellino estivo IR!",
+    "family": "Amaryllidaceae",
+    "description": "G bulb; 30-60 cm; IV-V; orli e boschi igrofili, paludi, prati sortumosi; L-C; R"
+  },
+  {
+    "id": "amaryllidaceae_leucojum_vernum_l",
+    "scientificName": "Leucojum vernum L.",
+    "vernacularName": "Campanellino di primavera",
+    "family": "Amaryllidaceae",
+    "description": "G bulb; 10-30 cm; II-IV; boschi e orli boschivi, prati umidi; P-M; PF"
+  },
+  {
+    "id": "amaryllidaceae_narcissus_po_ticus_l",
+    "scientificName": "Narcissus poëticus L.",
+    "vernacularName": "Narciso dei poeti IR!",
+    "family": "Amaryllidaceae",
+    "description": "(Incl. N. radiiflorus Salisb.) G bulb; 20-30 cm; III-V; praterie, pascoli sassosi, prati; P-M; PF"
+  },
+  {
+    "id": "amaryllidaceae_narcissus_papyraceus_ker_gawl",
+    "scientificName": "Narcissus papyraceus Ker Gawl.",
+    "vernacularName": "Narciso papiraceo C (Reg. Medit., SO Europa)",
+    "family": "Amaryllidaceae",
+    "description": "G bulb; 20-70 cm; III-IV; incolti; P; RR"
+  },
+  {
+    "id": "amaryllidaceae_narcissus_pseudonarcissus_l_subsp_pseudonarcissus",
+    "scientificName": "Narcissus pseudonarcissus L. subsp. pseudonarcissus",
+    "vernacularName": "Narciso trombone N (O Europa)",
+    "family": "Amaryllidaceae",
+    "description": "G bulb; 20-40 cm; III-V; incolti, orti; P-C; R"
+  },
+  {
+    "id": "amaryllidaceae_narcissus_tazetta_l",
+    "scientificName": "Narcissus tazetta L.",
+    "vernacularName": "Narciso tazzetta C (Reg. medit.)",
+    "family": "Amaryllidaceae",
+    "description": "G bulb; 20-60 cm; III-IV; incolti, orti, siepi; P-M; RR"
+  },
+  {
+    "id": "amaryllidaceae_pancratium_maritimum_l",
+    "scientificName": "Pancratium maritimum L.",
+    "vernacularName": "Giglio marino comune",
+    "family": "Amaryllidaceae",
+    "description": "G bulb; 30-50 cm; VII-VIII; dune, spiagge; L; RR"
+  },
+  {
+    "id": "amaryllidaceae_sternbergia_lutea_l_ker_gawl_ex_spreng",
+    "scientificName": "Sternbergia lutea (L.) Ker Gawl. ex Spreng.",
+    "vernacularName": "Sternbergia gialla N (Reg. medit.-turan.)",
+    "family": "Amaryllidaceae",
+    "description": "G bulb; 10-25 cm; IX-X; boscaglie, siepi, discariche, margini di strade; P-C; R"
+  },
+  {
+    "id": "anacardiaceae_cotinus_coggygria_scop",
+    "scientificName": "Cotinus coggygria Scop.",
+    "vernacularName": "Scotano selvatico",
+    "family": "Anacardiaceae",
+    "description": "NP(P caesp/P scap); 0,5-4 m; V-VI; arbusteti, mantelli, rupi; P-C; PF"
+  },
+  {
+    "id": "anacardiaceae_pistacia_lentiscus_l",
+    "scientificName": "Pistacia lentiscus L.",
+    "vernacularName": "Lentisco C (Reg. medit.)",
+    "family": "Anacardiaceae",
+    "description": "P cesp; 1-3 m; IV-V; spiagge, pinete; L-C; RR Nota: può esserci un singolo segmento terminale sulle fg. ma quasi sempre è caduco."
+  },
+  {
+    "id": "anacardiaceae_pistacia_terebinthus_l_subsp_terebinthus",
+    "scientificName": "Pistacia terebinthus L. subsp. terebinthus",
+    "vernacularName": "Terebinto",
+    "family": "Anacardiaceae",
+    "description": "P cesp (P scap); 1-5 m; IV-VI; arbusteti, boschi di latifoglie e sempreverdi; L-C; R"
+  },
+  {
+    "id": "anacardiaceae_rhus_coriaria_l",
+    "scientificName": "Rhus coriaria L.",
+    "vernacularName": "Sommacco siciliano C (Reg. medit. O)",
+    "family": "Anacardiaceae",
+    "description": "P cesp; 1-4 m; V-VI; incolti, cave; P; RR"
+  },
+  {
+    "id": "anacardiaceae_rhus_typhina_l",
+    "scientificName": "Rhus typhina L.",
+    "vernacularName": "Sommacco maggiore N (NO Amer.)",
+    "family": "Anacardiaceae",
+    "description": "P cesp/P scap; 2-8 m; V-VI; incolti, siepi; P-C; PF"
+  },
+  {
+    "id": "Apiaceae_1",
+    "scientificName": "A. podagraria",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "Aethusa L. – Cicuta aglina\nPl. glabra, fetida; fu. eretto, da finem. solcato a ± angoloso, ramoso; fg. a contorno triangolare, 2-3-pennatosette, lucide di sopra, a segm. ultimi da lanceolati a ovati; ombrelle a 5-13 raggi; br. 0(1); br.le 3 poste sulla parte est. dell’ombrelletta, setacee, alla fine riflesse; fr. ovoideo, a coste grosse, acute, ± equidistanti, le 2 lat. di ciascun mericarpo più sviluppate, alate; vitte singole nelle vallecole"
+  },
+  {
+    "id": "Apiaceae_2",
+    "scientificName": "A. cynapium",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "a\tPl. alta fino a 1 m; segm. fglr. ovati; br.le generalm. più lunghe della relativa ombrelletta; fr. 4-4,5 mm\tsubsp. cynapium\n\t–\tPl. alta fino a 2,5 m; segm. fglr. da lineari a oblunghi; br.le lunghe quanto o meno della relativa ombrelletta; fr.3,4-3,8(4) mm\tsubsp. elata\nAmmi L. – Visnaga\nFu. eretto; fg. 1-3-pennate con segm. di forma diversa: fg. inf. a segm. da ellittici a obovati, seghettati, ottusi; fg. med.a segm. lanceolati, dentato-seghettati, acuminati; fg. sup. a segm. lineari, dentati; raggi 15-60, sottili ed eretto-patenti; br.le da lineari-lanceolate a lanceolate, acuminate; fr. ellissoidale (1,5-2 mm) a coste tenui"
+  },
+  {
+    "id": "Apiaceae_3",
+    "scientificName": "A. majus",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "Angelica L. – Angelica\nFu. eretto, cilindrico, finem. striato, generalm. violetto; fg. a contorno triangolare, 2-3-pennate (fino a 60 cm), con segm. di ultimo ordine ovato-lanceolati (5-8 cm), acutam. seghettati; picciolo (10-40 cm) allargato in grande guaina (3-6 cm); fg. cauline sup. ridotte alla sola guaina; ombrelle a 30-50 raggi pubesc. e br. assenti o caduche; mericarpo con due ali lat. talora ondulate e 3 coste dorsali"
+  },
+  {
+    "id": "Apiaceae_4",
+    "scientificName": "A. sylvestris",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "a\tSegm. fglr. per la maggior parte lunghi più di 2,5 v. la largh.; br.le > 10; mericarpo maturo largo 1,7-2,1 mm. M-S\tsubsp. bernardiae\n\t–\tSegm. fglr. per la maggior parte lunghi meno di 2,5 v. la largh.; br.le < 10; mericarpo maturo largo 1,3-1,8 mm. P-M\tsubsp. sylvestris\nAnthriscus Pers. – Cerfoglio\n1\tPl. annue; fr. con becco lungo al max. 1-2 mm, 1/5 del resto del fr. – Fu. eretto, glabro o debolm. pubescente; fg. delicate, 2-3-pennatosette con lobi pennatifidi; ombrella a 2-6 raggi ± pubescenti; invol. nrmalm. assente; involucretto a 1-4 bratteoloe lineari, riflesse; fi. bianchi con stilo > dello stilopodio; fr. strettam. lineare (7-10 mm) con becco di (2)3-4 mm"
+  },
+  {
+    "id": "Apiaceae_5",
+    "scientificName": "A. cerefolium",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "–\tPl. perenni; fr. con becco lungo 2-4 mm, ¼ - ½ del resto del fr.\t2\n2\tFg. con segm. basali grandi quasi quanto il resto della fg.; fr. (5-7 mm) senza anello di setole alla base. – Fu. eretto, glabro o brevem. peloso in basso; fg. verde scuro 2-pennatosette con lobi ± pennatifidi, lucide inferiorm.; fg. basali con pubescenza breve (0,1-0,2 mm) al marg.; ombrellette povere a 2-6 fi. bianchi ed altrettanti fr.; fr. (5-7 mm) liscio, verde scuro"
+  },
+  {
+    "id": "Apiaceae_6",
+    "scientificName": "A. nitida",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "–\tFg. con segm. basali assai minori del resto della fg.; fr. (7-10 mm) con anello di setole (0,1 mm) alla base. – Fu. eretto, striato, cavo, solitam. con brevi, dense setole in basso, raram. glabro; fg. 2-3-pennatosette, inferiorm. opache; ombrellette povere a 4-6 fi. bianchei ed altrettanti fr.; fr. (7-10 mm) liscio, verde-brunastro"
+  },
+  {
+    "id": "Apiaceae_7",
+    "scientificName": "A. sylvestris",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "a\tFg. basali e cauline inf. a segm. di 2° ordine stretti (rapporto L/largh. generalm. > 2) e segm. del 3°ordine affusolati, per cui la fg. appare divisa molto finem. ed elegantem.\tsubsp. alpina \n\t–\tFg. basali e cauline inf. a segm. di 2° ordine relativam. larghi (rapporto L/largh.\nsolitam. < 2) e segm. del 3° ordine della stessa largh., per cui la fg. appare divisa grossolanam.\t\n\t\t\tsubsp. sylvestris\nApium L. – Sedano\nPl. aromatica a fu. eretto, angoloso; fg. verde-scure, lucide, lungam. picciolate, 1-2 pennatosette, con segm. triangolari, rombici o lanceolati (1-5 cm), lobati, dentati; ombrelle piccole, con (4)6-12 raggi; br. e br.le assenti; mericarpi largam. ovati (1,5-2 mm) a 5 coste salienti; vitte 2-3 per vallecola"
+  },
+  {
+    "id": "Apiaceae_8",
+    "scientificName": "A. graveolens",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "Astrantia L. – Astranzia\n1\tBr. invol. a nerv. evidentem. anastomosate; cal.(1-2,5 mm) a denti da acuminati ad aristati. – Fu. eretti, ramosi in alto; fg. basali palmatopartite divise in 5-7 segm. da lanceolati a obovati, cuneati alla base, dentati; br. invol. (10-30 mm) 3-5-nervie, da lanceolate a oblanceolate, acuminate, saldate alla base, bianche o rosee con nerv. e punte verdastre; denti cal. strettam. lanceolati, lungam. acuminati od aculeati; fr. subcilindrico (6-8 mm)"
+  },
+  {
+    "id": "Apiaceae_9",
+    "scientificName": "A. major",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "1a\tBr. invol. lunghe quasi il doppio dell’ombrella; cal. a denti di 2-2,5 mm\tsubsp. involucrata \n\t–\tBr. invol. subeguali all’ombrella; cal. a denti di (1)1,5-2 mm \tsubsp. major\n–\tBr. invol. non o indistintam. anastomosate; cal. (0,7-1 mm) a denti acuti o ± ottusi\t2 \n2\tFg. basali con lobo mediano libero per ~ il 70-80% della sua lungh.; br. invol. lunghe 4-8(10) mm, più brevi o uguali all’ombrella. – Fu. eretti, ramosi in alto; fg. palmatopartite, divise in 5 segm. ovali od obovati, irregolarm. seghettati; br. invol. lanceolate, ± acute; ombrelle 5-15 e più; fi. bianchi; fr. ovoidale (~ 3 mm)"
+  },
+  {
+    "id": "Apiaceae_10",
+    "scientificName": "A. carniolica",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "–\tFg. basali con lobo mediano libero per ~ il 90% o più della sua lungh.; br. invol. lunghe 8-15 mm, superanti l’ombrella. – Fu. eretti, ramosi in alto; fg. palmatopartite, divise in 5 segm. ovali o lanceolati, irregolarm. seghettati talora lobati; br. invol. strettam. lanceolate, acute o acuminate; ombrelle 1-5; fi. bianchi; fr. ellissoidale (3-5 mm)"
+  },
+  {
+    "id": "Apiaceae_11",
+    "scientificName": "A. bavarica",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "Athamanta L. – Atamanta\n1\tLacinie fglr. terminali filiformi, lunghe 5-35 mm; raggi dell’ombrella con peli rigidi, patenti, più brevi del  dei raggi stessi. – Fg. basali 2-4 pennatosette, a contorno largam. romboidale, irsute; ombrelle a (15) 20- 35 raggi; emistilopodio 2 v. più lungo che largo; fr. ovoide allungato (5-6 mm), densam. pubescente"
+  },
+  {
+    "id": "Apiaceae_12",
+    "scientificName": "A. turbith subsp. turbith",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "–\tLacinie fglr. terminali lineari, lunghe 2-7 mm; raggi dell’ombrella con peli flessibili, lunghi almeno quanto il  de raggi stessi. – Fg. basali 3-4 pennatosette, a contorno deltoide, picciolate, verde scuro, glabre o sparsam. pelose; ombrelle a (3) 5-12(15) raggi; emistilopodio lungo quanto largo; fr. oblungo (6-8 mm), irsuto"
+  },
+  {
+    "id": "Apiaceae_13",
+    "scientificName": "A. cretensis subsp. cretensis",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "Berula W.D.J. Koch – Berula\nPl. glabra con fu. cavo; fg. sommerse 3-4 pennate a segm.lineari; fg. aeree pennatosette, le inf. con 9-31 segm. sessili, ovato-lanceolati od ovati (1,5-6 cm), biserrati, il terminale ± profondam. tripartito; segm. basali solitam. assenti sul nodo situato verso la metà del picciolo; fg. cauline sup. con segm. minori in ampiezza, irregolarm. serrato-dentati e profondam. incisi; ombrelle con 10-20 raggi; br. e br.le, 3-fide o pennatosette; fr. orbicolare (1,5-2 mm), con coste poco sporgenti\tB. erecta\nBifora Hoffm. – Bifora\nPl. fetida a fu. eretto, angoloso-solcato, ramoso quasi dalla base; fg. 2-3 pennatosette (le inf. anche semplicem.), con segm. lineari, interi; fg. sup. sessili a segm. filiformi; ombrelle con 4-7 raggi (2-3 cm); br. 0-1, br.le assenti; pt. dei fi. periferici più lunghi degli altri (fino a 4 mm); fr. didimo, formato da due mericarpi sferoidali affiancati, lisci"
+  },
+  {
+    "id": "Apiaceae_14",
+    "scientificName": "B. radians",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "Bupleurum L. – Bupleuro\n1\tPl. annua con fu. tutti fioriferi, senza getti sterili\t2\n–\tPl. perenne con getti sterili non fioriferi\t6\n2\tFg. cauline perfogliate, amplessicauli\t3\n–\tFg. cauline non perfogliate\t4\n3\tOmbrelle a 2-3(5) raggi; br.le subrotonde; fr. tubercolato. – Simile a B. rotundifolium, ma fg. da ovato- a lanceolato-oblunghe; br.le lunghe 8-13 mm, mucronate; fr. 3-5 mm, ovoidale-globoso"
+  },
+  {
+    "id": "Apiaceae_15",
+    "scientificName": "B. subovatum",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "–\tOmbrelle a 5-10 raggi; br.le oblanceolate od ovate; fr. liscio. – Fu. eretto, ramoso superiorm.; fg. da ellittico-ovate a suborbicolari (3-5 cm), mucronate; br. nulle; br.le (5-6) lunghe 7-10 mm, brevem. connate, giallo-verdastre e patenti in fior., biancastre e conniventi nell’infrutt.; fr. ~3 mm, ellittico-oblungo, brunastro scuro"
+  },
+  {
+    "id": "Apiaceae_16",
+    "scientificName": "B. rotundifolium",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "4\tBr.le da ovate a largam. lanceolate, sovrapposte al marg. – Fg. da lanceolato-lineari a lineari-spatolate (3-5 cm), le basali picciolate, le altre sessili; ombrella a 5-10 raggi; br. oblanceolate, lungam. acuminato-aristate; br.le (6-7 mm) da lanceolate a ovate, minutam. serrulate e strettam. scariose al marg., lungam. aristate, inizialm. verdi, poi gialle; fr. 1,5-2 mm"
+  },
+  {
+    "id": "Apiaceae_17",
+    "scientificName": "B. veronense",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "–\tBr.le da strettam. lanceolate a strettam. ellittiche, a marg. distanziati\t5\n5\tFg. inf. con nerv. sporgente di sotto (carenate); ombrelle a 3-8 raggi; fr. ellissoidale, liscio. – Pl. verde in abito estivo, bruno-rossastra in autunno; fg. inf. lineari (7-12 × 0,5-1 cm) talora falcate, acuminate; ombrelle a 2-3(5) raggi; br. lineari-lanceolate, acuminate; br.le (1-2 mm) di poco superanti i fi. ma non l’apice dei fr.; pt. gialli (0,7-0,9 mm); fr. (3,5-7 mm) a coste sporgenti, bruno-nerastro"
+  },
+  {
+    "id": "Apiaceae_18",
+    "scientificName": "B. praealtum",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "–\tFg. non carenate; ombrelle a 1-3 raggi; fr. subsferico, ruvido-papilloso. – Pl. glauca, con fu. ramosi; fg. lineari a lineari-lanceolate (0,5-5 cm), le inf. con breve picciolo, le cauline sessili; ombrelle a 1-3 raggi; br. (1-3) lineari-subulate, acuminate; br.le lunghe quanto le ombrellette, finem. seghettate al marg.; pt. gialli o verdastri; fr. (1,5-2,3 mm) finem. tubercolato, bruno chiaro"
+  },
+  {
+    "id": "Apiaceae_19",
+    "scientificName": "B. tenuissimum",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "6\tFg. lineari (10-25 × 0,3-0,5 cm), tutte in rosetta basale. – Fu. privi di rami, con fg. bratteiformi da lineari a ovate, acuminate, amplessicauli; ombrella a 5-15 raggi; br. 3-6 lineari o lanceolate; br.le (5-10) oblanceolate, acute, > dei fi., gialle come questi; fr. (4-6 mm) con 5 coste, bruno-scuri e lucidi."
+  },
+  {
+    "id": "Apiaceae_20",
+    "scientificName": "B. petraeum",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "–\tFu. ramosi con fg. ± numerose\t7\n7\tFg. con 1 nerv. longitud. centrale e numerose nerv. secondarie anastomoste (osserv. il lembo fglr. inf.). – Fg. inf. ellittico-spatolate, mucronate, con picciolo alato, scomparse alla fior.; fg. cauline numerose, ovato-cordate, amplessicauli; ombr. a 5-12 raggi; br. (2-4) ovate o subrotonde, ottuse o brevem. acuminate; br.le (5-8) connate alla base; cor. gialla; fr. ellittico-oblungo (4-5,5 mm) bruno o nerastro"
+  },
+  {
+    "id": "Apiaceae_21",
+    "scientificName": "B. longifolium",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "–\tFg. con nerv. parallele, le laterali inconsistenti, non o scarsam. anastomosate\t8\n8\tFg. cauline sup. con base attenuata, non abbracciante il fu. – Fu. con manicotto di fg. morte brune alla base; fg. (8-20 cm) basali da lineari e convolute [var. gramineum (Vill.) Lapeyr.] a ± lanceolato-spatolate e piane (var. ranunculoides); fg. cauline ovato-lanceolate, semiamplessicauli; ombrella a 3-7(15) raggi; br. 1-5; br.le 5-9 giallastre come i pt.; fr. 2,5-3 mm"
+  },
+  {
+    "id": "Apiaceae_22",
+    "scientificName": "B. ranunculoides subsp. ranunculoides",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "–\tFg. cauline sup. con base allargata, abbracciante il fu. – Fg. basali da lineari a lineari-lanceolate, lunghe fino a 10-15 cm, sessili; fg. cauline sessili, da lanceolate a lineari; ombr. a 5-7 raggi; br. 2-5, lineari-lesiniformi, disuguali; br.le 5, lanceolato-lineari, acuminate; cor. gialla; fr. ellittico-oblungo (3-6 mm), bruno"
+  },
+  {
+    "id": "Apiaceae_23",
+    "scientificName": "B. falcatum subsp. cernuum",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "Carum L. – Cumino\nFu. eretto, striato, ramoso dalla base; fg. 2-3 pennatosette, a segm. lanceolato-lineari (3-25 mm) nelle fg. inf. e capillari in quelle sup., che hanno guaina sviluppata e amplessicaule; ombrelle a 7-16 raggi disuguali, eretto-patenti nel fr.; br. 0, raram. 1-3; br.le 0-poche; Fr. ovoideo-oblungo (3-6 mm), a coste ben distinte, fortem. aromatico"
+  },
+  {
+    "id": "Apiaceae_24",
+    "scientificName": "C. carvi",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "Cervaria Wolf – Peucedano\nFu. eretto, cilindrico, striato, glabro; fg. inf. 2(3) pennatosette (30-50 cm) a contorno triangolare, con segm. da ovati a ellittico-rombici (2-4 cm), cuneati o cordati alla base, acuti o acuminati, gli inf. spesso 1-4-lobati; guaina ampia, abbracciante; ombrelle a 15-30 raggi puberulenti; br. e br.le numerose; pt. papillosi di sopra; fr. da ellittici a subrotondi (4-9 mm)."
+  },
+  {
+    "id": "Apiaceae_25",
+    "scientificName": "C. rivini",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "Chaerophyllum L. – Cerfoglio\n1\tPt. distintam. cigliati, bianchi o rosati; stili eretti; stilopodio conico...........................................................2 \n–\tPt. glabri, bianchi; stili quasi sempre divergenti; stilopodio a cuscinetto.................................................3\n2\tPt. bianchi, talora rosati; lamina con segm. basali grandi quasi quanto il resto della lamina stessa;\ncarpoforo diviso solo all'apice oppure nel 1/3 sup. – Fu. eretto, scarsam. peloso; fg. inf. 2-3 pennatosette con picciolo di 10-12 cm e lamina triangolare, più larga che lunga (10-12 × 9-11 cm) a segm. relativam. ampi e poco divisi, tendenti a sovrapporsi; ombrelle lat. alterne a 9-12(-20) raggi; fr. affusolato (6-12 mm)"
+  },
+  {
+    "id": "Apiaceae_26",
+    "scientificName": "C. hirsutum",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "–\tPt. bianchi; lamina con segm. basali molto più piccoli del resto della lamina stessa; carpoforo diviso almeno nella metà sup. o fino alla base. – Fu. e fg. con setole patenti; fg. inf. 2-3 pennatosette con picciolo di 6-8 cm e lamina triangolare-allungata (9-11 cm) a segm. stretti e non sovrapposti l'uno sull'altro; ombrelle lat. alterne a (4-)6-20(-30) raggi; fr. 8-20 mm."
+  },
+  {
+    "id": "Apiaceae_27",
+    "scientificName": "C. villarsii",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "3\tPl. perenne; fg. inf. 3-4 pennatosette; fr. lungo 8-12 mm. – Fu. ramoso, fistoloso, leggerm. ingrossato ai nodi, glabro o con peli ± patenti, spesso con macchie porporine; fg. inf. lunghe fino a 20-30 cm, pelose; lamina con segm. apicali lunghi e stretti; ombrelle a 10-15 raggi; bratteole lanceolate, aristate, membranose e cigliate sul bordo, talora violacee; stili lunghi 2-3 v. lo stilopodio"
+  },
+  {
+    "id": "Apiaceae_28",
+    "scientificName": "C. aureum",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "–\tPl. annua o bienne; fg. inf. 2-pennatosette; fr. lungo 4-7 mm. – Fu. ramoso, interam. ricoperto di brevi peli rivolti verso il basso, frequentem. macchiato di porporino; lamina con peli appressati su entrambe le pagine; segm. di 2° ordine ovati; ombrelle a 5-12 raggi; bratteole lanceolate, riflesse, irsute; stili lunghi ~ quanto lo stilopodio"
+  },
+  {
+    "id": "Apiaceae_29",
+    "scientificName": "C. temulum",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "Conium L. – Cicuta\nPt. glabra, fetida; fg. inf. a contorno triangolare, 2-4-pennate, a segm. ovali o lanceolato-oblunghi, pennatifidi (1-2 cm), a marg. serrato o crenato-serrato; ombrelle a (6)8-20 raggi; fr. ovoideo-subgloboso (2,5-3,5 mm) a coste prominenti, spesso ondulate; vitte assenti"
+  },
+  {
+    "id": "Apiaceae_30",
+    "scientificName": "C. maculatum subsp. maculatum",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "Coriandrum L. – Coriandolo\nPl. fetida, con fu. eretto, cilindrico, liscio; fg. 1-3 pennatosette (10-20 cm) con segm. ultimi ovato-cuneati, irregolarm. dentati; fg. cauline sup. a segm. lineari; ombrelle a 2-5 raggi, br. 0-1; br.le generalm. 3, lineari; sep. evidenti, disuguali; fi. periferici con pt. est. allungati, bilobi; fr. subsferico ( 2-6 mm), con mericarpi non separantisi a maturità, glabro, con coste incospicue\tC. sativum\nCoristospermum Bertol. – Ligustico\nFu. eretto, cilindrico, finem. solcato, robusto, fistoloso o pieno; fg. basali (30-35 cm) a contorno triangolare, 3-5-pennate con segm. di ultimo ord. lineari o -lanceolati (4-15 mm); ombrella a 20-50 raggi; br. assenti; br.le 5-8, lineari o lanceolato-subulate, lunghe ~1/4 dell’ombrelletta; pt. finem. papillosi; fr. ellissoidale od ovato-oblungo, 4-6(8) mm"
+  },
+  {
+    "id": "Apiaceae_31",
+    "scientificName": "C. seguieri",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "Crithmum L. – Finocchio\nFu. legnosi alla base, ascendenti, glabri, cerosi; fg. a contorno triangolare; segm. lineari-oblanceolati (1-5 cm), interi o con 1-2 denti per lato; ombrelle con 10-20 raggi, le terminali anche con più di 30; br. e br.le numerose, lanceolate od ovato-lanceolate, a marg. scarioso; fr. ovato-oblungo (5-6 mm); mericarpo prismatico, con 5 coste prominenti ma non alate"
+  },
+  {
+    "id": "Apiaceae_32",
+    "scientificName": "C. maritimum",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "Cyclospermum Lag. – Sedano \nPl. glabra con fu. eretto o ascendente, debole, ramoso in alto, a volte fino dalla base; fg. 2-4- pennatosette (2,5-4 cm), a segm. filiformi (larghi 0,5-1 mm), le inf. picciolate, le altre sessili; ombrelle ( 15-25 mm) sessili o brevem. peduncolate, a 2-4 raggi (8-15 mm); ombrellette ( 8-12 mm); br. e br.le assenti; fr. ovoidale (1-3 mm) glabro"
+  },
+  {
+    "id": "Apiaceae_33",
+    "scientificName": "C. leptophyllum",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "Daucus L. – Carota\nSpecie variabile nel portamento; pl. glabra o ispida per peli più spesso riflessi, con fu. eretti o ascendenti, striati; fg. inf. 2-3-pennate a segm. da lineari a lanceolati, pennatifidi, sottili o carnosetti; fg. cauline progressivam. ridotte, 1-2-pennate a segm. lineari, le sup. bratteiformi; ombrella a raggi in numero variabile (20-40), al centro spesso con un fi. sterile porporino-nerastro; br.le (6-9 mm) lineari e indivise, ovvero 3-dentate o 3-fide (nelle ombrellette est.); fi. periferici solitam. raggianti; fr. (2-4 mm) ovato; mericarpo a coste primarie (5) setolose, secondarie (4) con aculei uncinati all’apice, lunghi più del diam. del mericarpo\tD. carota\n\ta\tRadice ingrossata, carnosa, fragile, non ramificata, vivacem. colorata; pt. non o poco raggianti; fr. con aculei più radi (meno di 10 per lato). Talora sfuggita a coltura\tsubsp. sativus\n\t–\tRadice non ingrossata, ramificata, scolorita; pt. raggianti presenti; fr. con aculei più densi (più di 10 per lato)\tb\n\tb\tOmbrelle con  5-16 cm e raggi periferici di quella terminale > 2,5 cm; fg. basali con segm. di ultimo ordine ovati o cuneato-lanceolati ± pennato-divisi; pl. non alofila, alta 30-100 cm; prati, incolti, ambienti ruderali; P-M; FF\t►subsp. carota\n\t–\tOmbrelle con  3-5 cm e raggi periferici di quella terminale ≤ 2,5(3) cm; fg. basali con segm. di ultimo ordine strettam. lanceolati o lineari; pl. alofila, di dimensioni ridotte (20-40 cm); terreni salsi; L; RR\t►subsp. maritimus\nDichoropetalum Fenzl – Peucedano\n1\tRaggi dell’ombrella scabro-puberulenti sul lato interno; fi. giallo-rosati; stilo lungo ~ quanto lo stilopodio. – Fg. basali (10-20 cm) a contorno ovato-lanceolato, 3-pennatosette con segm. di ultimo ordine lineari o lanceolato-lineari, larghi 1-2 mm; fg. cauline progressivam. ridotte, ma a segm. più lunghi (15-40 cm); ombrelle a 6-8 raggi; br. invol. 0-2; stilo lungo ~ 1 mm; fr. largam. ellittico (2,5-3,5 mm), alato, con 2 o più vitte per vallecola"
+  },
+  {
+    "id": "Apiaceae_34",
+    "scientificName": "D. carvifolium-chabraei",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "–\tRaggi dell’ombrella lisci e glabri; fi. bianchi; stilo lungo 2-3 v. lo stilopodio. – Fg. basali (12-15 cm) a contorno ovato-lanceolato, 2-3-pennatosette con segm. di ultimo ordine lineari, larghi 1-1,5 mm; fg. cauline progressivam. ridotte; ombrelle a 6-9 raggi; br. invol. 0-2; stilo lungo fino a 2 mm; fi. rosei nel bocciolo; fr. largam. ellittico (4-6,5 mm), alato, con 1 vitta per vallecola"
+  },
+  {
+    "id": "Apiaceae_35",
+    "scientificName": "D. schottii",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "Echinophora L. – Echinofora\nPl. ± pubesc. con fu. eretto, scanalato, molto ramoso; fg. 2-pennatosette, divise in segm. rigidi, inferiorm. carenati, aculeati all’apice; ombrelle a 4-9 raggi pubesc.; br. e br.le 4-10, spinose; fr. ovoideo-oblungo (7-9 mm) solitam. con 1 mericarpo fertile per aborto dell’altro, da giovane pubesc."
+  },
+  {
+    "id": "Apiaceae_36",
+    "scientificName": "E. spinosa",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "Eryngium L. – Calcatreppola\n1\tFg. basali indivise, piane, ovato-triangolari, dentato-spinose sul marg.; br. invol. più di 12. – Fg. 8-15 × 5-13 cm, cordate, con picciolo non alato, lungo 2-4 v. la lamina; br. invol. (3-6 cm) 1-2-pennatifide, sfrangiate in lacinie spinulose; infior. cilindrica, alta 3-4 cm,  1,5-2 cm, azzurro ametista come le br. e la parte sup. della pl.; sep. (3,5 mm) ovato-lanceolati; fr. ovoide, densam. squamoso"
+  },
+  {
+    "id": "Apiaceae_37",
+    "scientificName": "E. alpinum",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "–\tFg. basali ± divise (da lobate a sette) non piane; br. invol. 4-9 \t2\n2\tBr. invol. ovali od ovato-lanceolate, 3-lobe o 3-partite, larghe (10-25 mm spine escluse) e lunghe fino a 2,5 v. la largh., grigio-glauco chiaro. – Fg. basali coriacee (5-15 cm), suborbicolari, a base tronca o cordata, con 3-(5) lobi dentato-spinescenti; picciolo non alato, lungo quanto la lamina; infior. subglobosa ( 1,5-3 cm); sep. (4-5 mm) ovato-lanceolati, aristati; fr. ovoide, densam. squamoso"
+  },
+  {
+    "id": "Apiaceae_38",
+    "scientificName": "E. maritimum",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "–\tBr. invol. lineari, ± spinoso-dentate, larghe fino a 6 mm e lunghe 4-10 v. la larghezza\t3\n3\tCapolini e br. invol. blu; cor. blu; segm. fglr. larghi 2-5 mm. – Pl. azzurro ametista; fg. basali (10-15 cm) coriacee, obovate, alla base pennatosette, verso l’apice palmatosette, a segm. di ultimo ordine lineari-lanceolati, spinescenti; picciolo largam. alato; infior. ± ovoide ( 1-2 cm); sep. (1,5-2,5 mm) ovato-lanceolati, brevem. aristati; fr. ovoide, sparsam. squamoso"
+  },
+  {
+    "id": "Apiaceae_39",
+    "scientificName": "E. amethystinum",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "–\tCapolini e br. invol. verde-grigiastro chiaro; cor. biancastra; segm. fglr. larghi 5-15 mm. – Pl. verde o glaucescente; fg. basali coriacee, ternate, a lobi pennatosetti; picciolo non alato, lungo ~ quanto la lamina; fg. mediane e sup. con orecchiette dentato-spinose avvolgenti il fu.; infior. ± ovoide ( 1-1,5, fino a 2,5 cm); sep. (~2,5 mm) ovato-lanceolati, aristati; fr. ovoide, densam. squamoso"
+  },
+  {
+    "id": "Apiaceae_40",
+    "scientificName": "E. campestre",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "Falcaria Fabr. – Falcaria\nPl. glauca con fu. eretto, cilindrico, striato, poco ramoso; fg. 1-2 ternate a segm. da lineari a lanceolati (6-10 cm), acuminati; ombrella a 12 -18 raggi subeguali; br. e br.le lineari-subulate (4-8); fr. strettam. oblungo (3-4 mm), a sez. ottusam. pentagonale, con 5 coste. H scap; 30-80 cm; VI-VII; incolti; P; RR\tF. vulgaris Bernh. – Falcaria comune C (Eurasia)\nFerula L. – Ferula\nPl. con fu. eretto, cilindrico, striato e ramificato in alto; fg. basali 4-6 pennatosette, (30-60 cm e oltre), con segm. di ultimo ordine lineari (30-50×1-3 mm); fg. cauline progressivam. ridotte, le sup. limitate alla sola guaina molto espansa; ombrella term. ± sessile a 20-40 raggi, circondata da ombrelle lat. minori; br. assenti; br.le poche; fr. (14-18 mm), ellittico-oblunghi, fortem. compressi sul dorso; coste lat. strettam. alate, le dorsali carenate"
+  },
+  {
+    "id": "Apiaceae_41",
+    "scientificName": "F. glauca",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "Ferulago W.D.J. Koch – Ferula\nPl. con fu. eretto, robusto, lucido, striato, ingrossato ai nodi, con rami sup. verticillati; fg. basali a contorno triangolare, 3-4 pennatosette (20-50 cm), divise in segm. lineari o filiformi; ombrelle a 10-20 raggi, br. e br.le lanceolate; fr. oblungo ellittici (10-12 mm), lisci, glabri, con ali lat. bene sviluppate"
+  },
+  {
+    "id": "Apiaceae_42",
+    "scientificName": "F. campestris",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "Foeniculum Mill. – Finocchio\nPl. fortem. aromatica, glabra, glauca, con fu. eretto, striato, ramoso, lucido; fg. 3-4-pennatosette, a segm. ultimi capillari (5-50 mm), le cauline progressivam. ridotte, con guaine ± espanse; ombrelle a 4-30 raggi; br. e br.le normalm. assenti; fr. ovoideo-oblungo (4-8 mm), glabro, a coste poco prominenti, ottuse"
+  },
+  {
+    "id": "Apiaceae_43",
+    "scientificName": "F. vulgare subsp. vulgare",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "Grafia Rchb. – Grafia\nPl. glabra e glauca con fu. eretto; fg. a contorno largam. triangolare (20-30 cm), 3-4 pennatosette, a segm. di ultimo ord. lanceolati o quasi rombici (2,5-3,5 cm), cuneati alla base, pennato-divisi, i sup. acutam. dentati; fg. sup. gradualm. ridotte e subsessili, su guaine allargate; ombrelle con 12-22 raggi; br. ovato-oblunghe; br.le 1-3, lineari-lanceolate rivolte verso l’esterno dell’ombrelletta"
+  },
+  {
+    "id": "Apiaceae_44",
+    "scientificName": "G. golaka",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "Hacquetia Neck. – Hacquetia\nPl. glabra con numerosi fu. eretti, afilli, avvolti alla base da br. scariose; fg. a contorno subrotondo o cordato-rotondo, digitate, a segm. ovati, cuneati (2-4 cm), sessili, lobati o dentati superiorm.; picciolo lungo ~2 v. la lamina; br. fogliacee, obovate o –cuneate, ottuse e seghettate o crenate verso l’apice, intere alla base, più lunghe dei fi.; fr. ovoidale (3-4 mm), glabro, a coste prominenti"
+  },
+  {
+    "id": "Apiaceae_45",
+    "scientificName": "H. epipactis",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "Heracleum L. – Panace\n1\tInfior. (ombrelle) con  20-50 cm, a 50-150 raggi. – Fu. eretto ( fino a 10 cm), striato, solitam. con macchie rossastre; fg. inf. lunghe fino a 3 m, 3-partite o profondam. divise in 3-7 segm. pennato-lobati, acuti, brevem. pubescenti sulla pag. inf.; fi. bianchi con pt. lunghi 10-12 mm, gli est. raggianti; achenio obovato (8-11 mm), lateralm. con coste alate"
+  },
+  {
+    "id": "Apiaceae_46",
+    "scientificName": "H. mantegazzianum",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "–\tInfior. (ombrelle) con  10-20 cm, a 10-45 raggi\t2\n2\tCor. verde-biancastra o giallastra; fi. periferici debolm. raggianti. – Fg. cauline maggiori generalm. pennato-divise a 5-7 segm. spesso pennatolobati, pubesc. o ispidi inferiorm.; ombrella a 12-25 raggi. H scap; 50-150 cm; VI-VII; boschi, megaforbieti; M; RR?\t\t\n\t\tH. sibiricum L. subsp. sibiricum – P. dei Pirenei\n\tNota. Segnalato da Zirnich sullo Jof Fuart e da Poldini (2009) sul M. Sabotino, ma non ritrovato. \n–\tCor. bianca; fi. periferici fortem. raggianti\t3\n3\tFg. basali pennatosette a 2-3 paia di segm. – Fu eretto ( 5-20 mm), striato, inferiorm. cavo; fg. inf. pennatosette o ternate; fg. sup. ridotte e con guaina rigonfia; infior. (ombrelle) a 12-45 raggi ± pubescenti; invol. nullo o con 1-10 br.; pt. prima bianchi, poi ± arrossati, gli esterni raggianti (2-8 mm); achenio obcordato (10-12 mm)."
+  },
+  {
+    "id": "Apiaceae_47",
+    "scientificName": "H. sphondylium subsp. sphondylium",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "–\tFg. basali intere o ± divise\t4 \n4\tFg. inferiorm. pubescenti su tutta la superficie. – Fu. eretto, striato, pubescente o setoloso in basso; fg. semplici divise in 5-7 lobi principali, acuti, ispidi o con tomento grigio inferiorm. più denso sulle nerv.; infior. (ombrella) principlae a 12-40 raggi ispidi; pt. bianchi, gli esterni raggianti"
+  },
+  {
+    "id": "Apiaceae_48",
+    "scientificName": "H. pyrenaicum subsp. pollinianum",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "–\tFg. inferiorm. pubescenti tutt’al più sulle nerv."
+  },
+  {
+    "id": "Apiaceae_49",
+    "scientificName": "H. sphondylium subsp. elegans",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "Imperatoria L. – Imperatoria\nPl. stolonifera con fu. fistoloso, ± glabresc., striato, semplice o ramoso in alto; fg. inferiori a contorno triangolare, 1-2(3)-ternate, a segm. da ovali a lanceolati (4-7 cm), irregolarm. inciso-dentati (quello terminale a sua volta ternato), lungam. picciolate; ombrelle a 30-50 raggi pubesc. sul latoi int.; br. assenti; br.le scarse, setacee; mericarpo subrotondo (4-5 mm), largam. alato; vitte 1 per vallecola"
+  },
+  {
+    "id": "Apiaceae_50",
+    "scientificName": "I. ostruthium",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "Katapsuxis Raf. – Carvifoglio\nFu. eretto, pieno, striato, ramoso; fg. a controrno triangolare, 2-4-pennatosette a segm. da lanceolato-lineari ad obovati od oblanceolati (6-12 mm); obrelle a 20-40 raggi con br. poche o assenti; br.le numerose, setacee; mericarpo ovoidale (3-4 mm), dorsalm. appiattito, pentagonale in sez.; coste alate, le lat. più larghe delle dorsali"
+  },
+  {
+    "id": "Apiaceae_51",
+    "scientificName": "K. silaifolia",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "Laserpitium L. – Laserpizio\n1\tFg. a segm. di ultimo ordine da lanceolati a lineari, larghi 2-6(12) mm, interi al margine; ombrelle a 5-15 raggi lisci. – Fg. basali a contorno triangolare, 2-3 v. ternate a segm. assottigliati da ambo il alti, con venature quasi parallele perché confluenti nella venatura principale solo alla base del segm., debolm. glaucescenti; br. 5-8, lineari; fi. bianchi; fr. largam. ellisoidale (4,5-7 mm), con ali laterali larghe 1-1,5 mm, talora un po’ ondulate, spesso con sfumature porporine"
+  },
+  {
+    "id": "Apiaceae_52",
+    "scientificName": "L. peucedanoides",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "–\tFg. a segm. di ultimo ordine ovato-cordati, larghi 60-80 mm, crenati o serrulati al margine; ombrelle a (20)25-40(50) raggi scabri inferorm. – Fg. basali a contorno triangolare, bipennatosette a segm. cordati, ± asimmetrici, con venature reticolate e stretto margine cartilagineo, ± glauche; fg. cauline simili ma minori, con picciolo allargato e amplessicaule; br. numerose, lineari, persistenti; fi. bianchi; fr. ovoidale (5-10 mm) con ali ondulate larghe 1,5-2,5 mm"
+  },
+  {
+    "id": "Apiaceae_53",
+    "scientificName": "L. latifolium subsp. latifolium",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "Molopospermum W.D.J. Koch – Cicutaria\nPl. fetida ± glabra, con fu. eretto, robusto, glabro, ramoso in alto; fg. basali e cauline inf. 2-4-pennatosette, lunghe fino a 1 m, con segm. cuneato-lanceolati, inciso-dentati; ombrelle a 24-35 raggi, le lat. a 12-21; br. e br.le (6-9) lanceolate o ± incise, con marg. membranaceo; mericarpo largam. ovato, fortem. compresso, a coste prominenti, le dorsali strettam. alate"
+  },
+  {
+    "id": "Apiaceae_54",
+    "scientificName": "M. peloponnesiacum subsp. bauhinii",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "Mutellina Wolf – Ligustico\nPl. glabra eccetto i raggi dell’ombrella; fu. eretto, in basso cilindrico, cavo, striato, afillo o con 1-2 fg. ridotte e altrettanti rami; fg. basali (5-15 cm) a lamina triangolare, 2-3 pennatosette, divise in segm. lineari-lanceolati (3-5, fino a 15 mm); ombrelle a 7-10(15) raggi, la terminale accompagnata da 1-2 ombrelle laterali più piccole; br. 0(2); br.le 2 o più, spesso sviluppate sul lato est.; fi. rosei; fr. (4-6 mm) ellittico od ovato-oblungo, lateralm. debolm. compresso, con coste lisce"
+  },
+  {
+    "id": "Apiaceae_55",
+    "scientificName": "M. adonidifolia",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "Myrrhis Mill. – Mirride\nPl. pubescente; fu. eretto, cavo; fg. basali (20-40 cm), a contorno triangolare, 2-4 pennatosette a segm. ultimi lanceolato-oblunghi, da profondam. pennato-dentati (alla base) a dentati; ombrelle di 6-12 raggi non tutti verticillati, eretti nell’infrutt.; br.le (5-7) lanceolate, quasi del tutto membranacee; mericarpo a sez. stellata, con 5 coste subeguali, triangolari, acute"
+  },
+  {
+    "id": "Apiaceae_56",
+    "scientificName": "M. odorata",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "Oenanthe L. – Finocchio acquatico\n1\tOmbrelle in maggior parte laterali, opposte alle fg. sup.; peduncoli più brevi dei raggi (< 4 cm). – Pl. molto ramosa, priva di tuberi, radicante nella parte infer.; fg. cauline 2-3-pennatosette a segm. profondam. lobati, a lobi ovati; fg. sommerse 3-4-pennate a lobi da lineari a filiformi; ombrella a 6-7 raggi; br. invol. assenti; fr. ellittico lungo 3,5-4,5 mm"
+  },
+  {
+    "id": "Apiaceae_57",
+    "scientificName": "O. aquatica",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "–\tOmbrelle terminali; peduncoli > di 4 cm, più lunghi dei raggi\t2\n2\tPl. con stoloni all’ascella delle fg. inf.; fu. fistolosi e molli; ombrelle a 2-4 (5) raggi. – Pl. stolonifera a fu. eretto, slanciato, fistoloso, striato, spesso ristretto ai nodi; fg. basali 2-pennatosette, a segm. ovato-lobati; fg. cauline semplicem. pennate, a lobi da linari.lanceolati a subulati; fg. sommerse 2-pennate a segm. capillacei; ombrelle terminali a 2-4 raggi; br. 0-1; br.le numerose; fr. cilindrico od obconico (3-4 mm). H scap; 30-60 cm; V-VII; paludi, sponde; L (P)\t\t\n\t\tO. fistulosa L. – Finocchio acquatico fistoloso\n–\tPl. senza stoloni; ombrelle a (4)6-15 raggi\t3\n3\tOmbrellette alla frutt. evidentem. convesse superiorm.; raggi e peduncoli non ingrossati nell’infrutt.; fr. cilindrico, attenuato almeno alla base, lungo 2,5-3 mm. – Fg. inf. bipennatosette con segm. da lineari a spatolati, larghi 2-2,5 mm; fg. sup. penatosette con segm. lineari, larghi 1,5-2 mm, interi; ombrella a (5)12-15 raggi; br. invol. 4-6"
+  },
+  {
+    "id": "Apiaceae_58",
+    "scientificName": "O. lachenalii",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "–\tOmbrellette alla frutt. piane o appena convesse superorm.; raggi e peduncoli ingrossati nell’infrutt.; fr. cilindrico, non ristretto alla base, lungo 2-3 mm. – Fg. inf. bipennatosette (10-20 cm) con segm. ovato o cuneati, larghi 4-8 mm con 2-3 denti lat.; fg. sup. nettam. diverse dalle basali, 1-2-penatosette con segm. lineari, larghi 2-4 mm, interi; ombrella a 6-15 raggi; br. invol. 1-2 o poche"
+  },
+  {
+    "id": "Apiaceae_59",
+    "scientificName": "O. pimpinelloides",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "Oreoselinum Mill. – Peucedano\nFu. eretto, cilindrico, striato ± glabro; fg. basali a contorno triangolare, alquanto coriacee, 2-3-pennatosette, con segm. ovati, pennatolobati; lamina fglr. a sviluppo tridimensionale (~ emisferico), per la diversa angolatura assunta dal rachide a ogni divisione principale; ombrelle a 15-30 raggi, con br. e br.le numerose, riflesse; mericarpo ellittico con 3 coste dorsali poco pronunciate e 2 lat. con ala  larga 0,7- 0,8 mm"
+  },
+  {
+    "id": "Apiaceae_60",
+    "scientificName": "O. nigrum",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "Orlaya Hoffm. – Orlaia\nFu. eretto o ascendente, semplice o ramoso; fg. a contorno ovato-triangolare, 2-3-pennatosette (5-20 cm) a segm. ultimi oblunghi; ombrelle a 5-12 raggi papilloso-scabri internam.; br. solitam. 5, lanceolato-acuminate, cigliate e largam. scariose al marg.; br.le (3)5(8), più lunghe dei raggi; mericarpo ovale-lanceolato (5-8 mm), compresso  dorsalm., con coste secondarie aculeate su 2(3) file"
+  },
+  {
+    "id": "Apiaceae_61",
+    "scientificName": "O. grandiflora",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "Pachypleurum Ledeb. – Ligustico\nPl. glabrescente a fu. semplici, afilli o raram. con 1 fg; fg. a contorno ovato (3-10 cm), 2-3 pennatosette, a segm. da lineari-lanceolati a strettam. ovato-oblunghi (2-5 mm); ombrelle a 8-20 raggi; br. e br.le (5-10) intere o 2-3-fide all’apice, lanceolato-lineari o liguliformi; fi. bianchi o rosei; antere bruno-nerastre; mericarpo largam. ellittico (3-5 mm) con 5 coste molto pronunciate, strettam. alate"
+  },
+  {
+    "id": "Apiaceae_62",
+    "scientificName": "P. mutellinoides",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "Pastinaca L. – Pastinaca\nFu. robusto, ascendente o eretto, fistoloso o pieno, ramoso; fg. basali 1-pennate con 5-11 segm. ovato-rombici irregolarm. crenato-dentati, ± profondam. lobati alla base; ombrelle a 8-20 raggi, br. e br.le 0(2), caduche; mericarpo ellittico (5-7 mm), lenticolare, con 3 coste dorsali scarsam. marcate e 2 lat. alate (0,3-0,5 mm)"
+  },
+  {
+    "id": "Apiaceae_63",
+    "scientificName": "P. sativa subsp. sativa",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "Petroselinum Hill – Prezzemolo\nPl. glabra, aromatica, a fu. eretto a rami ascendenti; fg. a contorno triangolare, 2-3-pennatosette a segm. obovato-cuneati (10-20 mm), pennato-incisi o 3-lobati, crespi in alcune cvar.; fg. cauline sup. semplicem. pennate; ombrelle appiattite in alto, con 8-20 raggi; br. 1-3 strettam. lanceolate, intere o 3-fide; br.le 5-8, lineari-subulate; mericarpo largam. ovato (2,5-3 mm) con creste sottili, bianchicce. H bien; 40-90 cm; V-VII; incolti; P; RR\t\n\t\tP. crispum (Mill.) Fuss – Prezzemolo comune C (A: Reg. medit.?)\nPeucedanum L. – Peucedano\nFu. eretto, molto robusto, ramoso in alto; fg. tridimensionali, le basali (20-60 cm) (2)3-5(6) ternate, con segm. ultimi lineari (30-90×1-3 mm), lungam. attenuati alle estremità, ± falcati, con nerv. centrale prominente; ombrelle a 10-40 raggi; br. 0-3, caduche; br.le numerose; mericarpo da strettam. ellittico a obovato-oblungo (5-10 mm) a coste dorsali debolm. pronunciate, le lat. con ali larghe fino a 1/3 del mericarpo"
+  },
+  {
+    "id": "Apiaceae_64",
+    "scientificName": "P. officinale subsp. officinale",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "Pimpinella L. – Pimpinella\n1\tOv. e fr. pubesc.; fg. basali (scomparse alla fior.) indivise, seghettate. – Pl. finem. pubesc.; fg. basali cordate, serrate; fg. sup. pennate a 5-9 segm. suborbicolari, ± cordati, crenati; fg. cauline sup. bipennatosette a segm. lineari, spesso ricurvi; ombrelle a raggi (8-50) filiformi, setosi, prive di br. e bratteole; fi. bianchi; fr. ovoidale a peli patenti"
+  },
+  {
+    "id": "Apiaceae_65",
+    "scientificName": "P. peregrina",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "–\tOv. e fr. glabri; fg., anche le basali, pennatosette\t2\n2\tFu. cavo, comprimibile, profondam. solcato; almeno alcuni segm. inf. delle fg. basali picciolettati; fr. rugoso o tubercolato tra le coste. – Fu. fogliosi fino in cima; fg. inf. semplicem. pennate a 9-11 segm. (fino a 7 cm) ovati od oblunghi, dentati (i prossimali ± lobati); fg. cauline minori, con piccioli a base dilatata in forma di guaina; ombrelle prive di br. e bratteole; fi. bianchi (var. major) o rosa intenso (var. rubra); fr. (2,5-3,5 mm) ovale-oblungo"
+  },
+  {
+    "id": "Apiaceae_66",
+    "scientificName": "P. major",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "–\tFu. quasi pieno, solido, cilindrico o angoloso, liscio o finem. striato; segm. delle fg. basali subsessili; fr. liscio fra le coste\t3\n3\tFu. liscio, senza manicotto basale fibroso; pt. pubesc. di sotto. – Pl. ± pubescente, opaca con fu. glabro o vellutato alla base; fg. inf. pennate a 3-7 paia di segm. da semplici e ovali a pennatopartiti; involucro privo di br. o con 1-4; bratteole solitam. assenti; pt. bianchi; fr. (2-2,5 mm) largam. ovale"
+  },
+  {
+    "id": "Apiaceae_67",
+    "scientificName": "P. saxifraga subsp. saxifraga",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "–\tFu. finem. striato, con manicotto basale di fibre scure; pt. glabri. – Pl. glabra, ridotta, lucida; fg. inf. a segm. subrotondi, profondam. e acutam. dentati, le cauline a segm. lineari; ombrelle a 6-12(16) raggi, prive di br. e bratteole; fi. bianchi o rosei"
+  },
+  {
+    "id": "Apiaceae_68",
+    "scientificName": "P. saxifraga subsp. alpina",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "Pleurospermum Hoffm. – Pleurospermo\nFu. eretto, robusto, fistoloso, striato-solcato, ramoso, scabro-papilloso in alto; fg. inf. a contorno ovato-triangolare (30-50 cm), 2-3 pennatosette, segm. ovato-cuneati (4-10 cm), irregolarm. pennatifido-dentati, acuti o acuminati, pubescenti sulle nerv. della pag. inf.; fg. cauline ridotte e meno divise: ombrelle a 20-40 raggi; br. e br.le numerose; br. da lanceolate e intere a pennatolobate; involucretto br.le lanceolate intere con marg. membranaceo; mericarpo ovato (9-10 mm), glabro, a coste prominenti, acute, carenato-verrucose"
+  },
+  {
+    "id": "Apiaceae_69",
+    "scientificName": "P. austriacum",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "Pteroselinum (Rchb.) Rchb. – Peucedano\nPl. glabra (eccetto i marg. fglr. e i raggi dell’ombrella), a fu. eretto, pieno, solcato, semplice o sparsam. ramoso in alto; fg. inf. (20-40 cm) a contorno triangolare, 3-4(5)-pennatosette a segm. lineari o lineari-lanceolati (5-12 mm) con apice cartilagineo; fg. cauline sup. minori e meno divise, con guaine allargate e abbraccianti; raggi 12-20(30) papilloso-scabri sul lato int.; br. e br.le numerose, da lanceolate a lineari-subulate, bianco-cartilaginee e ruvide al marg., alla fine riflesse; mericarpo ellittico o quasi oblungo (6-9 mm), compresso, a coste dorsali strette ma prominenti; coste lat. alate (1,5-2,5 mm)"
+  },
+  {
+    "id": "Apiaceae_70",
+    "scientificName": "P. austriacum subsp. rablense",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "Sanicula L. – Sanicola\nPl. glabra (eccetto il marg. fglr. e il fr.) con fu. eretto, semlice; fg. basali a contorno pentagonale-cordato (4-7×6-10 cm), palmatopartite a 3-7 segm. obovato-cuneati (25-35 mm), crenato-dentati, talora lobati, con breve seta all’apice dei denti, lucide inferiorm.; picciolo lungo 8-15 cm; fg. cauline (0-2) simili a quelle basali ma ridotte; br. lineari, talora dentate; br.le intere; achenio ovoidale (4-5 mm)"
+  },
+  {
+    "id": "Apiaceae_71",
+    "scientificName": "S. europaea",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "Scandix L. – Pettine di Venere\nFu. eretti o ascendenti, striati, con brevi setole patenti o glabresc., ramosi; fg. a contorno ovale (5-7 cm), 2-3 pennatosette a segm. lineari, brevem. setolosi al marg.; ombrelle a 1-3 raggi; br. solitam. assenti; br.le numerose, più lunghe dei peduncoli, semplici o ± divise, a marg. setoloso; stili (1-2,5 mm), lunghi 2-4(6) v. lo stilopodio"
+  },
+  {
+    "id": "Apiaceae_72",
+    "scientificName": "S. pecten-veneris subsp. pecten-veneris",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "Selinum L. – Carvifoglio\nPl. glabresc. a fu. eretti, angolosi e strettam. alati, fogliosi, ramosi; fg. a contorno strettam. lanceolato, 2-3 pannatosette a segm. da lineari a ovati (5-10 mm), finem. dentellati, mucronulati, a volte lobati; fg. cauline minori e meno divise, guainanti; raggi (5)15-33, brevem. pubesc. sul lato int.; br. assenti; br.le 1-poche, subulate; stili lunghi quasi 1/2 del mericarpo; questo ovato-oblungo, dorsalm. compresso (3-4 mm), liscio; vitte singole"
+  },
+  {
+    "id": "Apiaceae_73",
+    "scientificName": "S. carvifolia",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "Seseli L. – Seseli\n1\tBr. invol. 4 o più\t2\n–\tBr. invol. al max. 3.\t3\n2\tFg. a contorno triangolare, con segm. triangolari larghi almeno 2 mm e divisioni di 2° ordine formanti una croce sul rachide. – Fu. eretto, fortem. scanalato, pubescente in basso; fg. inf. 1-3 pennatosette (30-40 cm); br. lineari (5-15 mm); ombrelle a 20-40(60) raggi brevem. pelosi; pt. bianchi; fr. ovoidale o ellittico (2,5-4 mm), glabro o pubescente"
+  },
+  {
+    "id": "Apiaceae_74",
+    "scientificName": "S. libanotis",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "2a\tPl. alta (60)100-150 cm; fg. inf. 2-3 pennate, ampiam. allargate, con segm. da lineari a lanceolati,\nspesso falcati, acuti. C-M; R\tsubsp. daucifolium\n–\tPl. alta 15-50 cm; fg. inf. 1-2 pennate, con segm. ovati, da grossam. dentati a pennatifidi, ±\nottusi. C-S; PF\tsubsp. libanotis\n–\tFg. a contorno ovato, con segm. lineari larghi ~1 mm e divisioni di 2° ordine non formanti una croce. – Fu. (spesso arrossato) e piccioli pubescenti; fg. a contorno ovato, picciolate (10-12 cm), 2-3 pennatosette, con segm. larghi 1-2 mm, lineari o lineari-lanceolati; spesso scuri, lucidi, con nerv. unica; bratteole subeguali o superanti i fi; pt. bianchi o rosei; fr. ovoidale (1-2 mm), glabro a maturità"
+  },
+  {
+    "id": "Apiaceae_75",
+    "scientificName": "S. annuum subsp. annuum",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "3\tRaggi dell’ombrella cilindrici, glabri. – Pl. glauca e glabra con fu. zigzagante; fg. a contorno triangolare-ovato, 2-4 pennatosette (20-25 cm), a segm. lineari, larghi ~1 mm; ombrelle a 5-7(10) raggi; br. assenti; pt. bianchi; fr. ovoidale (2-3 mm), glabro"
+  },
+  {
+    "id": "Apiaceae_76",
+    "scientificName": "S. kochii",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "–\tRaggi dell’ombrella angolosi, pubescenti-papillosi\t4\n4\tRaggi ± pubescenti tutt’attorno; ombrelle a 3-12 raggi. – Pl. glabra, verde scuro; fg. 2-3 pennatosette (20-30 cm) a segm. da lineari ad obovati, larghi 0,5-1 mm; invol. con 0 (3) br.; involucretto con bratteole subeguali ai peduncoli fior.; pt. bianchi, rosei in boccio; fr. ovoidale (2,3-3,5 mm), glabrescente, con coste arrotondate, più larghe delle vallecole"
+  },
+  {
+    "id": "Apiaceae_77",
+    "scientificName": "S. tommasinii",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "–\tRaggi pubescenti solo sul lato interno; ombrella a (12)20-40 raggi"
+  },
+  {
+    "id": "Apiaceae_78",
+    "scientificName": "S. annuum subsp. annuum",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "Siler Mill. – Laserpizio\nPl. glabra, glauca; fu. eretto, robusto ( fino a 20 mm), pieno, finem. striato, semplice o ramoso in alto; fg. inf. (fino a 1 m), a contorno triangolare, lungam. picciolate, guainanti, 2-4 pennatosette, a segm. da lineari-lanceolati a obovato-oblunghi (10-35, fino a 50 mm), con marg. intero o debolm. sinuato, strettam. cartilagineo e nerv. med. prominente, i 3 terminali liberi e ± picciolati, mucronati; ombrelle grandi ( 10-25 cm) a 20-50 raggi papillosi sul lato int.; br. e br.le lineari-lanceolate a marg. membranoso, patenti; mericarpo oblungo (6-12 mm) con ali membranose (0,5-1 mm) e spesso arrossate"
+  },
+  {
+    "id": "Apiaceae_79",
+    "scientificName": "S. montanum subsp. montanum",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "Silphiodaucus (Koso-Pol.) Spalik et al. – Laserpizio\nPl. monocarpica a fu. slanciato, angoloso, generalm. glabro o con pelosità patente; fg. inf. a contorno triangolare-ovato, 2-3 pennatosette a segm. di ultimo ord. sessili o brevem. peduncolati, da cuneato-lanceolati a ellittici (10-30 mm), dentati o ± profondam. pennato-partiti, ispidi inferiorm.; fg. cauline simili, ma ridotte e meno divise; raggi scabri sul lato int.; br. e br.le numerose, simili, lanceolate, largam. bianco-scariose al marg., riflesse; mericarpo 3,5-4,5 mm"
+  },
+  {
+    "id": "Apiaceae_80",
+    "scientificName": "S. prutenicus",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "Sium L. – Berula\nPl. glabra, con fu. eretto, spesso, fistoloso (come i piccioli delle fg. inf.), ramoso in alto; fg. sommerse, 2-3-pennatosette, con divisioni di ultimo ord. lineari; fg. aeree 1-pennatosette, con 7-25(33) segm. ovato-lanceolati (5-10 cm), sessili, a marg. serrato, asimmetrici alla base e talora irregolarm. lobati; ombrelle 15-25(-30) raggi; br. 2-6, ± lanceolate; br.le 3-6, lanceolate; sep. lanceolato-acuti (~ 1 mm); stilopodio a cuscinetto, depresso sul bordo; mericarpo ellissoidale (3-4 mm), compresso, pentagonale-stellato per le coste prominenti (3 dorsali e 2 lat.)"
+  },
+  {
+    "id": "Apiaceae_81",
+    "scientificName": "S. latifolium",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "Smyrnium L. – Smirnio\n1\tFg. cauline amplessicauli con lamina indivisa priva di guaina. – Fu. angoloso, strettam. alato sugli angoli e qui ± pubescente; fg. basali 1-2 ternate a segm. ovati, da dentati a lobati; fg. cauline ovate, cordate, a margine crenato-serrato; ombrella a (5)8-10(12) raggi; br. invol. e bratteole 0; fi. gialli; fr. semiovoidale (3-3,5 mm) nero, lucido"
+  },
+  {
+    "id": "Apiaceae_82",
+    "scientificName": "S. perfoliatum subsp. perfoliatum",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "–\tFg. cauline non amplessicauli, ternate, con guaina fglr. rigonfia e striata. – Fu. angoloso; fg. verde scuro e lucide di sopra, le basali a contorno triangolare, ternate con segm. 1-2-pennati, a lobi (1-6 cm) ovato-rombici, crenato-dentati; fg. cauline minori e meno divise; ombrella generalm. a 7-15 raggi; br. invol. e bratteole 0-2; fi. bianchi (inizialmente giallo-verdastri); fr. (6-7 mm) con 3 coste, rugoso trasversalm., nero"
+  },
+  {
+    "id": "Apiaceae_83",
+    "scientificName": "S. olusatrum",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "Thysselinum Adans. – Peucedano\nPl. glabra (eccetto il lato inf. del picciolo e i raggi dell’ombrella), Fu. eretto, robusto, cavo, ± angoloso-solcato, ramoso in alto, spesso arrossato; fg. a contorno triangolare, 2-4-pennatosette, a segm. di ultimo ord. ovati (5-20 mm), pennatopartiti a lacinie lineari-oblunghe, intere o 2-3-fide; picciolo fortem. canalicolato di sopra; fg. sup. minori e meno divise, con guaine abbraccianti; raggi 20-40, puberulente e scabre sul lato int.; br. e br.le 4 o più, lanceolate, intere o 2-3-fide, ribattute; mericarpo lenticolare, ellittico (4-5 mm); creste dorsali (3) larghe e prominenti, le lat. con ali larghe (0,5-0,8 mm)"
+  },
+  {
+    "id": "Apiaceae_84",
+    "scientificName": "T. palustre",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "Tommasinia Bertol. – Peucedano\nFu. eretti, robusti ( fino a 50 mm), cavi, striati, ramosi; rami inf. sparsi, i sup. verticillati; fg. inf. (30-80 cm) a contorno triangolare, 2-3-pennato-ternate, a segm. ultimi ovati od ovato-oblunghi (3-8 cm), irregolarm. dentati o 3-lobi; fg. cauline minori e meno divise, con larghe guaine abbraccianti, le sup. con lamina molto ridotta; raggi 10-30; ombrella terminale più ampia delle lat., verticillate e con soli fi. ♂; br. 0-1; br.le poche, capillari; mericarpo ellittico, dorsalm. compresso (7-9 mm); coste  dorsali prominenti, le lat. con ali larghe 2-2,5 mm, talora quanto il mericarpo"
+  },
+  {
+    "id": "Apiaceae_85",
+    "scientificName": "T. altissima",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "Tordylium L. – Tordilio\nPl. mollem. pubesc. a fu. eretti, pieni, solcati, ramosi anche dalla base; fg. semplicem. pennate a 7-9 segm., quelli delle fg. inf. ovati (12-15 mm), crenato-lobati; fg. sup. a segm. lineari, interi; br. e br.le numerose (5-7), subulate, setolose; fi. periferici con un pt. raggiante bilobo (4-5 mm); mericarpo ellittico (5-8 mm), con ala ondulata, minutam. papillosa, assottigliata in basso"
+  },
+  {
+    "id": "Apiaceae_86",
+    "scientificName": "T. apulum",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "Torilis Adans. – Torilis\n1\tOmbrelle glomerulate, subsessili, a raggi brevissimi, opposte alle fg. cauline. – Fu. sdraiato o ascendente, debolm. scabro; fg. 2-3 pennatosette; br. involucrali assenti; bratteole superanti i fi.; cor. bianca; fr. (2-3 mm) esterni aculeati, gli interni tubercolati"
+  },
+  {
+    "id": "Apiaceae_87",
+    "scientificName": "T. nodosa",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "–\tOmbrelle peduncolate, terminali, a raggi bene sviluppati.\t2\n2\tBr. dell’involucro assenti o 1-2; aculei del fr. (achenio) con breve uncino apicale. – Fu. eretto, scabro e setoloso; fg. variabili lungo il fu., da 2-4 pennate a trifogliate, con lacinie larghe al più 2 mm; da grossolanam. dentati a subinteri; ombrelle a 3-9 raggi; stilo setoso in basso; cor. bianca; fr. (3-6 mm) ovoide"
+  },
+  {
+    "id": "Apiaceae_88",
+    "scientificName": "T. arvensis subsp. arvensis",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "–\tBr. dell’involucro 4-6(12); aculei del fr. arcuati ma senza uncino apicale. – Fu. eretto, setoloso, scabro; fg. 1-3 pennatosette; ombrelle a 9-12 raggi; stilo glabro; cor. bianca; fr. (3-4 mm) ovoide"
+  },
+  {
+    "id": "Apiaceae_89",
+    "scientificName": "T. japonica",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "Trinia Hoffm. – Trinia\nPl. glabra, glauca, con fu. eretto, zigzagante, angoloso, con rami inf. lunghi ± come l'asse principale; fg. 2-3-pennatosette, a segm. strettamente lineari (5-30 mm, nelle pl. ♀ le dimensioni maggiori) con nervi indistinti; ombrelle di 1° ordine a 4-8(-10) raggi; br. e br.le assenti; pt. bianco-rosei (~ 1 mm); fr. ovoide (2-3,5 mm), glabro; mericarpi con 5 coste primarie"
+  },
+  {
+    "id": "Apiaceae_90",
+    "scientificName": "T. glauca subsp. glauca",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "Xanthoselinum Schur – Peucedano\nFu. eretti, cavi, striati in basso, ramosi; fg. inf. (15-25 mm) a contorno ovato-triangolare, 2-3(4) pennatosette, con segm. di ultimo ord. ovato- o lanceolato-oblunghi, cuneati alla base, solitam. lobati; fg. cauline ridotte, meno suddivise e con guaina abbracciante; ombrelle a 15-25 raggi papilloso-scabri e puberulenti sul lato int.; br. e br.le 4-10, lineari; mericarpo largam. ellittico (5-6 mm), compresso, con coste dorsali prominenti e lat. alate (0,7-1 mm)"
+  },
+  {
+    "id": "Apiaceae_91",
+    "scientificName": "X. venetum",
+    "vernacularName": null,
+    "family": "Apiaceae",
+    "description": "APIACEAE\nAegopodium podagraria L. – Podagraria comune\nG riz; 30-80 cm; V-VII; boschi e margini boschivi umidi, arbusteti, siepi; P-M; FF\nAPIACEAE\nAethusa cynapium L. – Cicuta aglina\nT scap; 0,3- 2,5 m; VI-IX; incolti, margini di coltivi, orti, siepi; P-M; PF\nTaxa infraspecifici:\nsubsp. cynapium \nsubsp. elata (Friedl.) Schübl & Martens\nAPIACEAE\nAmmi majus L. – Visnaga maggiore C (Reg. medit.) \nT scap; 30-80 cm; VI-VII; incolti, postcolture, sponde; P-C(M); RR\nNota. Specie a comparsa effimera e incostante.\nAPIACEAE\nAngelica sylvestris L. – Angelica selvatica\nH scap.; 50-200 cm; VI-VIII; boschi, megaforbieti, praterie igrofile, rive; P-M(S); F \nTaxa infraspecifici:\nsubsp. bernardiae Reduron \n[A. sylv. subsp. montana (Brot.) Arcang.] \nsubsp. sylvestris \nAPIACEAE\nAnthriscus cerefolium (L.) Hoffm. – Cerfoglio coltivato C (A: E Europa, SO Asia → subcosmop.) \nT scap; 30-80 cm; IV-VI; orti, incolti; P-C; RR\nAPIACEAE\nAnthriscus nitida (Wahlenb.) Hazsl. – Cerfoglio a foglie lucide\nH scap; 50-120 cm; VI-VIII; boschi e mantelli boschivi, megaforbieti; C-M; RR\nAPIACEAE\nAnthriscus sylvestris (L.) Hoffm. – Cerfoglio selvatico\nH scap; 80-150 cm; IV-VII; orli boschivi, siepi, prati, incolti; P-M; F\nTaxa infraspecifici:\nsubsp. alpina (Vill.) Gremli\nsubsp. sylvestris\nAPIACEAE\nApium graveolens L. – Sedano coltivato  \nH scap; 30-100 cm; V-IX; incolti umidi, sponde dei corsi d’acqua; P; RR \nAPIACEAE\nAstrantia bavarica F.W. Schultz – Astranzia bavarese \nH scap; 20-50 cm; VI-VIII; praterie, brughiere, arbusteti; M-S; RR\nAPIACEAE\nAstrantia carniolica Jacq. – Astranzia della Carniola \nH scap; 30-60 cm; VII-VIII; boschi e orli boschivi; praterie; (C) M; RR\nAPIACEAE\nAstrantia major L. – Astranzia maggiore\nH scap; 30-100 cm; VI-VIII; orli boschivi, prati; C-M; R\nTaxa infraspecifici:\nsubsp. involucrata (W.D.J. Koch) Ces. [A. m. subsp. carinthiaca Arcang.]\nsubsp. major \nAPIACEAE\nAthamanta cretensis L. subsp. cretensis – Atamanta comune\nH scap; 20-40 cm; VI-VIII; rupi, ghiaioni, pascoli sassosi; M-S; PF\nAPIACEAE\nAthamanta turbith (L.) Brot. subsp. turbith – Atamanta di Mattioli\nH scap; 30-50 cm; V-VI; rupi, ghiaioni; (P) M; PF\nNota: allo stato vegetativo confondibile con Seseli kochii (= S. gouanii), presente spesso negli stessi ambienti, ma quest'ultimo ha lacinie fglr. leggerm. più larghe, scure, opache e decisamente glauche.\nAPIACEAE\nBerula erecta (Huds.) Coville – Berula eretta\nG rhiz; 30-80(-100) cm; VI-VIII; acque correnti, canneti e cariceti, canali, rogge; P-(C); PF \nAPIACEAE\nBifora radians M. Bieb. – Bifora puzzolente EN \nT scap; 15-50 cm; V-VI; coltivi, orti, incolti; P; RR\nAPIACEAE\nBupleurum falcatum L. subsp. cernuum (Ten.) Arcang. – Bupleuro falcato\nH scap; 30-80(100) cm; VII-VIII; pascoli sassosi, prati; C; RR\nAPIACEAE\nBupleurum longifolium L. – Bupleuro a foglie lunghe VU\nH scap; 30-100 cm; VII-VIII; praterie, pascoli; M; RR\nAPIACEAE\nBupleurum petraeum L. – Bupleuro delle rocce \nH scap; 20-30(40) cm; VII-VIII; rupi; M-S(A); PF\nAPIACEAE\nBupleurum praealtum L. – Bupleuro altissimo\nT scap; (30)50-150 cm; pascoli sassosi, orli boschivi; incolti aridi; P-C; R\nAPIACEAE\nBupleurum ranunculoides L. subsp. ranunculoides – Bupleuro ranuncoloide\nH scap; 20-30 cm; VII-VIII; praterie, pascoli sassosi; brecciai; C-M; PF\nAPIACEAE\nBupleurum rotundifolium L. – Bupleuro a foglie rotonde (A: S Europa, SO Asia) RE\nT scap; 15-60 cm; V-VI; campi e colture di cereali; P\nAPIACEAE\nBupleurum subovatum Link ex Spreng. – Bupleuro subovato (Reg. medit.) RE\nT scap; 15-60 cm; V-VI; campi e colture di cereali; P\nAPIACEAE\nBupleurum tenuissimum L. – Bupleuro gracilissimo CR \nT scap; 10-40 cm; VII-IX; habitat alofili, incolti su terreni salsi; L; RR\nAPIACEAE\nBupleurum veronense Turra – B. veronese\nT scap; 10-30 cm; VI-VII; pascoli sassosi, praterie; P-M; R\nAPIACEAE\nCarum carvi L. – Cumino dei prati\nH scap; 30-80 cm; V-VIII; prati, pascoli, praterie; P-S; F\nAPIACEAE\nCervaria rivini Gaertn. – Peucedano dei cervi\n[Peucedanum cervaria (L.) Lapeyr.]\nH scap; 40-100 cm; VII-IX; orli e radure boschivi, praterie; P-M; F; \nAPIACEAE\nChaerophyllum aureum L. – Cerfoglio dorato\nH scap; 80-120 cm; VI-VII; orli boschivi, megaforbieti, incolti umidi; P-M; PF\nAPIACEAE\nChaerophyllum hirsutum L. – Cerfoglio irsuto \nH scap; 50-120 cm; VI-VIII; orli boschivi, megaforbieti, prati umidi; C-M; F\nAPIACEAE\nChaerophyllum temulum L. – Cerfoglio inebriante\nT scap/H bien; 30-100 cm; V-VII; orli boschivi, incolti, ruderi; P-C(M); PF\nAPIACEAE\nChaerophyllum villarsii W.D.J. Koch. – Cerfoglio di Villars \nH scap; 50-120 cm; VI-VIII; orli boschivi, megaforbieti, praterie; C-M(S); PF\nAPIACEAE\nConium maculatum L. subsp. maculatum – Cicuta maggiore \nH scap (H bien); 0,5-2 m; VI-VII; incolti, scarpate; P(M); R\nAPIACEAE\nCoriandrum sativum L. – Coriandolo comune C?(A: Reg. medit., O Asia?)\nT scap; 20-50 cm; V-VI; incolti, orti; P-C; RR\nAPIACEAE\nCoristospermum seguieri (Jacq.) Banfi, Galasso & Soldano – Ligustico di Seguier\n[Ligusticum lucidum Mill. subsp. seguieri (Jacq.) Leute]\nH scap; 50-130 cm; VI-VIII; rupi, ghiaioni, pascoli sassosi; C-M; R\nAPIACEAE\nCrithmum maritimum L. – Finocchio marino\nC suff; 20-50 cm; VII-VIII; rupi marittime, scogli, moli; L; R\nAPIACEAE\nCyclospermum leptophyllum (Pers.) Sprague ex Britton & P. Wilson – Sedano a foglia sottile C (Amer.) \n[Apium leptophyllum (Pers.) F. Muell.]\nT scap; 20-70 cm; V-VI; incolti, sponde, greti; P; RR\nAPIACEAE\nDaucus carota L. – Carota selvatica\nH bien/T scap; 30-100 cm; V-X\nTaxa infraspecifici:\nsubsp. carota\nsubsp. maritimus (Lam.) Batt.\nsubsp. sativus (Hoffm.) Schübl. & G. Martens C (A: O Asia)\nAPIACEAE\nDichoropetalum carvifolium-chabraei (Crantz) Soldano, Galasso & Banfi – Peucedano carvifoglio IR!\nH scap; 30-80 cm; VIII-IX; boschi e orli boschivi; P-C(M); R\nAPIACEAE\nDichoropetalum schottii (Bess. ex DC.) Pimenov & Kljuykov – Peucedano di Schott\nH scap; 30-80 cm; VII-IX; boschi e orli boschivi, pascoli sassosi; P-M; PF\nAPIACEAE \nEchinophora spinosa L. – Echinofora spinosa EN\nH scap; 20-50 cm; VI-IX; dune marittime, coste rocciose; P; RR; \nAPIACEAE\nEryngium alpinum L. – Calcatreppola alpina EN IE!\nH scap; 30-70 cm; VII-IX; praterie, arbusteti; M(S); R\nAPIACEAE\nEryngium amethystinum L. – Calcatreppola ametistina\nH scap; 30-50 cm; VII-IX; praterie, pascoli sassosi; P-C; F\nAPIACEAE\nEryngium campestre L. – Calcatreppola campestre\nH scap; 15-40 cm; VII-IX; praterie, incolti, scarpate; P; RR\nAPIACEAE\nEryngium maritimum L. – Calcatreppola marittima VU IR!\nG riz; 20-40 cm; VI-IX; habitat psammofili; L; RR\nAPIACEAE\nFerula glauca L. – Ferula glauca N (Reg. medit.) \n[F. communis L. subsp. glauca (L.) Rouy & E.G. Camus]\nH scap; 1-3 m; V-VII; incolti, pascoli aridi; P; N.\nAPIACEAE\nFerulago campestris (Besser) Grecescu – Ferula dei campi\nH scap; 50-120 cm; VI-VIII; praterie e pascoli sassosi, margini boschivi; P-M; PF\nAPIACEAE \nFoeniculum vulgare Mill. subsp. vulgare – F. comune\nH scap/H bien; 50-200 cm; VI-X; incolti, margini di strade e campi; P-C(M); PF\nNota. La subsp. piperitum (Ucria) Bég., talora sfuggita a coltura, si differenzia per le ombrelle con minor numero di raggi (4-10) e i segm. fglr. rigidi e < 10 mm.\nAPIACEAE \nGrafia golaka (Hacq.) Rchb. – Grafia del M. Golaki\nH scap; 40-100 cm; VI-VIII; rupi, praterie, orli boschivi; M-S; PF\nAPIACEAE \nHacquetia epipactis (Scop.) DC. – Hacquetia elleborina\nH ros; 8-25 cm; III-IV; boschi; P-M; R\nAPIACEAE\nHeracleum mantegazzianum Sommier & Levier – Panace di Mantegazzi C (Caucaso)\nH scap; 2-4 m; VII-VIII; incolti, sponde; C-M; RR\nNota. La pianta può provocare fotodermatiti per strofinio (come il dittamo, Dictamnus albus).\nAPIACEAE\nHeracleum pyrenaicum Lam. subsp. pollinianum (Bertol.) F. Pedrotti & Pignatti – Panace dei Pirenei\nH scap; 50-150 cm; VII-VIII; ghiaioni; M-S; RR\nAPIACEAE\nHeracleum sphondylium L. subsp. elegans (Crantz) Schübl. & G. Martens  – Panace elegante\nH scap; VI-VIII; 50-150 cm; megaforbieti, macereti; C-A; PF\nAPIACEAE\nHeracleum sphondylium L. subsp. sphondylium – Panace comune\nH scap; VI-VII; 50-150 cm; megaforbieti, orli boschivi, prati; P-S; F\nAPIACEAE\nImperatoria ostruthium L. – Imperatoria comune\n[Peucedanum ostruthium (L.) W.D.J. Koch]\nH scap; 30-100 cm; VII-VIII; orli boschivi, megaforbieti, vegetaz. di malga; M-A; PF\nAPIACEAE\nKatapsuxis silaifolia (Jacq.) Reduron, Charpin & Pimenov – Carvifoglio dei boschi\n[Cnidium silaifolium (Jacq.) Simonkai]\nH scap; 50-120 cm; VI-VII; boschi e orli boschivi; P-C(M); R\nAPIACEAE\nLaserpitium latifolium L. subsp. latifolium – Laserpizio a foglie larghe\nH scap; 80-150 cm; VII-VIII; orli boschivi; (P) C-M; F\nAPIACEAE\nLaserpitium peucedanoides L. – Laserpizio falso peucedano\nH scap; 10-60 cm; VI-VIII; praterie, ghiaioni, orli boschivi; C-S; PF\nAPIACEAE\nMolopospermum peloponnesiacum (L.) W.D.J. Koch subsp. bauhinii I. Ullmann – Cicutaria fetida \nH scap; 60-200 cm; VI-VII; orli boschivi, megaforbieti, praterie rupestri; M; R\nAPIACEAE\nMutellina adonidifolia (J. Gay) Gutermann – Ligustico a foglie di adonide\n[Ligusticum mutellina (L.) Crantz]\nH scap; 10-40 cm; VI-VIII; praterie; S-A; RR\nAPIACEAE\nMyrrhis odorata (L.) Scop. – Mirride odorosa\nH scap; 50-120 cm; VI-VIII; orli boschivi, megaforbieti, arbusteti; M-S; PF\nAPIACEAE\nOenanthe aquatica (L.) Poir. – Finocchio acquatico cicutario CR\nH scap; 50-150(200) cm; VI-VIII; paludi, sponde; L (P); RR\nAPIACEAE\nOenanthe lachenalii C.C. Gmel. – Finocchio acquatico di Lachenal VU\nH scap; 30-90 cm; VII-VIII; prati umidi; L-P; R\nAPIACEAE\nOenanthe pimpinelloides L. – Finocchio acquatico comune\nH scap; 30-100 cm; V-VII; boschi e prati umidi, sponde; L-C; PF\nAPIACEAE\nOreoselinum nigrum Delarbre – Peucedano prezzemolo di monte\n[Peucedanum oreoselinum (L.) Moench]\nH scap; 30-90 cm; VI-IX; praterie, pascoli sassosi, orli boschivi; P-M; FF\nAPIACEAE\nOrlaya grandiflora (L.) Hoff. – Orlaia a fiori grandi \nT scap; 8-50 cm; IV-VI; pascoli sassosi, orli boschivi, incolti, pratelli ruderali; P-C; PF\nAPIACEAE\nPachypleurum mutellinoides (Crantz) Holub – Ligustico falsa mutellina\n[Ligusticum mutellinoides (Crantz) Vill.]\nH ros; 3-15 cm; VII-VIII; praterie; S-A; RR\nAPIACEAE\nPastinaca sativa L. subsp. sativa – Pastinaca coltivata\nH bienn; 40-100 cm; VI-IX; prati da sfalcio, incolti, margini di strade; P-M; F; \nAPIACEAE\nPeucedanum officinale L. subsp. officinale – Peucedano officinale EN\nH scap; 0,6-2 m; VII; orli boschivi; M; RR\nAPIACEAE\nPimpinella major (L.) Huds. – Pimpinella maggiore\nH scap; 30-80 cm; VI-IX; var. major: prati da sfalcio, orli boschivi; P-M; F; var. rubra: praterie; M-S; F\nAPIACEAE\nPimpinella peregrina L. – Pimpinella pellegrina N (Reg. medit.)\nH bien; 40-100 cm; VI-VII; incolti, siepi; C; RR\nAPIACEAE\nPimpinella saxifraga L. subsp. alpina Nyman – Pimpinella alpina\nH scap; 15-30 cm; VII-VIII; praterie, rupi, ghiaioni; M-S; R\nAPIACEAE\nPimpinella saxifraga L. subsp. saxifraga – Pimpinella sassifraga\nH scap; 10-30 cm; VII-IX; pascoli sassosi, praterie; P-M; F\nAPIACEAE\nPleurospermum austriacum (L.) Hoffm. – Pleurospermo austriaco\nH scap; 0,5-1,5(2) m; VI-VIII; orli boschivi, megaforbieti; M; R\nAPIACEAE\nPteroselinum austriacum (Jacq.) Rchb. subsp. rablense (Wulfen) Čelak. – Peucedano di Raibl \n[Peucedanum austriacum (Jacq.) W.D.J. Koch subsp. rablense W.D.J. Koch]\nH scap; 50-120 cm; VII-VIII; orli boschivi, pascoli sassosi; M-S; PF\nAPIACEAE\nSanicula europaea L. – Sanicola europea\nH scap (H ros); 20-50 cm; V-VII; boschi; P-M; F\nAPIACEAE\nScandix pecten-veneris L. subsp. pecten-veneris – Pettine di Venere comune \nT scap; 10-30 cm; IV-V; incolti, margini di strade, pratelli ruderali; P-C; R\nAPIACEAE\nSelinum carvifolia (L.) L. – Carvifoglio palustre\nH scap; 30-90 cm; VII-VIII; boschi e praterie umidi; P-M; PF \nAPIACEAE \nSeseli annuum L. subsp. annuum – Seseli annuo\nH bien; 30-80 cm; VII-X; pascoli sassosi, prati aridi; P-M; PF\nAPIACEAE \nSeseli kochii Breistr. – Seseli di Koch\n[S. gouanii W.D.J. Koch]\nH scap; 40-70 cm; VII-IX; pascoli sassosi, praterie, rupi; P-M; PF\nAPIACEAE \nSeseli libanotis (L.) W.D.J. Koch – Seseli libanotide\nH scap; 15-150 cm; VI-VIII; pascoli sassosi, praterie, rupi, ghiaioni\nTaxa infraspecifici:\nsubsp. daucifolium (Scop.) DC. \n[Libanotis daucifolia [Scop.] Rchb.]\nsubsp. libanotis C-S; PF\n[Libanotis sibirica (L.) C.A. Mey., L. pyrenaica (L.) Bourg.]\nAPIACEAE \nSeseli tommasinii Rchb. f. – Seseli di Tommasini VU\nH scap; 30-60 cm; VIII-IX; pascoli sassosi; C; RR\nAPIACEAE\nSiler montanum Crantz subsp. montanum – Laserpizio montano\n[Laserpitium siler L. subsp. siler]\nH scap; 40-150 cm; V-VIII; rupi, ghiaioni, orli boschivi, praterie; (P)C-A; PF\nAPIACEAE\nSilphiodaucus prutenicus (L.) Spalik et al. – Laserpizio di Prussia\n[Laserpitium prutenicum L.]\nH bien (H scap); 30-100 cm; VII-VIII; prati e praterie umidi; P-M; PF\nAPIACEAE\nSium latifolium L. – Berula a foglie larghe CR\nHe; 60-120 cm; VII-IX; acque ferme o in lento movimento; P; RR \nAPIACEAE \nSmyrnium olusatrum L. – Smirnio comune C (Reg. Medit.-atl.) \nH. bien; 30-120 cm; IV-V; incolti, aiole; P; RR\nAPIACEAE \nSmyrnium perfoliatum L. subsp. perfoliatum – Smirnio perfogliato\nH bien; 30-80(120) cm; IV-V; orli boschivi, siepi; P; RR\nAPIACEAE \nThysselinum palustre (L.) Hoffm. – Peucedano palustre EN\n[Peucedanum palustre (L.) Moench]\nH scap; 30-150(200) cm; VII-VIII; paludi, torbiere; P-C; RR\nAPIACEAE \nTommasinia altissima (Mill.) Reduron – Peucedano verticillato\n[Peucedanum verticillare (L.) W.D.J. Koch]\nH scap; 1,5-2,5(3) m; VI-VIII; orli boschivi, pendii rupestri, greti, incolti; P-M; F\nAPIACEAE \nTordylium apulum L. – Tordilio pugliese \nT scap; 20-50 cm; IV-V; margini di strade, pratelli ruderali, incolti; P; RR\nAPIACEAE \nTorilis arvensis (Huds.) Link subsp. arvensis – Torilis dei campi\nT scap; 15-100 cm; VI-VIII; incolti, aiole, siepi, orli boschivi; P-C (M); F\nAPIACEAE \nTorilis japonica (Houtt.) DC. – Torilis giapponese\nT scap; 15-100 cm; VI-VIII; incolti, aiole, siepi, orli boschivi; P-C (M); PF\nAPIACEAE \nTorilis nodosa (L.) Gaertn. – Torilis nodosa \nT scap; 10-50 cm; V-VI; aiole, incolti, pratelli ruderali; P-C; R\nAPIACEAE \nTrinia glauca (L.) Dumort. subsp. glauca – Trinia glauca\nH scap; 15-40 cm; IV-V; pascoli rupestri, praterie; P-M; PF\nAPIACEAE \nXanthoselinum venetum (Spreng.) Soldano & Banfi – Peucedano veneto\n[Peucedanum venetum (Spreng.) W.D.J. Koch]\nH scap; 50-120 cm; VII-IX; praterie, orli boschivi, margini di siepi e strade, incolti; P-M; F\nF cresc; dimensioni; fior.; habitat; fasce altit.; freq.; minaccia; protez.; status aliena (provenienza)"
+  },
+  {
+    "id": "apocynaceae_asclepias_syriaca_l",
+    "scientificName": "Asclepias syriaca L.",
+    "vernacularName": "Asclepiade siriana N (N Amer.)",
+    "family": "Apocynaceae",
+    "description": "G riz; 80-150 cm; V-VII; incolti; P-C; R"
+  },
+  {
+    "id": "apocynaceae_periploca_graeca_l",
+    "scientificName": "Periploca graeca L.",
+    "vernacularName": "Periploca greca C (Reg. medit. E)",
+    "family": "Apocynaceae",
+    "description": "P lian; 2-5 m; V-VI; incolti; L-P; RR"
+  },
+  {
+    "id": "apocynaceae_trachomitum_venetum_l_woodson_subsp_venetum",
+    "scientificName": "Trachomitum venetum (L.) Woodson subsp. venetum",
+    "vernacularName": "Apocino veneto VU IR! [Apocynum venetum L.]",
+    "family": "Apocynaceae",
+    "description": "G riz; 30-50 cm; VI-VII; dune costiere; L; RR"
+  },
+  {
+    "id": "apocynaceae_vinca_major_l_subsp_major",
+    "scientificName": "Vinca major L. subsp. major",
+    "vernacularName": "Pervinca maggiore N (Reg. medit., O Asia)",
+    "family": "Apocynaceae",
+    "description": "Ch rept; 15-40 cm; IV-V; incolti, siepi; P-M; PF"
+  },
+  {
+    "id": "apocynaceae_vinca_minor_l",
+    "scientificName": "Vinca minor L.",
+    "vernacularName": "Pervinca minore",
+    "family": "Apocynaceae",
+    "description": "Ch rept; 10-20 cm; III-V; boschi di latifoglie; P-M; F"
+  },
+  {
+    "id": "apocynaceae_vincetoxicum_hirundinaria_medik",
+    "scientificName": "Vincetoxicum hirundinaria Medik.",
+    "vernacularName": "Vincetossico comune [Cynanchum vincetoxicum (L.) Pers.]",
+    "family": "Apocynaceae",
+    "description": "H scap; 30-120 cm; V-VIII; boschi, orli e mantelli boschivi, siepi, praterie; (distribuz. e freq.: vedi chiave analitica)"
+  },
+  {
+    "id": "araceae_arum_italicum_mill_subsp_italicum",
+    "scientificName": "Arum italicum Mill. subsp. italicum",
+    "vernacularName": "Gigaro italiano",
+    "family": "Araceae",
+    "description": "G riz; 40-80 cm; IV-V; boscaglie, siepi, sponde; P-C; F"
+  },
+  {
+    "id": "araceae_arum_maculatum_l",
+    "scientificName": "Arum maculatum L.",
+    "vernacularName": "Gigaro macchiato",
+    "family": "Araceae",
+    "description": "G riz; 15-40; IV-V; Boschi; P-M; PF"
+  },
+  {
+    "id": "araceae_dracunculus_vulgaris_schott",
+    "scientificName": "Dracunculus vulgaris Schott",
+    "vernacularName": "Dragontea comune C (Reg. medit.)",
+    "family": "Araceae",
+    "description": "Freq. RR; Alt. 20-100 m; Hab. DI"
+  },
+  {
+    "id": "araceae_lemna_gibba_l",
+    "scientificName": "Lemna gibba L.",
+    "vernacularName": "Lenticchia d’acqua spugnosa VU",
+    "family": "Araceae",
+    "description": "I nat; 3-6 mm; V-IX; acque dolci ferme o a flusso lento; P; RR"
+  },
+  {
+    "id": "araceae_lemna_minor_l",
+    "scientificName": "Lemna minor L.",
+    "vernacularName": "Lenticchia d’acqua comune",
+    "family": "Araceae",
+    "description": "I nat; 1-6 mm; V-IX (fiorit. rara); acque dolci ferme o a flusso lento; P-C; PF"
+  },
+  {
+    "id": "araceae_lemna_minuta_kunth",
+    "scientificName": "Lemna minuta Kunth",
+    "vernacularName": "Lenticchia d’acqua minuscola N (Amer.)",
+    "family": "Araceae",
+    "description": "I nat; 1-2 (3) mm; V-IX (fiorit. rara); acque dolci ferme o a flusso lento; P-C; R"
+  },
+  {
+    "id": "araceae_lemna_trisulca_l",
+    "scientificName": "Lemna trisulca L.",
+    "vernacularName": "Lenticchia d’acqua spatolata",
+    "family": "Araceae",
+    "description": "I nat; 7-10 mm; V-VIII (fiorit. rara); acque dolci ferme o a flusso lento; P-C; R"
+  },
+  {
+    "id": "araceae_pinellia_ternata_thunb_ten_ex_breitenb",
+    "scientificName": "Pinellia ternata (Thunb.) Ten. ex Breitenb.",
+    "vernacularName": "Pinellia trifogliata (Cina, Corea e Giappone)",
+    "family": "Araceae",
+    "description": "G riz; 11-40 cm; V-VI; incolti; C; RR Nota. Ormai naturalizzata e infestante nel Civico Orto Botanico di Trieste, ma non ancora segnalata all’esterno."
+  },
+  {
+    "id": "araceae_pistia_stratiotes_l",
+    "scientificName": "Pistia stratiotes L.",
+    "vernacularName": "Vela d’acqua, pistia C (Amer. trop.)",
+    "family": "Araceae",
+    "description": "I nat; 5-15 cm; I-VI; acque ferme; P; RR"
+  },
+  {
+    "id": "araceae_spirodela_polyrhiza_l_schleid",
+    "scientificName": "Spirodela polyrhiza (L.) Schleid.",
+    "vernacularName": "Lenticchia d’acqua maggiore EN",
+    "family": "Araceae",
+    "description": "I nat; (fior. sporadica: VI-VII); acque ferme; P-C; RR"
+  },
+  {
+    "id": "araceae_wolffia_arrhiza_l_horkel_ex_wimm",
+    "scientificName": "Wolffia arrhiza (L.) Horkel ex Wimm.",
+    "vernacularName": "Wolffia RE",
+    "family": "Araceae",
+    "description": "I nat; acque ferme; P(?) Nota. Riportata per Pasiano (PN), loc. Azzanello nell’alveo del Sile Morto, ma non ritrovata di recente"
+  },
+  {
+    "id": "araceae_zantedeschia_aethiopica_l_spreng",
+    "scientificName": "Zantedeschia aethiopica (L.) Spreng.",
+    "vernacularName": "Calla comune C (S Africa)",
+    "family": "Araceae",
+    "description": "G riz; IV-V; 50-100 cm; sponde, argini; P; R"
+  }
+]

@@ -1,0 +1,2175 @@
+{
+  "Alismataceae": {
+    "family": "Alismataceae",
+    "root": "a1",
+    "nodes": [
+      {
+        "id": "a1",
+        "prompt": "1",
+        "options": [
+          {
+            "label": "Fg. aeree profondam. sagittate; fi. unisessuati, i sup. ♂ (stami numerosi), gli inf. ♀",
+            "next": "sag1"
+          },
+          {
+            "label": "Fg. aeree mai sagittate; fi. ⚥ con 6 stami",
+            "next": "a2"
+          }
+        ]
+      },
+      {
+        "id": "a2",
+        "prompt": "2",
+        "options": [
+          {
+            "label": "Infior. ombrelliforme (talora con un secondo verticillo di fi. sotto l’ombrella); ricettacolo e infrutt. sferici",
+            "next": "bal1"
+          },
+          {
+            "label": "Infior. panicolata a 2-4 verticilli di rami; ricettacolo e infrutt. piani",
+            "next": "ali1"
+          }
+        ]
+      },
+      {
+        "id": "ali1",
+        "prompt": "Alisma L. – Mestolaccia — 1",
+        "options": [
+          {
+            "label": "Fg. natanti da strettam. ellittiche a lanceolate, attenuate alla base. – Fg. con rapporto lung./larg. > 3; pt. solitam. acuti, da bianchi a roseo-porporini; stimma lungo 1/2-2/3 dello stilo; fi. che si aprono al mattino",
+            "speciesId": "alismataceae_alisma_lanceolatum"
+          },
+          {
+            "label": "Fg. natanti da ovali a largam. ellittiche, arrotondate o subcordate alla base. – Fg. con rapporto lung./larg. < 2,5; pt. solitam. ottusi, bianchi o roseo pallidi; stimma lungo 1/8-1/6 dello stilo; fi. che si aprono al pomeriggio",
+            "speciesId": "alismataceae_alisma_plantago_aquatica"
+          }
+        ]
+      },
+      {
+        "id": "bal1",
+        "prompt": "Baldellia Parl. – Mestolaccia",
+        "options": [
+          {
+            "label": "Fu. eretti; fg. sommerse graminoidi, le aeree lanceolate o -lineari, attenuate alla base e all’apice, decorrenti in lungo picciolo; pt. obcordati (7-10 mm), bianchi o roseo-pallidi; acheni (2-3,5 mm) strettam. obovoidali riuniti in teste globose",
+            "speciesId": "alismataceae_baldellia_ranunculoides"
+          }
+        ]
+      },
+      {
+        "id": "sag1",
+        "prompt": "Sagittaria L. – Sagittaria — 1",
+        "options": [
+          {
+            "label": "Infior. bisessuate (fi. ♀ in basso, gli altri ♂); acheni 4-6 mm con becco apicale eretto (< 1 mm). – Pt. bianchi solitam. con macchia porporina alla base; fg. aeree tardive largam o strettam. sagittate con tratto mediano largo più di 6 cm; pt. lunghi 10-15 mm; ant. gialle per lo più lunghe quanto i filam.",
+            "speciesId": "alismataceae_sagittaria_sagittifolia"
+          },
+          {
+            "label": "Infior. unisessuate; acheni 2,5-4 mm con becco dorsale patente (> 1 mm). – Pt. completam. bianchi; fg. aeree tardive largam o strettam. sagittate con tratto mediano largo meno di 4 cm; pt. lunghi 10-20 mm; ant. porporine solitam. più brevi dei filam.",
+            "speciesId": "alismataceae_sagittaria_latifolia"
+          }
+        ]
+      }
+    ]
+  },
+  "Amaranthaceae": {
+    "family": "Amaranthaceae",
+    "root": "a1",
+    "nodes": [
+      {
+        "id": "a1",
+        "prompt": "1",
+        "options": [
+          {
+            "label": "Fg.. apparentam. assenti, ridotte a un paio di denti fusi nel segm. articolare; fu. e rami articolati; infior. situate all’interno di alveoli dell’asse fior.",
+            "next": "a2"
+          },
+          {
+            "label": "Fg. sviluppate (spesso precocem. caduche); infior. esterne all’asse fior.",
+            "next": "a4"
+          }
+        ]
+      },
+      {
+        "id": "a2",
+        "prompt": "2",
+        "options": [
+          {
+            "label": "Pl. annue, senza getti vegetativi sterili, quindi rami tutti fioriferi",
+            "next": "genus_salicornia"
+          },
+          {
+            "label": "Pl. perenni, con getti vegetativi sterili, quindi rami non tutti fioriferi",
+            "next": "a3"
+          }
+        ]
+      },
+      {
+        "id": "a3",
+        "prompt": "3",
+        "options": [
+          {
+            "label": "Infior. parziali costituite da 3 fi. racchiusi in un alveolo comune; infior. lat., portate sui rami dell’anno precedente",
+            "next": "genus_arthrocaulon"
+          },
+          {
+            "label": "Infior. parziali a 3 fi. racchiusi da 3 alveoli distinti allineati orizzontalm.; infior. terminali, portate sui rami dell’anno",
+            "next": "genus_salicornia"
+          }
+        ]
+      },
+      {
+        "id": "a4",
+        "prompt": "4",
+        "options": [
+          {
+            "label": "Fg. lineari o cilindriche, subsessili",
+            "next": "a5"
+          },
+          {
+            "label": "Fg. a lamina piana e picciolo distinto",
+            "next": "a10"
+          }
+        ]
+      },
+      {
+        "id": "a5",
+        "prompt": "5",
+        "options": [
+          {
+            "label": "Fi. sottesi da 2-3 br.le",
+            "next": "a6"
+          },
+          {
+            "label": "Fi. privi di br.le",
+            "next": "a9"
+          }
+        ]
+      },
+      {
+        "id": "a6",
+        "prompt": "6",
+        "options": [
+          {
+            "label": "Fg. subulate, non succulente, a sez. triangolare, con apice spinuloso ma non pungente; 3 stami con filam. saldati",
+            "next": "genus_polycnemum"
+          },
+          {
+            "label": "Fg. carnose, ± cilindriche; 5 stami a filam. liberi",
+            "next": "a7"
+          }
+        ]
+      },
+      {
+        "id": "a7",
+        "prompt": "7",
+        "options": [
+          {
+            "label": "Segm. del pa. carnosi e privi di carena nel fr.; fr. globoso senza ali; fg. assottilgiate alla base",
+            "next": "genus_suaeda"
+          },
+          {
+            "label": "Segm. del pa. membranoso-coriacei nel fr..; fr. con carena o ala trasv. (non sempre sviluppata); fg. allargato-semiamplessicauli alla base",
+            "next": "a8"
+          }
+        ]
+      },
+      {
+        "id": "a8",
+        "prompt": "8",
+        "options": [
+          {
+            "label": "Fg. e br. a mucrone non pungente; segm. del pa. a carena non (o molto raram.) allargata in ala nel fr. maturo",
+            "next": "genus_salsola"
+          },
+          {
+            "label": "Fg. (almeno le med. e sup.) e br. rigide, con mucrone pungente all’apice; segm. del pa. con carena spesso allargata in ala nel fr. maturo",
+            "next": "genus_soda"
+          }
+        ]
+      },
+      {
+        "id": "a9",
+        "prompt": "9",
+        "options": [
+          {
+            "label": "Pl. carnose; segm. del pa. con spina dorsale pubesc. nel fr.",
+            "next": "genus_spirobassia"
+          },
+          {
+            "label": "Pl. non carnose; segm. del pa. (nei fi. ⚥) con corta ala trasversale, spesso ridotta a un tubercolo nel fr.",
+            "next": "genus_bassia"
+          }
+        ]
+      },
+      {
+        "id": "a10",
+        "prompt": "10",
+        "options": [
+          {
+            "label": "Fi. sottesi da 3-5 br.le non o poco accrescenti nel fr; segm. del pa. membranacei",
+            "next": "a11"
+          },
+          {
+            "label": "Br.le assenti o molto ridotte, ovvero accrescenti e avvolgenti il fr.; segm. del pa. erbacei o carnosi",
+            "next": "a12"
+          }
+        ]
+      },
+      {
+        "id": "a11",
+        "prompt": "11",
+        "options": [
+          {
+            "label": "Pl. monoiche o  dioiche; filam. liberi; fr. con 1 solo seme",
+            "next": "genus_amaranthus"
+          },
+          {
+            "label": "Pl. ⚥; stami saldati in tubo inferiorm.; fr. con molti semi",
+            "next": "genus_celosia"
+          }
+        ]
+      },
+      {
+        "id": "a12",
+        "prompt": "12",
+        "options": [
+          {
+            "label": "Fi. unisessuati; br.le 2, accrescenti e avvolgenti il fr. (valve)",
+            "next": "a13"
+          },
+          {
+            "label": "Fi. ⚥; br.le non accrescenti nel fr.",
+            "next": "a14"
+          }
+        ]
+      },
+      {
+        "id": "a13",
+        "prompt": "13",
+        "options": [
+          {
+            "label": "Br.le (valve) libere o saldate al max. fino a metà nel fr.",
+            "next": "genus_atriplex"
+          },
+          {
+            "label": "Br.le (valve) completam. saldate fra loro nel fr.",
+            "next": "genus_halimione"
+          }
+        ]
+      },
+      {
+        "id": "a14",
+        "prompt": "14",
+        "options": [
+          {
+            "label": "Cal. lignificato e saldato con il fr. a maturità; ov. semiinfero",
+            "next": "genus_beta"
+          },
+          {
+            "label": "Cal. membranoso o carnoso a maturità",
+            "next": "a15"
+          }
+        ]
+      },
+      {
+        "id": "a15",
+        "prompt": "15",
+        "options": [
+          {
+            "label": "Segm. del pa. con ala trasversale sul dorso; ali completam. connate e circondanti il fr.",
+            "next": "genus_cycloloma"
+          },
+          {
+            "label": "Segm. del pa. senza ala trasversale sul dorso",
+            "next": "a16"
+          }
+        ]
+      },
+      {
+        "id": "a16",
+        "prompt": "16",
+        "options": [
+          {
+            "label": "Pl. ghiandoloso-pubesc. sulle fg. e sui segm. del pa., con forte odore aromatico",
+            "next": "genus_dysphania"
+          },
+          {
+            "label": "Pl. glabre o farinose per peli vescicolosi sulle fg. e sui segm. del pa. (almeno da giovani!), ovvero glabre o glabresc., inodore o talora fetide",
+            "next": "a17"
+          }
+        ]
+      },
+      {
+        "id": "a17",
+        "prompt": "17",
+        "options": [
+          {
+            "label": "Segm. del pa. a peli vescicolosi (farinosi) almeno nella fase giovanile; fi. ♂ generalm. a 5 stami",
+            "next": "a18"
+          },
+          {
+            "label": "Segm. del pa. glabri; fi. ♂ con 1-5 stami",
+            "next": "a19"
+          }
+        ]
+      },
+      {
+        "id": "a18",
+        "prompt": "18",
+        "options": [
+          {
+            "label": "Fg. giovani densam. farinose su entrambe le pag., da adulte almeno sulla pag. inf.",
+            "next": "genus_chenopodium"
+          },
+          {
+            "label": "Fg. giovani sparsam. farinose solo sulla pag. inf., da adulte glabre su ambedue le pag.",
+            "next": "genus_chenopodiastrum"
+          }
+        ]
+      },
+      {
+        "id": "a19",
+        "prompt": "19",
+        "options": [
+          {
+            "label": "Fg. in max. parte intere; fi. in cime pauciflore; stame unico; segm. del pa. separati dal fr. a maturità",
+            "next": "genus_lipandra"
+          },
+          {
+            "label": "Fg. in max. parte dentate o lobate; fi. in glomeruli densifl.; stami 1-5; segm. del pa. adesi al fr. a maturità",
+            "next": "a20"
+          }
+        ]
+      },
+      {
+        "id": "a20",
+        "prompt": "20",
+        "options": [
+          {
+            "label": "Fg. basali in rosetta, ma disseccate alla fior. (in tal caso osservare le cicatrici fglr. alla base del fu.!); pa. fortem. accrescente nel fr.",
+            "next": "genus_blitum"
+          },
+          {
+            "label": "Fg. basali non in rosetta; pa. non o solo debolm. accrescente nel fr.",
+            "next": "genus_oxybasis"
+          }
+        ]
+      },
+      {
+        "id": "genus_salicornia",
+        "prompt": "Salicornia",
+        "options": [
+          {
+            "label": "Salicornia fruticosa (L.) L.",
+            "speciesId": "amaranthaceae_salicornia_fruticosa_l_l"
+          },
+          {
+            "label": "Salicornia perennans Willd. subsp. perennans",
+            "speciesId": "amaranthaceae_salicornia_perennans_willd_subsp_perennans"
+          },
+          {
+            "label": "Salicornia perennis Mill.",
+            "speciesId": "amaranthaceae_salicornia_perennis_mill"
+          },
+          {
+            "label": "Salicornia procumbens Sm. subsp. procumbens",
+            "speciesId": "amaranthaceae_salicornia_procumbens_sm_subsp_procumbens"
+          }
+        ]
+      },
+      {
+        "id": "genus_arthrocaulon",
+        "prompt": "Arthrocaulon",
+        "options": [
+          {
+            "label": "Arthrocaulon macrostachyum (Moric.) Piirainen & G. Kadereit",
+            "speciesId": "amaranthaceae_arthrocaulon_macrostachyum_moric_piirainen_g_kadereit"
+          }
+        ]
+      },
+      {
+        "id": "genus_polycnemum",
+        "prompt": "Polycnemum",
+        "options": [
+          {
+            "label": "Polycnemum majus A. Braun",
+            "speciesId": "amaranthaceae_polycnemum_majus_a_braun"
+          }
+        ]
+      },
+      {
+        "id": "genus_suaeda",
+        "prompt": "Suaeda",
+        "options": [
+          {
+            "label": "Suaeda maritima (L.) Dumort.",
+            "speciesId": "amaranthaceae_suaeda_maritima_l_dumort"
+          },
+          {
+            "label": "Suaeda vera J.F. Gmel.",
+            "speciesId": "amaranthaceae_suaeda_vera_j_f_gmel"
+          }
+        ]
+      },
+      {
+        "id": "genus_salsola",
+        "prompt": "Salsola",
+        "options": [
+          {
+            "label": "Salsola tragus L.",
+            "speciesId": "amaranthaceae_salsola_tragus_l"
+          }
+        ]
+      },
+      {
+        "id": "genus_soda",
+        "prompt": "Soda",
+        "options": [
+          {
+            "label": "Soda inermis Fourr.",
+            "speciesId": "amaranthaceae_soda_inermis_fourr"
+          }
+        ]
+      },
+      {
+        "id": "genus_spirobassia",
+        "prompt": "Spirobassia",
+        "options": [
+          {
+            "label": "Spirobassia hirsuta (L.) Freitag & G. Kadereit",
+            "speciesId": "amaranthaceae_spirobassia_hirsuta_l_freitag_g_kadereit"
+          }
+        ]
+      },
+      {
+        "id": "genus_bassia",
+        "prompt": "Bassia",
+        "options": [
+          {
+            "label": "Bassia scoparia (L.) Voss",
+            "speciesId": "amaranthaceae_bassia_scoparia_l_voss"
+          }
+        ]
+      },
+      {
+        "id": "genus_celosia",
+        "prompt": "Celosia",
+        "options": [
+          {
+            "label": "Celosia argentea L.",
+            "speciesId": "amaranthaceae_celosia_argentea_l"
+          }
+        ]
+      },
+      {
+        "id": "genus_atriplex",
+        "prompt": "Atriplex",
+        "options": [
+          {
+            "label": "Atriplex hortensis L. subsp. hortensis",
+            "speciesId": "amaranthaceae_atriplex_hortensis_l_subsp_hortensis"
+          },
+          {
+            "label": "Atriplex hortensis L. subsp. nitens (Schkuhr) E. Pons",
+            "speciesId": "amaranthaceae_atriplex_hortensis_l_subsp_nitens_schkuhr_e_pons"
+          },
+          {
+            "label": "Atriplex littoralis L.",
+            "speciesId": "amaranthaceae_atriplex_littoralis_l"
+          },
+          {
+            "label": "Atriplex micrantha Ledeb. subsp. micrantha",
+            "speciesId": "amaranthaceae_atriplex_micrantha_ledeb_subsp_micrantha"
+          },
+          {
+            "label": "Atriplex patula L.",
+            "speciesId": "amaranthaceae_atriplex_patula_l"
+          },
+          {
+            "label": "Atriplex prostrata Boucher ex DC.",
+            "speciesId": "amaranthaceae_atriplex_prostrata_boucher_ex_dc"
+          },
+          {
+            "label": "Atriplex tatarica L.",
+            "speciesId": "amaranthaceae_atriplex_tatarica_l"
+          }
+        ]
+      },
+      {
+        "id": "genus_halimione",
+        "prompt": "Halimione",
+        "options": [
+          {
+            "label": "Halimione portulacoides (L.) Aellen",
+            "speciesId": "amaranthaceae_halimione_portulacoides_l_aellen"
+          }
+        ]
+      },
+      {
+        "id": "genus_beta",
+        "prompt": "Beta",
+        "options": [
+          {
+            "label": "Beta vulgaris L. subsp. maritima (L.) Arcang.",
+            "speciesId": "amaranthaceae_beta_vulgaris_l_subsp_maritima_l_arcang"
+          },
+          {
+            "label": "Beta vulgaris L. subsp. vulgaris",
+            "speciesId": "amaranthaceae_beta_vulgaris_l_subsp_vulgaris"
+          }
+        ]
+      },
+      {
+        "id": "genus_cycloloma",
+        "prompt": "Cycloloma",
+        "options": [
+          {
+            "label": "Cycloloma atriplicifolium (Spreng.) J.M. Coult",
+            "speciesId": "amaranthaceae_cycloloma_atriplicifolium_spreng_j_m_coult"
+          }
+        ]
+      },
+      {
+        "id": "genus_dysphania",
+        "prompt": "Dysphania",
+        "options": [
+          {
+            "label": "Dysphania ambrosioides (L.) Mosyakin & Clemants",
+            "speciesId": "amaranthaceae_dysphania_ambrosioides_l_mosyakin_clemants"
+          },
+          {
+            "label": "Dysphania botrys (L.) Mosyakin & Clemants",
+            "speciesId": "amaranthaceae_dysphania_botrys_l_mosyakin_clemants"
+          }
+        ]
+      },
+      {
+        "id": "genus_chenopodium",
+        "prompt": "Chenopodium",
+        "options": [
+          {
+            "label": "Chenopodium album L.",
+            "speciesId": "amaranthaceae_chenopodium_album_l"
+          },
+          {
+            "label": "Chenopodium betaceum Andrz.",
+            "speciesId": "amaranthaceae_chenopodium_betaceum_andrz"
+          },
+          {
+            "label": "Chenopodium ficifolium Sm.",
+            "speciesId": "amaranthaceae_chenopodium_ficifolium_sm"
+          },
+          {
+            "label": "Chenopodium opulifolium Schrad. ex W.D.J. Koch & Ziz",
+            "speciesId": "amaranthaceae_chenopodium_opulifolium_schrad_ex_w_d_j_koch_ziz"
+          },
+          {
+            "label": "Chenopodium probstii Aellen",
+            "speciesId": "amaranthaceae_chenopodium_probstii_aellen"
+          },
+          {
+            "label": "Chenopodium vulvaria L.",
+            "speciesId": "amaranthaceae_chenopodium_vulvaria_l"
+          }
+        ]
+      },
+      {
+        "id": "genus_chenopodiastrum",
+        "prompt": "Chenopodiastrum",
+        "options": [
+          {
+            "label": "Chenopodiastrum hybridum (L.) S. Fuentes, Uotila & Borsch",
+            "speciesId": "amaranthaceae_chenopodiastrum_hybridum_l_s_fuentes_uotila_borsch"
+          },
+          {
+            "label": "Chenopodiastrum murale (L.) S. Fuentes, Uotila & Borsch",
+            "speciesId": "amaranthaceae_chenopodiastrum_murale_l_s_fuentes_uotila_borsch"
+          }
+        ]
+      },
+      {
+        "id": "genus_lipandra",
+        "prompt": "Lipandra",
+        "options": [
+          {
+            "label": "Lipandra polysperma (L.) S. Fuentes, Uotila & Borsch",
+            "speciesId": "amaranthaceae_lipandra_polysperma_l_s_fuentes_uotila_borsch"
+          }
+        ]
+      },
+      {
+        "id": "genus_blitum",
+        "prompt": "Blitum",
+        "options": [
+          {
+            "label": "Blitum bonus-henricus (L.) Rchb.",
+            "speciesId": "amaranthaceae_blitum_bonus_henricus_l_rchb"
+          }
+        ]
+      },
+      {
+        "id": "genus_oxybasis",
+        "prompt": "Oxybasis",
+        "options": [
+          {
+            "label": "Oxybasis glauca (L.) S. Fuentes, Uotila & Borsch",
+            "speciesId": "amaranthaceae_oxybasis_glauca_l_s_fuentes_uotila_borsch"
+          },
+          {
+            "label": "Oxybasis rubra (L.) S. Fuentes, Uotila & Borsch",
+            "speciesId": "amaranthaceae_oxybasis_rubra_l_s_fuentes_uotila_borsch"
+          },
+          {
+            "label": "Oxybasis urbica (L.) S. Fuentes, Uotila & Borsch",
+            "speciesId": "amaranthaceae_oxybasis_urbica_l_s_fuentes_uotila_borsch"
+          }
+        ]
+      },
+      {
+        "id": "genus_amaranthus",
+        "prompt": "Amaranthus L. – Amaranto",
+        "options": [
+          {
+            "label": "Pl. monoica (i caratteri relativi al pa. si riferiscono ai fi. ♀)",
+            "next": "am1"
+          },
+          {
+            "label": "Pl. dioica",
+            "next": "am19"
+          }
+        ]
+      },
+      {
+        "id": "am1",
+        "prompt": "1",
+        "options": [
+          {
+            "label": "Segm. del pa. 2-4, solo in A. blitoides 4(-5); pl. prostrata, ascendente o eretta; infior. generalm. in glomeruli ascellari formante spiga in A. deflexus, A. tricolor, A. viridis, A. blitum); fr. deiscente o indeiscente",
+            "next": "am3"
+          },
+          {
+            "label": "Segm. del pa. 5; piante erette; infior. formante una spiga terminale ± allungata; fr. generalm. deiscente (indeiscente in A. bouchonii)",
+            "next": "am12"
+          }
+        ]
+      },
+      {
+        "id": "am3",
+        "prompt": "3",
+        "options": [
+          {
+            "label": "Segm. del pa. 2 (raram. 3). – Fu. prostrato o ascendente, ± glabro, densam. pubesc. in alto; fg. romboidali, lanceolate od ovate (2-5 cm), ottuse, a marg. finem. ondulato; fi. rossicci, in glomeruli ascellari, superiorm. riuniti in spiga terminale; br.le ovate lunghe 1/3 - 1/2 del pa.; segm. del pa.  lineari o lineari-lanceolati (1,2-1,5 mm)",
+            "speciesId": "amaranthaceae_amaranthus_deflexus_l"
+          },
+          {
+            "label": "Segm. del pa. > 2",
+            "next": "am4"
+          }
+        ]
+      },
+      {
+        "id": "am4",
+        "prompt": "4",
+        "options": [
+          {
+            "label": "Segm. del pa. 3",
+            "next": "am5"
+          },
+          {
+            "label": "Segm. del pa. 4-5. – Fu. prostrato-ascendente, glabro; fg. da oblungo-lanceolate a obovato-spatolate (1,5-3 cm), a marg. membranoso bianco, ottuse; fi. rossastri, raram. verdi; br.le 2 mm, ovato-lanceolate, acute, < pa.; segm. del pa. ineguali, simili alle br.le; fr. ellissoidale, subeguale ai segm. maggiori, deiscente; semi discoidali, neri ( 1,5-1,7 mm)",
+            "speciesId": "amaranthaceae_amaranthus_blitoides_s_watson"
+          }
+        ]
+      },
+      {
+        "id": "am5",
+        "prompt": "5",
+        "options": [
+          {
+            "label": "Fu. di colore bianco-osseo, ± lignificato; br.le spinescenti. – Fu. eretto, generalm. glabro, molto ramificato; fg. dell'asse principale ellittiche, ovate o spatolate, (3,5-6 cm), mucronate, marg. increspato; fi. verdi-giallicci; br..le 3-4 mm, rigide, ~ 2 v. > del pa.;  segm. del pa. lineari-lanceolati, acuti; fr. ellissoidale ≥ pa., deiscente; semi lenticolari, neri a marrone scuro ( 0,8-1,3 mm)",
+            "speciesId": "amaranthaceae_amaranthus_albus_l"
+          },
+          {
+            "label": "Fu. di altro colore; br.le non spinescenti",
+            "next": "am6"
+          }
+        ]
+      },
+      {
+        "id": "am6",
+        "prompt": "6",
+        "options": [
+          {
+            "label": "Spiga terminale presente, unica",
+            "next": "am7"
+          },
+          {
+            "label": "Spiga terminale assente, solo spighe ascellari",
+            "next": "am10"
+          }
+        ]
+      },
+      {
+        "id": "am7",
+        "prompt": "7",
+        "options": [
+          {
+            "label": "Fr. molto rugoso, subsferico, generalm. indeiscente; Fu. eretto, ± glabro. – Fg. ovate, romboidali (3-8 cm), picciolate, ottuse o arrotondate, talora debolm. smarginate; spighe verdi, generalm. gracili ( 5-6 mm), la terminale lunga fino a 15 cm; br.le ovate, acuminate, lunghe ~ 1/3 del pa.; segm. del pa. ovato-lanceolati; fr. ≥ pa. (fino a 1/4 di più); semi lenticolari da marrone scuro a neri ( 0,8-1,2 mm)",
+            "speciesId": "amaranthaceae_amaranthus_viridis_l"
+          },
+          {
+            "label": "Fr. liscio o solo debolm. rugoso, ellissoidale o subsferico, deiscente o indeiscente; fu. eretto, ascendente o prostrato",
+            "next": "am8"
+          }
+        ]
+      },
+      {
+        "id": "am8",
+        "prompt": "8",
+        "options": [
+          {
+            "label": "Fr. deiscente (pisside), più breve del pa.; fu eretto. – Pl. annua, alta 50-110 cm; fg. ovate o lanceolate (7-20 cm), picciolate; fi. in pannocchia terminale o anche in glomeruli ascellari; br.le subeguali al pa.; segm. del pa. ovato-lanceolati",
+            "speciesId": "amaranthaceae_amaranthus_tricolor_l_a_tricolore"
+          },
+          {
+            "label": "Fr. indeiscente (otricolo), più lungo del pg.; fu. prostrato o ascendente",
+            "next": "am9"
+          }
+        ]
+      },
+      {
+        "id": "am9",
+        "prompt": "9",
+        "options": [
+          {
+            "label": "Otricolo piriforme, 2 v. più lungo del pa.",
+            "speciesId": "amaranthaceae_amaranthus_deflexus_l"
+          },
+          {
+            "label": "Otricolo subsferico o ellissoidale, lungo meno di 2 v. il pa. – Fu. generalm. ascendente, glabro; fg. ellittiche a romboidali, ovate (2-9 cm), picciolate, ad apice smarginato o bilobo; infior. spiciforme; br.le ovate, acute > pa.; segm. del pa.  da lanceolati a lineari; fr. 1,9- 3 mm; semi lenticolari, neri, bruni o rosso scuri, minutam. punteggiati,   1,1-2 mm",
+            "speciesId": "amaranthaceae_amaranthus_blitum_l"
+          }
+        ]
+      },
+      {
+        "id": "am10",
+        "prompt": "10",
+        "options": [
+          {
+            "label": "Fg. smarginate o bilobe. – Fu. prostrato-diffuso o ascendente, ramoso, glabro; fg. ellittiche o romboidali (1-4 cm); fi. in glomeruli ascellari o in infior. spiciformi terminali; br.le ovate < pa.; segm. del pa. da ovati a lanceolato-lineari, acuti; fr. subgloboso ≥ pa., indeiscente; semi lenticolari, neri, bruni o rosso scuri ( 0,7-1,1 mm)",
+            "speciesId": "amaranthaceae_amaranthus_emarginatus_salzm_ex_uline_w_l_bray_subsp_emarginatus"
+          },
+          {
+            "label": "Fg. acute (talora ottuse in A. graecizans subsp. silvestris, ma mai bilobe)",
+            "next": "am11"
+          }
+        ]
+      },
+      {
+        "id": "am11",
+        "prompt": "11",
+        "options": [
+          {
+            "label": "Fr. < pa.",
+            "speciesId": "amaranthaceae_amaranthus_tricolor_l_a_tricolore"
+          },
+          {
+            "label": "Fr. ≥ pa. – Fu. eretto, generalm. glabro; fg, da ellittico-romboidali a lanceolate (2-4 cm); fi. solitam. rossastri; br.le lanceolate, mucronate, lunghe 3/5-3/4 del pa.; segm. del pa. ovato-lanceolati (1,3-2 mm), acuti; fr. subsferico, rugoso, deiscente; semi discoidali, marrone nerastri ( 1-1,5 mm)",
+            "speciesId": "amaranthaceae_amaranthus_graecizans_l_subsp_silvestris_vill_brenan"
+          }
+        ]
+      },
+      {
+        "id": "am12",
+        "prompt": "12",
+        "options": [
+          {
+            "label": "Spiga terminale pendula, lunga fino a 70 cm. – Fu. ± pubesc. e arrossato; fg. da romboidali-ovate a laciniate (6-10 cm), picciolate, con base brevem. cuneata, apice acuto: fi. rossi; br.le ovate, aristate, > pa.; segm. del pa. spatolati; fr. ellissoidale, lungo ~ quanto il pa., deiscente; semi lenticolari, compressi, lucidi, da marrone scuro a neri ( 1-1,5 mm)",
+            "speciesId": "amaranthaceae_amaranthus_hybridus_l_subsp_caudatus_l_iamonico_galasso"
+          },
+          {
+            "label": "Spiga eretta, più breve",
+            "next": "am13"
+          }
+        ]
+      },
+      {
+        "id": "am13",
+        "prompt": "13",
+        "options": [
+          {
+            "label": "Spine all'ascella delle fg. – Pl. annua, alta 30-80 cm; fu. ± glabro e arrossato; fg. da romboidali-ovate a lanceolate (2,5-7 cm), con 2 spine ascellari acute; spiga verde; br.le ovali, subeguali al pa.; segm. del pa. spatolati, acuti, mucronati; semi  lenticolari ( 0,7-0,9 mm), neri",
+            "speciesId": "amaranthaceae_amaranthus_spinosus_l_a_spinoso"
+          },
+          {
+            "label": "Spine assenti",
+            "next": "am14"
+          }
+        ]
+      },
+      {
+        "id": "am14",
+        "prompt": "14",
+        "options": [
+          {
+            "label": "Fu. e/o fg. pubesc.-tomentosi; spiga terminale non più lunga delle lat.; segm. del pa. spatolati, retusi o da ottusi ad arrotondati, ≥ agli stimmi. – Fu. eretto o ascendente; fg. romboidali, lanceolate, ovate o ellittiche (3-12 cm), a marg. intero; nerv. della pag. inf. molto sporgenti, bianco-verdastri; picciolo lungo fino a 5-6 cm; spighe verdi, brevi, densifl.; br.le lanceolate (3-6 mm), rigide e pungenti, > pa.; fr. ellissoidale ≤ pa.; semi lenticolari ( 1-1,4 mm), da neri a rosso-scuri",
+            "speciesId": "amaranthaceae_amaranthus_retroflexus_l"
+          },
+          {
+            "label": "Fu. e/o fg. ± glabri; spiga terminale molto più lunga delle lat.; segm. del pa. acuti, ≤ stimmi",
+            "next": "am15"
+          }
+        ]
+      },
+      {
+        "id": "am15",
+        "prompt": "15",
+        "options": [
+          {
+            "label": "Br.le con marg. membranosi bruscam. troncati e con apice nettam. aristato; segm. del pa.  subeguali, con nervo mediano ben distinto",
+            "next": "am16"
+          },
+          {
+            "label": "Br.le con marg. membranosi gradualm. attenuati verso l'apice; segm. del pa. subeguali o distintam. ineguali, con o senza nervo mediano",
+            "next": "am17"
+          }
+        ]
+      },
+      {
+        "id": "am16",
+        "prompt": "16",
+        "options": [
+          {
+            "label": "Br.le lunghe quanto i segm. del pa. o al max. 1,5 v. più lunghe; segm. con nervo mediano giallo-bruno. – Fu. rosso o verde; fg. da ovate a ovato-lanceolate, romboidali (5-12 cm); fi. in spighe rosse o verdi; spiga terminale talora afflosciata, quasi sempre larga solo 0,5-1,2 cm, le lat. ± patenti; br.le lanceolate (2-3,5 mm); segm. del pa. ovato-lanceolati, spesso mucronati; fr. subellissoidale > pa.; semi lenticolari ( 1,2-1,6 mm) da neri a rosso scuri",
+            "speciesId": "amaranthaceae_amaranthus_hybridus_l_subsp_cruentus_l_thell"
+          },
+          {
+            "label": "Br.le da 1,5 a 2 v. più lunghe dei segm. del pa., che hanno nervo mediano verde-scuro. – Fg. ovate od ovato-lanceolate (3-8 cm); infior. verde con molte spighe lat. brevi e addensate; br.le lanceolate, le maggiori lunghe 2-4 mm; segm. del pa. ovati o lanceolati, talora spatolati e mucronati (1,5-2,5 mm); fr. subellissoidale ≥ pa.; semi lenticolari ( 1-1,4 mm), da neri a rosso scuri",
+            "speciesId": "amaranthaceae_amaranthus_hybridus_l_subsp_hybridus"
+          }
+        ]
+      },
+      {
+        "id": "am17",
+        "prompt": "17",
+        "options": [
+          {
+            "label": "Segm. del pa. con nervo mediano evidente, giallo-bruno o rossiccio; infior. ramificata con spiga terminale generalm. lunga fino a 20-25 cm e con  1-2,5 cm, rossa o purpurea. – Fu. rosso o verde, ± glabro, pubesc. solo lungo l'asse dell'infior.; fg. ovate od ovato-lanceolate (5-12 cm), picciolate; spighe lat. erette; br.le lanceolate, lunghe 1,5-2 v. il pa., le maggiori (2,5-4,5 mm), poco pungenti; segm. lanceolati; fr. ellissoidale, subeguali al pa.; semi lenticolari ( 1-1,4 mm) di vario colore (avorio, rosso-scuro, nero)",
+            "speciesId": "amaranthaceae_amaranthus_hybridus_l_subsp_hypochondriacus_l_thell"
+          },
+          {
+            "label": "Segm. del pa. con nervo mediano poco visibile e inconsistente; infior. semplice o ramificata con spiga terminale lunga fino a 10 cm e con  fino a 1 cm, verde",
+            "next": "am18"
+          }
+        ]
+      },
+      {
+        "id": "am18",
+        "prompt": "18",
+        "options": [
+          {
+            "label": "Br.le 2-4 v. più lunghe del pa.; fr. deiscente; infior. non ramificata o scarsam. ramosa o con pochi lunghi rami spaziati. – Fu. generalm. semplice; fg. ovato-lanceolate, ± romboidali (4-15 cm), picciolate; infior. densifl., eretta, lunga fino a 25 cm; br.le lanceolate, le maggiori 3-5(8) mm, spinesc.; segm. del pa. lanceolati, assai differenti per forma e lungh.; fr. subsferico a ellissoidale, ≥ pg.; semi discoidali ( 0,6-1,4 mm), da bruni a neri",
+            "speciesId": "amaranthaceae_amaranthus_powellii_s_watson"
+          },
+          {
+            "label": "Br.le fino a 2 v. più lunghe del pa.; fr. indeiscente; infior. generalm. con numerosi rami lat. – Fg. con lamina romboidale (3-13 cm); infior. sottile, ± lassa, con rami lat. addensati; br.le 1,9-4,4 mm; segm. del pa. 0,7-2,3 mm, assai diversi fra loro per forma e lunghezza (fi. zigomorfi); fr. subellissoidale (0,8-1,4 mm), subeguale al pg.; semi discoidali (  0,4-1,2 mm) neri",
+            "speciesId": "amaranthaceae_amaranthus_bouchonii_thell"
+          }
+        ]
+      },
+      {
+        "id": "am19",
+        "prompt": "19",
+        "options": [
+          {
+            "label": "Fi. ♀ con pa. privo di segm. (talora uno solo, rudimentale, lungo ≤ 1 mm). – Fu. eretto, ramificato; fg. da lanceolate a lanceolato-lineari (1,5-15 cm), con base cuneata e marg. intero, picciolate; fi. in spighe terminali erette, ± arrossate; br.le lanceolate ≥ pa.; fi. ♂ con 5 segm. da ovati a lanceolati; fr. subsferico a ellissoidale ≤ pg., deiscente; semi discoidali ( 0,6-1,2 mm), da rosso-bruni a neri",
+            "speciesId": "amaranthaceae_amaranthus_tuberculatus_moq_j_d_sauer"
+          },
+          {
+            "label": "Fi. ♀ con 2 segm. pa. (uno rudimentale). – Pl. assai simile ad A. tuberculatus, dal quale differisce per i caratteri citati",
+            "speciesId": "amaranthaceae_amaranthus_tamariscinus_nutt"
+          }
+        ]
+      }
+    ]
+  },
+  "Amaryllidaceae": {
+    "family": "Amaryllidaceae",
+    "root": "a1",
+    "nodes": [
+      {
+        "id": "a1",
+        "prompt": "1",
+        "options": [
+          {
+            "label": "Allium",
+            "next": "genus_allium"
+          },
+          {
+            "label": "Galanthus",
+            "next": "genus_galanthus"
+          },
+          {
+            "label": "Ipheion",
+            "next": "genus_ipheion"
+          },
+          {
+            "label": "Leucojum",
+            "next": "genus_leucojum"
+          },
+          {
+            "label": "Narcissus",
+            "next": "genus_narcissus"
+          },
+          {
+            "label": "Pancratium",
+            "next": "genus_pancratium"
+          },
+          {
+            "label": "Sternbergia",
+            "next": "genus_sternbergia"
+          }
+        ]
+      },
+      {
+        "id": "genus_allium",
+        "prompt": "Allium",
+        "options": [
+          {
+            "label": "Allium ampeloprasum L.",
+            "speciesId": "amaryllidaceae_allium_ampeloprasum_l"
+          },
+          {
+            "label": "Allium angulosum L.",
+            "speciesId": "amaryllidaceae_allium_angulosum_l"
+          },
+          {
+            "label": "Allium carinatum L.",
+            "speciesId": "amaryllidaceae_allium_carinatum_l"
+          },
+          {
+            "label": "Allium coloratum Spreng.",
+            "speciesId": "amaryllidaceae_allium_coloratum_spreng"
+          },
+          {
+            "label": "Allium ericetorum Thore",
+            "speciesId": "amaryllidaceae_allium_ericetorum_thore"
+          },
+          {
+            "label": "Allium horvatii Lovrić",
+            "speciesId": "amaryllidaceae_allium_horvatii_lovri"
+          },
+          {
+            "label": "Allium longispathum Redouté",
+            "speciesId": "amaryllidaceae_allium_longispathum_redout"
+          },
+          {
+            "label": "Allium lusitanicum Lam.",
+            "speciesId": "amaryllidaceae_allium_lusitanicum_lam"
+          },
+          {
+            "label": "Allium neapolitanum Cirillo",
+            "speciesId": "amaryllidaceae_allium_neapolitanum_cirillo"
+          },
+          {
+            "label": "Allium oleraceum L. subsp. oleraceum",
+            "speciesId": "amaryllidaceae_allium_oleraceum_l_subsp_oleraceum"
+          },
+          {
+            "label": "Allium pallens L.",
+            "speciesId": "amaryllidaceae_allium_pallens_l"
+          },
+          {
+            "label": "Allium roseum L. subsp. roseum",
+            "speciesId": "amaryllidaceae_allium_roseum_l_subsp_roseum"
+          },
+          {
+            "label": "Allium rotundum L.",
+            "speciesId": "amaryllidaceae_allium_rotundum_l"
+          },
+          {
+            "label": "Allium sativum L.",
+            "speciesId": "amaryllidaceae_allium_sativum_l"
+          },
+          {
+            "label": "Allium schoenoprasum L. subsp. schoenoprasum",
+            "speciesId": "amaryllidaceae_allium_schoenoprasum_l_subsp_schoenoprasum"
+          },
+          {
+            "label": "Allium scorodoprasum L.",
+            "speciesId": "amaryllidaceae_allium_scorodoprasum_l"
+          },
+          {
+            "label": "Allium sphaerocephalon L. subsp. sphaerocephalon",
+            "speciesId": "amaryllidaceae_allium_sphaerocephalon_l_subsp_sphaerocephalon"
+          },
+          {
+            "label": "Allium suaveolens Jacq.",
+            "speciesId": "amaryllidaceae_allium_suaveolens_jacq"
+          },
+          {
+            "label": "Allium tuberosum Rottler ex Spreng.",
+            "speciesId": "amaryllidaceae_allium_tuberosum_rottler_ex_spreng"
+          },
+          {
+            "label": "Allium ursinum L.",
+            "speciesId": "amaryllidaceae_allium_ursinum_l"
+          },
+          {
+            "label": "Allium victorialis L.",
+            "speciesId": "amaryllidaceae_allium_victorialis_l"
+          },
+          {
+            "label": "Allium vineale L.",
+            "speciesId": "amaryllidaceae_allium_vineale_l"
+          }
+        ]
+      },
+      {
+        "id": "genus_galanthus",
+        "prompt": "Galanthus",
+        "options": [
+          {
+            "label": "Galanthus elwesii Hook. f. subsp. elwesii",
+            "speciesId": "amaryllidaceae_galanthus_elwesii_hook_f_subsp_elwesii"
+          },
+          {
+            "label": "Galanthus nivalis L.",
+            "speciesId": "amaryllidaceae_galanthus_nivalis_l"
+          }
+        ]
+      },
+      {
+        "id": "genus_ipheion",
+        "prompt": "Ipheion",
+        "options": [
+          {
+            "label": "Ipheion uniflorum (Lindl.) Raf.",
+            "speciesId": "amaryllidaceae_ipheion_uniflorum_lindl_raf"
+          }
+        ]
+      },
+      {
+        "id": "genus_leucojum",
+        "prompt": "Leucojum",
+        "options": [
+          {
+            "label": "Leucojum aestivum L. subsp. aestivum",
+            "speciesId": "amaryllidaceae_leucojum_aestivum_l_subsp_aestivum"
+          },
+          {
+            "label": "Leucojum vernum L.",
+            "speciesId": "amaryllidaceae_leucojum_vernum_l"
+          }
+        ]
+      },
+      {
+        "id": "genus_narcissus",
+        "prompt": "Narcissus",
+        "options": [
+          {
+            "label": "Narcissus poëticus L.",
+            "speciesId": "amaryllidaceae_narcissus_po_ticus_l"
+          },
+          {
+            "label": "Narcissus papyraceus Ker Gawl.",
+            "speciesId": "amaryllidaceae_narcissus_papyraceus_ker_gawl"
+          },
+          {
+            "label": "Narcissus pseudonarcissus L. subsp. pseudonarcissus",
+            "speciesId": "amaryllidaceae_narcissus_pseudonarcissus_l_subsp_pseudonarcissus"
+          },
+          {
+            "label": "Narcissus tazetta L.",
+            "speciesId": "amaryllidaceae_narcissus_tazetta_l"
+          }
+        ]
+      },
+      {
+        "id": "genus_pancratium",
+        "prompt": "Pancratium",
+        "options": [
+          {
+            "label": "Pancratium maritimum L.",
+            "speciesId": "amaryllidaceae_pancratium_maritimum_l"
+          }
+        ]
+      },
+      {
+        "id": "genus_sternbergia",
+        "prompt": "Sternbergia",
+        "options": [
+          {
+            "label": "Sternbergia lutea (L.) Ker Gawl. ex Spreng.",
+            "speciesId": "amaryllidaceae_sternbergia_lutea_l_ker_gawl_ex_spreng"
+          }
+        ]
+      }
+    ]
+  },
+  "Anacardiaceae": {
+    "family": "Anacardiaceae",
+    "root": "a1",
+    "nodes": [
+      {
+        "id": "a1",
+        "prompt": "1",
+        "options": [
+          {
+            "label": "Fg. semplici, intere; fr. su lunghi peduncoli piumosi, rosei o porporini",
+            "speciesId": "anacardiaceae_cotinus_coggygria_scop"
+          },
+          {
+            "label": "Fg. pennatosette; fr. privi di peduncoli piumosi",
+            "next": "a2"
+          }
+        ]
+      },
+      {
+        "id": "a2",
+        "prompt": "2",
+        "options": [
+          {
+            "label": "Pt. 5, stami 5; fg. adulte e getti giovani pelosi",
+            "next": "rhus"
+          },
+          {
+            "label": "Pt. assenti, stami 3-5; fg. adulte e getti giovani glabri",
+            "next": "pistacia"
+          }
+        ]
+      },
+      {
+        "id": "pistacia",
+        "prompt": "Pistacia L. – Lentisco, terebinto",
+        "options": [
+          {
+            "label": "Fg. caduche, imparipennate; piccioli non alati; infior. ramosa",
+            "speciesId": "anacardiaceae_pistacia_terebinthus_l_subsp_terebinthus"
+          },
+          {
+            "label": "Fg. sempreverdi, paripennate; piccioli largam. alati; infior. compatta, spiciforme",
+            "speciesId": "anacardiaceae_pistacia_lentiscus_l"
+          }
+        ]
+      },
+      {
+        "id": "rhus",
+        "prompt": "Rhus L. – Sommacco",
+        "options": [
+          {
+            "label": "Fg. a rachide alato almeno verso la sommità; fi. bianco-verdastri",
+            "speciesId": "anacardiaceae_rhus_coriaria_l"
+          },
+          {
+            "label": "Fg. a rachide non alato; fi.♂ verdastri, i ♀ solitam. rossastri nelle forme colt.",
+            "speciesId": "anacardiaceae_rhus_typhina_l"
+          }
+        ]
+      }
+    ]
+  },
+  "Apiaceae": {
+    "family": "Apiaceae",
+    "root": "a1",
+    "nodes": [
+      {
+        "id": "a1",
+        "prompt": "APIACEAE (chiave da ricontrollare!)",
+        "options": []
+      },
+      {
+        "id": "a2",
+        "prompt": "1\tPl. spinose con fg. a segm. aculeati\t2",
+        "options": []
+      },
+      {
+        "id": "a3",
+        "prompt": "–\tPl. non spinose\t3",
+        "options": []
+      },
+      {
+        "id": "a4",
+        "prompt": "2\tFi. ⚥ riuniti in ombrella semplice, globosa o cilindrica, circondata da br. spinose o aristate\t\t",
+        "options": []
+      },
+      {
+        "id": "a5",
+        "prompt": "\t\tEryngium",
+        "options": []
+      },
+      {
+        "id": "a6",
+        "prompt": "–\tFi. in ombrella composta, con un unico fi. ⚥ al centro dell’infior. parziale, gli altri tutti ♂ \t",
+        "options": []
+      },
+      {
+        "id": "a7",
+        "prompt": "\t\tEchinophora",
+        "options": []
+      },
+      {
+        "id": "a8",
+        "prompt": "3\tFg. intere, digitate o palmato-divise\t4",
+        "options": []
+      },
+      {
+        "id": "a9",
+        "prompt": "–\tFg. pennato-divise\t8",
+        "options": []
+      },
+      {
+        "id": "a10",
+        "prompt": "4\tFg. basali e cauline indivise, intere e parallelinervie\tBupleurum",
+        "options": []
+      },
+      {
+        "id": "a11",
+        "prompt": "–\tFg. digitate o palmate a segm. con nerv. penninervie\t5",
+        "options": []
+      },
+      {
+        "id": "a12",
+        "prompt": "5\tFg. digitate, 3-partite, tutte basali; cor. gialla; ombrella semplice, circondata da 5-6 br. patenti, verdi-giallastre\tHacquetia",
+        "options": []
+      },
+      {
+        "id": "a13",
+        "prompt": "–\tFg. palmato-divise; fg. cauline presenti; cor. bianca o rosea\t6",
+        "options": []
+      },
+      {
+        "id": "a14",
+        "prompt": "6\tFg. ± profondam. palmato-lobate, grigio- o bianco-tomentose inferiorm. anche fra le nerv.; fu. setoloso-ispido; fi. bianco-candidi in ombrella composta\tHeracleum",
+        "options": []
+      },
+      {
+        "id": "a15",
+        "prompt": "–\tFg. inferiorm. glabre come i fu.; fi. in ombrelle glomerulate\t7",
+        "options": []
+      },
+      {
+        "id": "a16",
+        "prompt": "7\tFi. in ombrelle semplici, circondate da 10-20 br. raggianti, bianche o rosate; fr. senza setole uncinate",
+        "options": []
+      },
+      {
+        "id": "a17",
+        "prompt": "\tAstrantia",
+        "options": []
+      },
+      {
+        "id": "a18",
+        "prompt": "–\tFi. in ombrelle semplici, globose, riunite in cime (dall’aspetto di ombrelle composte) circondate da 4-6(8) br. riflesse; fr. coperto di morbide setole uncinate\tSanicula",
+        "options": []
+      },
+      {
+        "id": "a19",
+        "prompt": "8\tCor. bianca o rosata\t9",
+        "options": []
+      },
+      {
+        "id": "a20",
+        "prompt": "–\tCor. gialla o giallo-verdiccia\t62",
+        "options": []
+      },
+      {
+        "id": "a21",
+        "prompt": "9\tDorso dei mericarpi irto di aculei incurvati o uncinati\t10",
+        "options": []
+      },
+      {
+        "id": "a22",
+        "prompt": "–\tDorso dei mericarpi liscio, costato o alato, ma privo di aculei\t12",
+        "options": []
+      },
+      {
+        "id": "a23",
+        "prompt": "10 Br. dell’involucro 1-2 pennatosette, lunghe quanto o poco meno dei raggi\tDaucus",
+        "options": []
+      },
+      {
+        "id": "a24",
+        "prompt": "–\tBr. dell’involucro indivise o assenti\t11",
+        "options": []
+      },
+      {
+        "id": "a25",
+        "prompt": "11\tFi. periferici raggianti, con pt. molto più lunghi degli int.; fu. angoloso-solcato,\tOrlaya",
+        "options": []
+      },
+      {
+        "id": "a26",
+        "prompt": "–\tFi. periferici subeguali o lunghi al più 2 v. gli int.; fu. finem. solcato\tTorilis",
+        "options": []
+      },
+      {
+        "id": "a27",
+        "prompt": "12\tFr. prolungato in un rostro (porzione sup. del mericarpo priva di semi) ± lungo\t13",
+        "options": []
+      },
+      {
+        "id": "a28",
+        "prompt": "–\tFr. privo di rostro\t14",
+        "options": []
+      },
+      {
+        "id": "a29",
+        "prompt": "13\tRostro (20-80 mm), dorsalm. ± appiattito, lungo 3-5 v. la parte fertile sottostante contenente i semi",
+        "options": []
+      },
+      {
+        "id": "a30",
+        "prompt": "\tScandix",
+        "options": []
+      },
+      {
+        "id": "a31",
+        "prompt": "–\tRostro (1-5 mm), solcato, lungo 1/2-1/5 della parte fertile\tAnthriscus",
+        "options": []
+      },
+      {
+        "id": "a32",
+        "prompt": "14\tFr. lungo (15)20-25 mm e largo più di 3,5 mm, con coste prominenti, scabro per peli setolosi specialm. verso l’apice; br. generalm. assenti; br.le numerose; pl. con aroma di anice;\tMyrrhis",
+        "options": []
+      },
+      {
+        "id": "a33",
+        "prompt": "–\tFr. lungo al più 12 mm e largo meno di 3,5 mm\t15",
+        "options": []
+      },
+      {
+        "id": "a34",
+        "prompt": "15\tFg. 1-3-ternate\t16",
+        "options": []
+      },
+      {
+        "id": "a35",
+        "prompt": "–\tFg. semplicem. pennate  o 2-4-pennato-divise\t19",
+        "options": []
+      },
+      {
+        "id": "a36",
+        "prompt": "16\tBr. dell’invol. 4 o più, persistenti alla fior.\t17",
+        "options": []
+      },
+      {
+        "id": "a37",
+        "prompt": "–\tBr. dell’invol. assenti o 1-2 precocem. caduche\t18",
+        "options": []
+      },
+      {
+        "id": "a38",
+        "prompt": "17\tBr.le lineari; mericarpi non alati; segm. fglr. spesso ± falcati, finem. e acutam. seghettati\tFalcaria",
+        "options": []
+      },
+      {
+        "id": "a39",
+        "prompt": "–\tBr.le ovate o cordate; mericarpi con 4 ali; segm. fglr. non falcati, crenati o dentati\tLaserpitium",
+        "options": []
+      },
+      {
+        "id": "a40",
+        "prompt": "18\tMericarpi largam. alati al marg.; fg. 1-2-ternate; br.le presenti, poche\tImperatoria (ostruthium)",
+        "options": []
+      },
+      {
+        "id": "a41",
+        "prompt": "–\tMericarpi non alati al marg.; fg. 2-3 ternate; br.le generalm. assenti\tAegopodium",
+        "options": []
+      },
+      {
+        "id": "a42",
+        "prompt": "19\tFg. semplicem. pennate\t20",
+        "options": []
+      },
+      {
+        "id": "a43",
+        "prompt": "–\tAlmeno le fg. basali 2-4-pennate\t29",
+        "options": []
+      },
+      {
+        "id": "a44",
+        "prompt": "20\tMericarpi alati al marg.\t21",
+        "options": []
+      },
+      {
+        "id": "a45",
+        "prompt": "–\tMericarpi non alati\t22",
+        "options": []
+      },
+      {
+        "id": "a46",
+        "prompt": "21\tPl. annua, senza getti vegetativi; br. dell’invol. numerose; mericarpi con peli soffici; ombrella a 3-8 raggi\tTordylium",
+        "options": []
+      },
+      {
+        "id": "a47",
+        "prompt": "–\tPl. perenne con getti vegetativi; br. dell’invol. assenti o 1-6 caduche; mericarpi solitam. glabri; ombrella a 12-45 raggi\tHeracleum",
+        "options": []
+      },
+      {
+        "id": "a48",
+        "prompt": "22\tBr.le assenti o talora 1-2 caduche\t23",
+        "options": []
+      },
+      {
+        "id": "a49",
+        "prompt": "–\tBr.le 3-molte, persistenti\t26",
+        "options": []
+      },
+      {
+        "id": "a50",
+        "prompt": "23\tAlmeno alcune ombrelle apparentem. opposte alle fg., sessili o su peduncoli brevi; pt. bianco-verdastri, ad apice acuto e involuto; pl. aromatica se stropicciata\tApium",
+        "options": []
+      },
+      {
+        "id": "a51",
+        "prompt": "–\tOmbrelle terminali, lungam. peduncolate; pt. bianchi o rosei, pl. non aromatica\t24",
+        "options": []
+      },
+      {
+        "id": "a52",
+        "prompt": "24 Fr. peloso; pl. bienne senza getti vegetativi; fu. finem. pubesc.; fg. primordiali semplici, cordate, le successsive semplicem. pennate a 5-9 segm. semicircolari; raggi filiformi \tPimpinella (peregrina)",
+        "options": []
+      },
+      {
+        "id": "a53",
+        "prompt": "–\tFr. glabro; pl. perenni con getti vegetativi; raggi ± robusti\t25",
+        "options": []
+      },
+      {
+        "id": "a54",
+        "prompt": "25 Segm. delle fg. basali. lineario lineari-lanceolati, larghi 1-2 mm, interi\tKatapsuxis (Cnidium)",
+        "options": []
+      },
+      {
+        "id": "a55",
+        "prompt": "–\tSegm. delle fg. basali da ovati a ovato-lanceolati o -triangolari, larghi 5-25 mm, ± profondam. dentati\t",
+        "options": []
+      },
+      {
+        "id": "a56",
+        "prompt": "\t\tPimpinella",
+        "options": []
+      },
+      {
+        "id": "a57",
+        "prompt": "26\tInvol. mancante o con 1-2 br. caduche\t27",
+        "options": []
+      },
+      {
+        "id": "a58",
+        "prompt": "–\tInvol. persistente, con (2)4 o più br.\t28",
+        "options": []
+      },
+      {
+        "id": "a59",
+        "prompt": "27 Pl. perenne con getti vegetativi; fu. inferiorm. strisciante e radicante; segm. fglr. da lanceolati a ovati (larghi 1-2 mm) dentati; br.le 4-7 ovate o lanceolate; fr. ovoidale\tHelosciadium",
+        "options": []
+      },
+      {
+        "id": "a60",
+        "prompt": "–\tPl. annua senza getti vegetativi; fu eretto o ascendente; segm. fglr. lineari (larghi fino a 1 mm); br.le assenti; fr. bigloboso\tCyclospermum",
+        "options": []
+      },
+      {
+        "id": "a61",
+        "prompt": "28\tPl. con stoloni ipogei; fu. debolm. solcato; ombrelle in parte apparentem. opposte alle fg.; br. con marg. scarioso assente o stretto\tBerula",
+        "options": []
+      },
+      {
+        "id": "a62",
+        "prompt": "–\tPl. non stolonifera; fu. fortem. angoloso-solcato; ombrelle terminali; br. con largo marg. scarioso biancastro\tSium",
+        "options": []
+      },
+      {
+        "id": "a63",
+        "prompt": "29\tBr.le assenti o 1-2 (talora di più) precocem. caduche\t30",
+        "options": []
+      },
+      {
+        "id": "a64",
+        "prompt": "–\tBr.le presenti (almeno 2) e persistenti alla fior.\t33",
+        "options": []
+      },
+      {
+        "id": "a65",
+        "prompt": "30 Pl. dioica, con fi. ♂ bianco-verdastri; fu. avvolto alla base da un manicotto di guaine sfibrate\tTrinia",
+        "options": []
+      },
+      {
+        "id": "a66",
+        "prompt": "–\tPl. ⚥ o monoiche\t31",
+        "options": []
+      },
+      {
+        "id": "a67",
+        "prompt": "31\tMericarpi alati al marg.\tDichoropetalum (Peucedanum carvif)",
+        "options": []
+      },
+      {
+        "id": "a68",
+        "prompt": "–\tMericarpi non alati al marg.\t32",
+        "options": []
+      },
+      {
+        "id": "a69",
+        "prompt": "32\tGuaine delle fg. caul. sup. amplessicauli, con base sfrangiata in lacinie stipuliformi lineari riflesso-patenti su entrambi i lati; divisioni fglr. prossimali di 2. ordine riflesse, formanti una croce ai lati del rachide\tCarum",
+        "options": []
+      },
+      {
+        "id": "a70",
+        "prompt": "–\tGuaine delle fg. caul. sup. a base non sfrangiata; divisioni fglr. prossimali di 2. ordine non formanti una croce ai lati del rachide\tPimpinella",
+        "options": []
+      },
+      {
+        "id": "a71",
+        "prompt": "33\tBr.le sviluppate solo sulla parte est. dell’ombrelletta (apparentem. dimezzate)\t34",
+        "options": []
+      },
+      {
+        "id": "a72",
+        "prompt": "–\tBr.le (almeno 3) disposte tutt’attorno all’ombrelletta\t39",
+        "options": []
+      },
+      {
+        "id": "a73",
+        "prompt": "34\tOmbrella a 3-8 raggi; stilo lungo 1,5-2 mm; br. assenti; pl. con sgradevole odore di cimice\t35",
+        "options": []
+      },
+      {
+        "id": "a74",
+        "prompt": "–\tOmbrella generalm. a 10-20 raggi; stilo lungo 0,5-1 mm; pl. senza odore di cimice\t36",
+        "options": []
+      },
+      {
+        "id": "a75",
+        "prompt": "35\tFr. subgloboso, non separantesi in 2 mericarpi a maturità; sep. 5, i 2 est. distintam. > degli altri\t",
+        "options": []
+      },
+      {
+        "id": "a76",
+        "prompt": "\t\tCoriandrum ",
+        "options": []
+      },
+      {
+        "id": "a77",
+        "prompt": "–\tFr. didimo, formato da 2 mericarpi subsferici, separantisi a maturità; sep. indistinti\tBifora",
+        "options": []
+      },
+      {
+        "id": "a78",
+        "prompt": "36\tBr. presenti, ± numerose\t37",
+        "options": []
+      },
+      {
+        "id": "a79",
+        "prompt": "–\tBr. assenti (o talora 2); br.le lineari; mericarpo a coste non ondulate\t38",
+        "options": []
+      },
+      {
+        "id": "a80",
+        "prompt": "37 Fu. cilindrico, non pruinoso né maculato, verde; br. numerose; fr. ovato oblungo (8-13 mm); mericarpo a coste quasi alate, con 3-4 vitte per vallecola\tGrafia",
+        "options": []
+      },
+      {
+        "id": "a81",
+        "prompt": "–\tFu. finem. solcato, pruinoso, con macchie rosso-brunastre; br. 3-5(7); br.le lanceolato-triangolari e spesso concresciute alla base; fr. subgloboso (2,5-3,5 mm); mericarpo a coste ondulato-crenulate; vitte assenti\tConium ",
+        "options": []
+      },
+      {
+        "id": "a82",
+        "prompt": "38\tPl. perenne con getti vegetativi e fu. avvolto alla base da un manicotto di guaine sfibrate; mericarpo privo di ali lat.; pl. aromatica\tMutellina",
+        "options": []
+      },
+      {
+        "id": "a83",
+        "prompt": "–\tPl. annua o bienne senza getti vegetativi; fu. senza manicotto basale; mericarpo con strette ali lat; pl. di odore sgradevole.\tAethusa",
+        "options": []
+      },
+      {
+        "id": "a84",
+        "prompt": "39\tFr. peloso\t40",
+        "options": []
+      },
+      {
+        "id": "a85",
+        "prompt": "–\tFr. glabro\t43",
+        "options": []
+      },
+      {
+        "id": "a86",
+        "prompt": "40\tFu. alla base senza manicotto di guaine sfibrate; pl. bienne; ombrella a (6)12-20(30) raggi; cor. esternam. pelosa\tSilphiodaucus",
+        "options": []
+      },
+      {
+        "id": "a87",
+        "prompt": "–\tFu. alla base provvisto di manicotto di guaine sfibrate\t41",
+        "options": []
+      },
+      {
+        "id": "a88",
+        "prompt": "41\tFu. fortem. angoloso-solcato; divisioni fglr. prossimali di 2. ordine, formanti una croce intorno al rachide; raggi 20-40; br. numerose\tSiler",
+        "options": []
+      },
+      {
+        "id": "a89",
+        "prompt": "–\tFu. non o solo debolm. angoloso-solcato; fglr. prossimali di 2. ordine, non formanti una croce intorno al rachide\t42",
+        "options": []
+      },
+      {
+        "id": "a90",
+        "prompt": "42\tFu. glabri; divisioni fglr. prossimali di 2. ordine ravvicinate ai lati del rachide; pt. ovato-arrotondati\t\t",
+        "options": []
+      },
+      {
+        "id": "a91",
+        "prompt": "\t\tSeseli (libanotis)",
+        "options": []
+      },
+      {
+        "id": "a92",
+        "prompt": "–\tFu. pelosi; divisioni fglr. prossimali di 2. ordine non ravvicinate ai lati del rachide; pt. smarginati o bilobi\tAthamanta",
+        "options": []
+      },
+      {
+        "id": "a93",
+        "prompt": "43\tBr. 4-numerose, persistenti\t44",
+        "options": []
+      },
+      {
+        "id": "a94",
+        "prompt": "–\tBr. assenti o 1-3 caduche\t54",
+        "options": []
+      },
+      {
+        "id": "a95",
+        "prompt": "44\tBr. almeno in parte pennatifide o -sette\t45",
+        "options": []
+      },
+      {
+        "id": "a96",
+        "prompt": "–\tBr. indivise, intere al marg., lanceolate\t47",
+        "options": []
+      },
+      {
+        "id": "a97",
+        "prompt": "45\tPl. alta fino a 15 cm; fu. afillo, indiviso, con ombrella unica, terminale; fr. alato\tPachypleurum",
+        "options": []
+      },
+      {
+        "id": "a98",
+        "prompt": "–\tPl. alta 30-150 cm; fu. ramoso e foglioso, con molte ombrelle; fr. costato, non o strettam. alato\t46",
+        "options": []
+      },
+      {
+        "id": "a99",
+        "prompt": "46\tPl. annua, senza getti vegetativi; fu. finem. solcati, alti fino a 80 cm, senza manicotto basale; br. 3-partite o pennatosette a segm. strettam. lineari; pt. glabri; fr. lunghi 2-2,5 mm\tAmmi",
+        "options": []
+      },
+      {
+        "id": "a100",
+        "prompt": "–\tPl. perenne con getti vegetativi; fu. robusti, alti 1-2 m ( fino a 20 mm)\tPleurospermum",
+        "options": []
+      },
+      {
+        "id": "a101",
+        "prompt": "47\tMericarpo non alato; raggi 10-20; fg. generalm. pelose; pt. cigliati\tChaerophyllum",
+        "options": []
+      },
+      {
+        "id": "a102",
+        "prompt": "–\tMericarpo ± alato\t48",
+        "options": []
+      },
+      {
+        "id": "a103",
+        "prompt": "48\tMericarpo con coste pronunciate e ali strette, talora ondulate\t49",
+        "options": []
+      },
+      {
+        "id": "a104",
+        "prompt": "–\tMericarpo con ali larghe\t50",
+        "options": []
+      },
+      {
+        "id": "a105",
+        "prompt": "49\tOmbrelle a raggi glabri, le lat. spesso verticillate; fu. finem. striato; pt. lanceolati, acuti non papillosi; fr. lungo 10-15 mm\tMolopospermum",
+        "options": []
+      },
+      {
+        "id": "a106",
+        "prompt": "– Ombrelle a raggi papillosi, le lat. sparse; fu. angoloso-solcato; pt. obovati, internam. papillosi; fr. lungo 7-8 mm\tPleurospermum",
+        "options": []
+      },
+      {
+        "id": "a107",
+        "prompt": "50\tMericarpo con 4 ali dorsali di cui 2 marg.; fr. non appiattito\tLaserpitium",
+        "options": []
+      },
+      {
+        "id": "a108",
+        "prompt": "–\tMericarpo con 2 ali marg. e 3 coste dorsali; fr. appiattito-lenticolare\t51",
+        "options": []
+      },
+      {
+        "id": "a109",
+        "prompt": "51\tSegm. fglr. da ovati a ellittico-rombici, dentato-seghettati\tCervaria (Peuced cervaria)",
+        "options": []
+      },
+      {
+        "id": "a110",
+        "prompt": "–\tSegm. fglr. lanceolato- od ovato-oblunghi\t52",
+        "options": []
+      },
+      {
+        "id": "a111",
+        "prompt": "52 Br. alla fior. patenti, appressate ai raggi\tXanthoselinum (Peuced. venetum)",
+        "options": []
+      },
+      {
+        "id": "a112",
+        "prompt": "–\tBr. alla fior. riflesse\t53",
+        "options": []
+      },
+      {
+        "id": "a113",
+        "prompt": "53\tSegm. fglr. di ultimo ord. lineari-lanceolati, interi o 2-3-fidi, (5-15 mm × 0,5-1,2 mm); fu. senza",
+        "options": []
+      },
+      {
+        "id": "a114",
+        "prompt": "\tmanicotto alla base\tThysselinum (Peuced. palustre)",
+        "options": []
+      },
+      {
+        "id": "a115",
+        "prompt": "–\tSegm. fglr. di ultimo ord. da obovato-cuneati a rombici (5-8 × 2-3 mm), dentati; fu. con manicotto alla base\tOreoselinum (Peuced. oreosel.)",
+        "options": []
+      },
+      {
+        "id": "a116",
+        "prompt": "54\tSegm. fglr. filiformi, larghi 0,2 mm\tMeum",
+        "options": []
+      },
+      {
+        "id": "a117",
+        "prompt": "–\tSegm. fglr. non filiformi, generalm. larghi almeno 1 mm\t55",
+        "options": []
+      },
+      {
+        "id": "a118",
+        "prompt": "55\tSegm. fglr. ultimi largam. ovati o cordati; fg. ternate; mericarpo (4-6 mm) alato al marg.\tAngelica ",
+        "options": []
+      },
+      {
+        "id": "a119",
+        "prompt": "–\tSegm. fglr. ultimi lanceolati o lineari\t56",
+        "options": []
+      },
+      {
+        "id": "a120",
+        "prompt": "56\tFr. con 10 ali\tSelinum",
+        "options": []
+      },
+      {
+        "id": "a121",
+        "prompt": "–\tFr. senza ali, costato\t57",
+        "options": []
+      },
+      {
+        "id": "a122",
+        "prompt": "57\tCal. presente sul fr. maturo\tOenanthe",
+        "options": []
+      },
+      {
+        "id": "a123",
+        "prompt": "–\tCal. assente o indistinto sul fr. maturo\t58",
+        "options": []
+      },
+      {
+        "id": "a124",
+        "prompt": "58 Ombrelle a 3-10 raggi\t59",
+        "options": []
+      },
+      {
+        "id": "a125",
+        "prompt": "–\tOmbrelle a 20-40(50) raggi\t60",
+        "options": []
+      },
+      {
+        "id": "a126",
+        "prompt": "59\tFg. a contorno oblungo od ovale-oblungo; fu. ramificato con numerose ombrelle; raggi pubesc. tutt’attorno; fr. ovoidale (2,3-3,5 mm)\tSeseli (tommasinii)",
+        "options": []
+      },
+      {
+        "id": "a127",
+        "prompt": "–\tFg. a contorno triangolare; fu. indiviso, con 1-3 ombrelle; raggi papilloso-pubesc. sul lato interno; fr. ellissoidale (4-6 mm)\t Mutellina",
+        "options": []
+      },
+      {
+        "id": "a128",
+        "prompt": "60\tRaggi dell’ombrella cilindrici, glabri; fu. zigzagante\tSeseli (kochii)",
+        "options": []
+      },
+      {
+        "id": "a129",
+        "prompt": "–\tRaggi dell’ombrella angolosi, pubesc.-papillosi o scabri almeno sugli angoli\t61 ",
+        "options": []
+      },
+      {
+        "id": "a130",
+        "prompt": "61 Pl. perenne con getti vegetativi; rami sup. verticillati; fr. ellissoidale od ovoidale-oblungo (4)5-6(8)",
+        "options": []
+      },
+      {
+        "id": "a131",
+        "prompt": "\tmm; pt. bianchi; coste strettam. alate; vitte 3 per vallecola\tCoristospermum (Ligust. lucidum)",
+        "options": []
+      },
+      {
+        "id": "a132",
+        "prompt": "–\tPl. bienne senza getti vegetativi; rami sparsi; raggi puberulenti internam. fr. ovoidale 1-2 mm; pt. bianchi o rosei; coste poco sporgenti; vitte 1 per vallecola\tSeseli (annuum)",
+        "options": []
+      },
+      {
+        "id": "a133",
+        "prompt": "62\tPl. dioica, con fi. ♂ bianco-verdastri; fu. avvolto alla base da un manicotto di fg. sfibrate\tTrinia",
+        "options": []
+      },
+      {
+        "id": "a134",
+        "prompt": "–\tPl. ⚥ o monoiche\t63",
+        "options": []
+      },
+      {
+        "id": "a135",
+        "prompt": "63\tBr 4-numerose, persistenti alla fior.; br.le 4-numerose; mericarpi alati al marg.\t64 ",
+        "options": []
+      },
+      {
+        "id": "a136",
+        "prompt": "–\tBr. assenti o 1-2(4), spesso caduche\t66",
+        "options": []
+      },
+      {
+        "id": "a137",
+        "prompt": "64\tMericarpi irsuti (raram. glabrescenti), con 2 coste lat. alate (ali ondulate, ~1 mm) e 2 centr. con ali più strette; peduncoli e pt. finem. setolosi, come fu., fg., br. e br.le\tSilphiodaucus (Laserp. pruten.)",
+        "options": []
+      },
+      {
+        "id": "a138",
+        "prompt": "–\tMericarpi glabri, con 2 coste largam. alate e 3 più strette\t65",
+        "options": []
+      },
+      {
+        "id": "a139",
+        "prompt": "65\tBr. e br.le assenti; ombrella a 20-40 raggi; fg. basali con lacinie lunghe 10-25 mm; pl. alta fino a 3 m",
+        "options": []
+      },
+      {
+        "id": "a140",
+        "prompt": "\tFerula",
+        "options": []
+      },
+      {
+        "id": "a141",
+        "prompt": "–\tBr. e br.le numerose e bene sviluppate; ombrella a 10-12 raggi; fg. basali con lacinie lunghe 5-8 mm; pl. alta fino a 1,5 m\tFerulago",
+        "options": []
+      },
+      {
+        "id": "a142",
+        "prompt": "66\tBr. le assenti (raram. 1-2 caduche)\t67",
+        "options": []
+      },
+      {
+        "id": "a143",
+        "prompt": "–\tBr.le almeno 3, persistenti\t72",
+        "options": []
+      },
+      {
+        "id": "a144",
+        "prompt": "67\tFg. 1-2 pennate, carnose, a segm. subcilindrici, glauche; pl. di ambienti salsi o salmastri\tCrithmum",
+        "options": []
+      },
+      {
+        "id": "a145",
+        "prompt": "–\tFg. non carnose; pl. di ambienti non salsi, né salmastri\t68",
+        "options": []
+      },
+      {
+        "id": "a146",
+        "prompt": "68\tFg. cauline sup. indivise, ovate, amplessicauli\tSmyrnium",
+        "options": []
+      },
+      {
+        "id": "a147",
+        "prompt": "–\tFg. cauline di altra forma\t69",
+        "options": []
+      },
+      {
+        "id": "a148",
+        "prompt": "69\tSegm. fglr. ovati o cordati\t70",
+        "options": []
+      },
+      {
+        "id": "a149",
+        "prompt": "–\tSegm. fglr. lineari o capillari\t71",
+        "options": []
+      },
+      {
+        "id": "a150",
+        "prompt": "70\tFu. angoloso-solcato; fg. basali di solito semplicem. pennate\tPastinaca",
+        "options": []
+      },
+      {
+        "id": "a151",
+        "prompt": "–\tFu. cilindrico, striato; fg. 2-3(4) pennatosette\tTommasinia (Peuced. verticillare) ",
+        "options": []
+      },
+      {
+        "id": "a152",
+        "prompt": "71\tSegm. fglr. da lineari a lineari-lanceolati; fu. angoloso-solcato almeno in alto e avvolto alla base da un manicotto di guaine sfibrate\tDichoropetalum (Peuced. carvifolia)",
+        "options": []
+      },
+      {
+        "id": "a153",
+        "prompt": "–\tSegm. fglr. capillari; fu. striato ma non angoloso, senza manocotto basale\tFoeniculum",
+        "options": []
+      },
+      {
+        "id": "a154",
+        "prompt": "72\tCal. assente; mericarpi costati; pl. aromatica se strofinata\tPetroselinum ",
+        "options": []
+      },
+      {
+        "id": "a155",
+        "prompt": "–\tCal. sviluppato con 5 sep.; mericarpi alati\t73",
+        "options": []
+      },
+      {
+        "id": "a156",
+        "prompt": "73\tSegm. fglr. lineari, larghi 1-3 mm; fg. 3-5-ternate\tPeucedanum (officinale)",
+        "options": []
+      },
+      {
+        "id": "a157",
+        "prompt": "–\tSegm. fglr. più larghi (2-4 cm); fg. semplicem. pennate a 3-5 segm.\tHeracleum",
+        "options": []
+      },
+      {
+        "id": "a158",
+        "prompt": "Aegopodium L. – Podagraria",
+        "options": []
+      },
+      {
+        "id": "a159",
+        "prompt": "Pl. glabra o quasi, a fu. eretto, cavo,  angoloso; fg. basali a contorno triangolare, 1-2-ternate a segm. da lanceolati a ovati, talora 3-lobi, irregolarm. seghettati; picciolo più lungo della lamina, trigono; fg. cauline simili, ma minori (le sup. indivise), con picciolo rigonfio; ombrelle a 10-20 raggi; br. e br.le assenti; fr. ovoideo-oblungo (3-4 mm), a coste ben distinte, senza vitte",
+        "options": []
+      }
+    ]
+  },
+  "Apocynaceae": {
+    "family": "Apocynaceae",
+    "root": "a1",
+    "nodes": [
+      {
+        "id": "a1",
+        "prompt": "1",
+        "options": [
+          {
+            "label": "Stami 5, saldati alla base in una corona simile a una piccola corolla e uniti al gineceo (ginostemio)",
+            "next": "a2"
+          },
+          {
+            "label": "Stami 5, liberi, inseriti sul tubo cor.",
+            "next": "a4"
+          }
+        ]
+      },
+      {
+        "id": "a2",
+        "prompt": "2",
+        "options": [
+          {
+            "label": "Lobi cor. riflessi alla fior.; fr. (follicolo) irsuto-spinescente",
+            "speciesId": "apocynaceae_asclepias_syriaca_l"
+          },
+          {
+            "label": "Lobi cor. patenti o eretto-patenti alla fior.; fr. (follicolo) liscio",
+            "next": "a3"
+          }
+        ]
+      },
+      {
+        "id": "a3",
+        "prompt": "3",
+        "options": [
+          {
+            "label": "Pl. erbacee; fi. bianchi; segm. della corona non aristati, collegati fra loro da una membrana",
+            "speciesId": "apocynaceae_vincetoxicum_hirundinaria_medik"
+          },
+          {
+            "label": "Pl. legnose; fi. porporino-violetti; segm. della corona aristati, colorati come la cor.",
+            "speciesId": "apocynaceae_periploca_graeca_l"
+          }
+        ]
+      },
+      {
+        "id": "a4",
+        "prompt": "4",
+        "options": [
+          {
+            "label": "Fu. eretti; fi. in infior. (cime) terminali; cor. campanulata, rosea",
+            "speciesId": "apocynaceae_trachomitum_venetum_l_woodson_subsp_venetum"
+          },
+          {
+            "label": "Fu. vegetativi striscianti, fu. fior. ascendenti; fi. solitari, ascellari; cor. ipocrateriforme, blu-violetta",
+            "next": "a5"
+          }
+        ]
+      },
+      {
+        "id": "a5",
+        "prompt": "5 (Vinca)",
+        "options": [
+          {
+            "label": "Fg. lanceolate (2-5 cm), oblunghe o largam. ellittiche... cor. 2-3,5 cm",
+            "speciesId": "apocynaceae_vinca_minor_l"
+          },
+          {
+            "label": "Fg. ovali (3-9 cm)... cor. 4-5 cm",
+            "speciesId": "apocynaceae_vinca_major_l_subsp_major"
+          }
+        ]
+      }
+    ]
+  },
+  "Araceae": {
+    "family": "Araceae",
+    "root": "a1",
+    "nodes": [
+      {
+        "id": "a1",
+        "prompt": "1",
+        "options": [
+          {
+            "label": "Pl. terrestri con rad. e fu. (o riz.) sviluppati; infior. vistose in forma di spadice avvolto da una spata",
+            "next": "a2"
+          },
+          {
+            "label": "Pl. acquatiche, flottanti, prive di fu.; fi. minuscoli e molto semplificati",
+            "next": "a5"
+          }
+        ]
+      },
+      {
+        "id": "a2",
+        "prompt": "2",
+        "options": [
+          {
+            "label": "Fg. indivise, a lamina sagittata, astata o cordata",
+            "next": "a3"
+          },
+          {
+            "label": "Fg. divise, pedate o trifogliate",
+            "next": "a4"
+          }
+        ]
+      },
+      {
+        "id": "a3",
+        "prompt": "3",
+        "options": [
+          {
+            "label": "Spata giallo-verdastra ben più lunga che larga, appassita dopo la frutt.",
+            "speciesId": "araceae_arum_italicum_mill_subsp_italicum"
+          },
+          {
+            "label": "Spata bianca, da ovato-rombica a subcircolare, più larga che lunga, persistente dopo la frutt.",
+            "speciesId": "araceae_zantedeschia_aethiopica_l_spreng"
+          }
+        ]
+      },
+      {
+        "id": "a4",
+        "prompt": "4",
+        "options": [
+          {
+            "label": "Fg. pedate a segm. lanceolati; guaine maculate di nero; spata superiorm. porporino-scura",
+            "speciesId": "araceae_dracunculus_vulgaris_schott"
+          },
+          {
+            "label": "Fg. trifogliate con picciolo spesso bulbillifero nella metà inf.; spata verde",
+            "speciesId": "araceae_pinellia_ternata_thunb_ten_ex_breitenb"
+          }
+        ]
+      },
+      {
+        "id": "a5",
+        "prompt": "5",
+        "options": [
+          {
+            "label": "Fg. numerose raccolte in rosetta galleggiante",
+            "speciesId": "araceae_spirodela_polyrhiza_l_schleid"
+          },
+          {
+            "label": "Fg. natanti singole o interconnesse in gruppi",
+            "next": "a6"
+          }
+        ]
+      },
+      {
+        "id": "a6",
+        "prompt": "6",
+        "options": [
+          {
+            "label": "Fg. prive di rad. e nerv. (0,5-1,5 mm)",
+            "speciesId": "araceae_wolffia_arrhiza_l_horkel_ex_wimm"
+          },
+          {
+            "label": "Fg. con nerv e almeno 1 rad.",
+            "next": "a7"
+          }
+        ]
+      },
+      {
+        "id": "a7",
+        "prompt": "7",
+        "options": [
+          {
+            "label": "Fg. con 1 rad. sotto la lamina fglr.",
+            "next": "lemna"
+          },
+          {
+            "label": "Fg. con un fascetto di rad. sotto la lamina fglr.",
+            "speciesId": "araceae_spirodela_polyrhiza_l_schleid"
+          }
+        ]
+      },
+      {
+        "id": "lemna",
+        "prompt": "Lemna",
+        "options": [
+          {
+            "label": "L. trisulca",
+            "speciesId": "araceae_lemna_trisulca_l"
+          },
+          {
+            "label": "L. gibba",
+            "speciesId": "araceae_lemna_gibba_l"
+          },
+          {
+            "label": "L. minuta",
+            "speciesId": "araceae_lemna_minuta_kunth"
+          },
+          {
+            "label": "L. minor",
+            "speciesId": "araceae_lemna_minor_l"
+          }
+        ]
+      }
+    ]
+  }
+}
