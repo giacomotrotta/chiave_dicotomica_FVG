@@ -1,76 +1,16 @@
-:root{
-  --bg: #0b0c10;
-  --panel: #14161b;
-  --muted: #a7b0bf;
-  --text: #e7ecf3;
-  --accent: #6dc1ff;
-  --accent-2: #ffd56d;
-  --ok: #58d68d;
-  --warn: #ffb74d;
-  --err: #ff6b6b;
-  --radius: 14px;
-  --shadow: 0 8px 24px rgba(0,0,0,.25);
-  --mono: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;
-  --serif: "Iowan Old Style","Palatino Linotype","URW Palladio L", Palatino, serif;
-}
-
-*{box-sizing:border-box}
-html,body{height:100%}
-body{
-  margin:0; background:var(--bg); color:var(--text);
-  font: 16px/1.5 system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, "Noto Sans", Arial, "Apple Color Emoji","Segoe UI Emoji";
-}
-
-.container{width:min(1000px, calc(100% - 32px)); margin-inline:auto}
-
-.header{
-  display:flex; gap:12px; align-items:center; justify-content:space-between;
-  padding:18px 0;
-}
-.header h1{margin:0; font-size:clamp(20px, 3vw, 28px); letter-spacing:.2px}
-.controls{display:flex; gap:8px; align-items:center}
-
-select, button{
-  appearance:none; border:1px solid #2a2f3b; background:var(--panel); color:var(--text);
-  padding:10px 12px; border-radius:10px; box-shadow:var(--shadow);
-}
-select:focus, button:focus{outline:2px solid var(--accent); outline-offset:2px}
-button.ghost{background:transparent; border-color:#343948}
-
-.status{min-height:20px; color:var(--muted); margin:4px 0 12px}
-
-.family-title h2{margin:.2rem 0 1rem 0; font-family:var(--serif); font-size:clamp(18px, 2.4vw, 24px);}
-
-.breadcrumb{
-  display:flex; flex-wrap:wrap; gap:6px; margin: 4px 0 16px 0;
-}
-.breadcrumb button{
-  background:#1a1d24; border-color:#2b3140; font-size:14px; padding:6px 10px;
-}
-
-.key{
-  display:grid; gap:12px;
-}
-.node{
-  background: var(--panel); border:1px solid #2a2f3b; border-radius:var(--radius);
-  padding:14px; box-shadow: var(--shadow);
-}
-.node .prompt{font-weight:600; color:var(--accent-2); margin-bottom:8px}
-.node .options{display:grid; gap:8px; margin-top:6px}
-.node .options button{
-  text-align:left; width:100%; background:#1a1d24; border-color:#2b3140
-}
-.node .options button:hover{border-color:#3b4254}
-
-.species .card{
-  background: var(--panel); border:1px solid #2a2f3b; border-radius:var(--radius);
-  padding:16px; box-shadow: var(--shadow);
-}
-.sciname{font-style:italic; font-weight:600; font-size:18px}
-.vernacular{opacity:.85; margin-left:.5rem}
-.description{margin-top:.5rem; white-space:pre-wrap}
-.tags{margin-top:.5rem; font-family:var(--mono); color:var(--muted); font-size:13px}
-
-.hidden{display:none}
-.visually-hidden{position:absolute !important; width:1px; height:1px; padding:0; margin:-1px; overflow:hidden; clip:rect(0,0,0,0); white-space:nowrap; border:0}
-.footer{padding:32px 0; color:var(--muted)}
+body{font:16px/1.5 system-ui,Segoe UI,Roboto,Arial,sans-serif;margin:0;padding:0 16px}
+.container{max-width:1000px;margin:0 auto}
+.header{display:flex;align-items:center;gap:12px;padding:16px 0}
+.controls{display:flex;gap:8px}
+.family-title.hidden,.breadcrumb.hidden{display:none}
+.key{display:grid;gap:12px;margin:12px 0}
+.node{border:1px solid #ddd;border-radius:10px;padding:12px}
+.node .prompt{font-weight:700;margin-bottom:6px}
+.node .options{display:grid;gap:8px}
+.node .options button{padding:8px;border:1px solid #ccc;border-radius:8px;background:#f7f7f7}
+.species .card{border:1px solid #ddd;border-radius:10px;padding:12px}
+.sciname{font-style:italic;font-weight:700}
+.vernacular{opacity:.8;margin-left:.5rem}
+.description{margin-top:.5rem;white-space:pre-wrap}
+.status{min-height:20px;margin:8px 0 12px;color:#555}
+.footer{padding:24px 0;color:#666}
