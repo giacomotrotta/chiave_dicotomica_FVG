@@ -1,6 +1,6 @@
 // Service Worker per la PWA della chiave
 // ↑ Incrementa questa versione ad ogni aggiornamento per forzare il refresh
-const CACHE = 'flora-friulana-v1.0.1';
+const CACHE = 'flora-friulana-v1.0.2';
 
 const ASSETS = [
   './',
