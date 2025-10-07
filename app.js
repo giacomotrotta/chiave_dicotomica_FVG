@@ -55,6 +55,23 @@ async function init(){
   }
 }
 
+function clearFamilyView(){
+  const dom = {
+    famTitle: document.getElementById("familyTitle"),
+    famWrap: document.getElementById("familyTitleWrap"),
+    breadcrumb: document.getElementById("breadcrumb"),
+    key: document.getElementById("keyContainer"),
+    species: document.getElementById("speciesContainer"),
+    status: document.getElementById("status"),
+  };
+  dom.famTitle.textContent = "";
+  dom.famWrap.classList.add("hidden");
+  dom.breadcrumb.classList.add("hidden");
+  dom.key.innerHTML = "";
+  dom.species.innerHTML = "";
+  dom.status.textContent = "";
+}
+
 function normalizeFamilyKeys(input){
   // caso 1: oggetto già nel formato atteso
   if (input && typeof input === "object" && !Array.isArray(input)) {
