@@ -1,6 +1,6 @@
 /*  Flora Friulana – interfaccia robusta
     Attesi:
-      - keys_by_family.json  (oggetto { "Fam": {root,nodes,...} } OPPURE array [{family,root,nodes}])
+      - keys_by_family.json  (oggetto { "Fam": {family,root,nodes} } oppure array di blocchi)
       - species.json         (array specie)
 */
 const FILE_KEYS = "keys_by_family.json";
@@ -55,34 +55,14 @@ async function init(){
   }
 }
 
-function clearFamilyView(){
-  const dom = {
-    famTitle: document.getElementById("familyTitle"),
-    famWrap: document.getElementById("familyTitleWrap"),
-    breadcrumb: document.getElementById("breadcrumb"),
-    key: document.getElementById("keyContainer"),
-    species: document.getElementById("speciesContainer"),
-    status: document.getElementById("status"),
-  };
-  dom.famTitle.textContent = "";
-  dom.famWrap.classList.add("hidden");
-  dom.breadcrumb.classList.add("hidden");
-  dom.key.innerHTML = "";
-  dom.species.innerHTML = "";
-  dom.status.textContent = "";
-}
-
 function normalizeFamilyKeys(input){
-  // caso 1: oggetto già nel formato atteso
   if (input && typeof input === "object" && !Array.isArray(input)) {
     return input;
   }
-  // caso 2: array di blocchi {family, root, nodes} o {name, key:{root,nodes}}
   if (Array.isArray(input)) {
     const out = {};
     for (const item of input) {
       if (!item) continue;
-      // supporta diverse varianti
       const family = item.family || item.name;
       const keyObj = item.key ? item.key : item;
       if (!family || !keyObj.root || !Array.isArray(keyObj.nodes)) {
@@ -115,7 +95,6 @@ function loadFamily(familyName){
   if(!keyObj){
     return errorStatus(`Chiave mancante per “${escapeHtml(familyName)}”.`);
   }
-  // Validazione struttura
   if(!keyObj.root || !Array.isArray(keyObj.nodes)){
     return errorStatus(`Struttura non valida per “${escapeHtml(familyName)}” (manca root o nodes).`);
   }
@@ -276,7 +255,6 @@ function updateHash(extra={}){
 function escapeHtml(str){
   return String(str).replace(/[&<>"']/g, s => ({ "&":"&amp;", "<":"&lt;", ">":"&gt;", '"':"&quot;", "'":"&#039;" }[s]));
 }
-
 function errorStatus(msg){
   dom.status.innerHTML = `<span style="color:#ff6b6b">${msg}</span>`;
 }
